@@ -1,0 +1,1013 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>preloaded/pttenten23_fl6</corpus>
+  <subcorpus>TLD of Portugal .pt</subcorpus>
+  <query>
+    <subquery operation="Query" size="53781">[lempos_lc=&quot;(transferir)-v&quot;]</subquery>
+    <subquery operation="Random sample" size="200">200</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="philips.pt" num="0" label="_">
+    <left>,/x  disponível/j  sempre/r  que/c  precisar/v  Ecografias/n  imediatas/j  em/i  qualquer/x  local/n  ou/c  circunstância/n &lt;/s&gt;&lt;s&gt; Reproduzir/v  vídeo/n &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Transfira/v</kwic>
+    <right> a/x  aplicação/n &lt;/s&gt;&lt;s&gt; A/x  robusta/j  aplicação/n  Lumify/n  está/v  disponível/j  para/i  dispositivos/j  Android/n  compatíveis/j  através/r  da/i  Google/n  Play/n</right>
+  </line>
+  <line refs="pulmocor.pt" num="1" label="_">
+    <left>táctil/j ,/x  que/p  permite/v  escolher/v  as/x  diferentes/j  opções/n  pelo/i  simples/j  toque/n  no/i  ecrã/n ./x &lt;/s&gt;&lt;s&gt; Os/x  exames/n  efectuados/v  podem/v  ser/v</left>
+    <kwic> transferidos/v</kwic>
+    <right> para/i  um/x  computador/n  para/i  armazenamento/n ,/x  análise/n  e/c  comparação/n ,/x  ou/c  directamente/r  impressos/j  numa/i  impressora/n  HP/n ./x &lt;/s&gt;</right>
+  </line>
+  <line refs="tribunadamadeira.pt" num="2" label="_">
+    <left>,/x  México/n ,/x  Belize/n  ou/c  Honduras/n ,/x  desde/i  €1.129p.p/m ./x */x  com/i  a/x  promoção/n  '/x Prontos/n  para/i  Cuba/n '/x  que/p  inclui/v  o/x  pacote/n  cruzeiro/j ,/x</left>
+    <kwic> transferes/v</kwic>
+    <right> e/c  voos/n  incluídos/v  da/i  MSC/n  Cruzeiros/j ./x &lt;/s&gt;&lt;s&gt; Esta/x  nova/j  campanha/n  permite/v  aos/i  viajantes/j  conhecerem/v  o/x  Mar/n  das/i  Caraíbas/n  a/i  bordo/n  dos/i</right>
+  </line>
+  <line refs="sapo.pt" num="3" label="_">
+    <left>por/i  proprietários/n  não/r  ter/v  sido/v  discutido/v  ou/c  aprovado/v  hoje/r ,/x  a/x  proposta/n ,/x  que/p  &quot;/x vai/v  estar/v  em/i  cima/n  da/i  mesa/n  no/i  próximo/j  CM/n  &quot;/x é/v  a/p  de/i</left>
+    <kwic> transferir/v</kwic>
+    <right> a/x  data/n  de/i  15/m  de/i  março/n  para/i  15/m  de/i  maio/n ,/x  naquilo/i  que/p  é/v  a/x  responsabilidade/n  dos/i  particulares/n ,/x  e/c  das/i  autarquias/n  depois/r  até/r  ao/i</right>
+  </line>
+  <line refs="sbn.pt" num="4" label="_">
+    <left>onde/r  resida/v ./x &lt;/s&gt;&lt;s&gt; 2/m ./x &lt;/s&gt;&lt;s&gt; Quando/r  o/x  trabalhador/n  exerça/v  a/x  sua/x  actividade/n  nos/i  Concelhos/n  de/i  Coimbra/n ,/x  Lisboa/n  ou/c  Porto/n ,/x  pode/v  ser/v</left>
+    <kwic> transferido/v</kwic>
+    <right> para/i  Concelhos/n  limítrofes/j  do/i  respectivo/j  local/n  de/i  trabalho/n ;/x  no/i  caso/n  de/i  Lisboa/n  não/r  se/p  consideram/v  limítrofes/j  os/x</right>
+  </line>
+  <line refs="pcp.pt" num="5" label="_">
+    <left>para/i  a/x  região/n  administrativa/j  nos/i  termos/n  do/i  presente/j  diploma/n ./x &lt;/s&gt;&lt;s&gt; (/x Transferência/n  de/i  pessoal/n )/x &lt;/s&gt;&lt;s&gt; Será/v  igualmente/r</left>
+    <kwic> transferido/v</kwic>
+    <right>,/x  mediante/i  protocolos/n  e/c  após/i  a/x  audição/n  das/i  organizações/n  representativas/j ,/x  o/x  pessoal/j  afecto/n  aos/i  serviços/n  referidos/v  no/i</right>
+  </line>
+  <line refs="sony.pt" num="6" label="_">
+    <left>entre/i  no/i  modo/n  de/i  suspensão/n  ou/c  hibernação/n  (/x interrompendo/v  a/x  atualização/n )/x ,/x  recomece/v  o/x  processo/n  desde/i  o/x  início/n ./x &lt;/s&gt;&lt;s&gt; Como/p</left>
+    <kwic> transferir/v</kwic>
+    <right> o/x  System/n  Software/n  Updater/n :/x &lt;/s&gt;&lt;s&gt; Certifique-se/v  de/i  que/p  iniciou/v  a/x  sessão/n  como/c  utilizador/n  com/i  direitos/n  de/i  administrador/n ./x &lt;/s&gt;</right>
+  </line>
+  <line refs="nintendo.pt" num="7" label="_">
+    <left>sequências/n  de/i  palavras/n  para/i  ganhar/v  pontos/n  bônus/n ./x  -/x  Novas/j  palavras/n  são/v  adicionadas/v  toda/x  semana/n ./x &lt;/s&gt;&lt;s&gt; Não/r  é/v  possível/j</left>
+    <kwic> transferir/v</kwic>
+    <right> uma/x  Conta/n  Nintendo/n  supervisionada/v &lt;/s&gt;&lt;s&gt; Informações/n  adicionais/j &lt;/s&gt;&lt;s&gt; As/x  Contas/n  Nintendo/n  supervisionadas/v  (/x normalmente/r  para/i</right>
+  </line>
+  <line refs="onedirect.pt" num="8" label="_">
+    <left>&quot;/x ./x &lt;/s&gt;&lt;s&gt; Além/r  disso/i ,/x  graças/n  ao/i  seu/x  display/n  LCD/n  retroiluminado/v ,/x  poderá/v  utilizar/v  rápida/j  e/c  facilmente/r  todas/x  as/x  funções/n ./x &lt;/s&gt;&lt;s&gt; Poderá/v</left>
+    <kwic> transferir/v</kwic>
+    <right> todas/x  as/x  suas/x  gravações/n  ao/i  seu/x  PC/n  ou/c  Mac/n  através/r  de/i  USB/n ,/x  com/i  a/x  instalação/n  do/i  software/n  DSS/n  Player/n  (/x incluído/v )/x ./x &lt;/s&gt;&lt;s&gt; Para/i  gravar/v</right>
+  </line>
+  <line refs="intermedia.pt" num="9" label="_">
+    <left>distâncias/n  -/x  até/i  600/m  m/n  da/i  fonte/n ./x &lt;/s&gt;&lt;s&gt; O/x  extensor/n  transmite/v  fluxos/n  audiovisuais/j  da/i  fonte/n  local/j  e/c  dispõe/v  em/i  série/n  os/x  dados/n  para/i</left>
+    <kwic> transferi-los/v</kwic>
+    <right> através/r  de/i  um/x  único/j  vínculo/n  óptico/j  de/i  3,125Gbps/m  para/i  resoluções/n  de/i  até/r  1920/m  x/n  1200/m  @/x  60Hz/m  de/i  24/m  bits/n  com/i  qualidade/n  de/i</right>
+  </line>
+  <line refs="centenariorepublica.pt" num="10" label="_">
+    <left>foi/v  extinto/v ,/x  sendo/v  criado/v  outro/p  no/i  próprio/j  Instituto/n  Industrial/j  e/c  Comercial/j  de/i  Coimbra/n ,/x  o/p  qual/p ,/x  em/i  Janeiro/n  de/i  1926/m ,/x  foi/v</left>
+    <kwic> transferido/v</kwic>
+    <right> para/i  a/x  Escola/n  Brotero/n ,/x  a/i  funcionar/v  em/i  turmas/n  separadas/v  das/i  restantes/n ./x &lt;/s&gt;&lt;s&gt; Em/i  1924/m ,/x  o/x  Decreto/n  no/i  9721/m ,/x  de/i  23/m  de/i  Março/n ,/x</right>
+  </line>
+  <line refs="jcr.pt" num="11" label="_">
+    <left>,/x  perseguir/v  os/x  nossos/x  interesses/n  comerciais/j  legítimos/j  listados/j  acima/r ./x &lt;/s&gt;&lt;s&gt; Tenha/v  em/i  atenção/n  que/p  a/x  sua/x  informação/n  será/v</left>
+    <kwic> transferida/v</kwic>
+    <right> para/i  fora/r  da/i  Europa/n ,/x  incluindo/v  para/i  o/x  Canadá/n  e/c  para/i  os/x  Estados/n  Unidos/v ./x &lt;/s&gt;&lt;s&gt; RETENÇÃO/n  DE/i  DADOS/n &lt;/s&gt;&lt;s&gt; Quando/r  realizar/v  uma/x  encomenda/n</right>
+  </line>
+  <line refs="dgsi.pt" num="12" label="_">
+    <left>falecido/v  e/c ,/x  tendo/v  aproveitado/v  a/x  oportunidade/n  para/i  dizer/v  que/c  pretendia/v  que/c  a/x  pensão/n  paga/j  pela/i  Segurança/n  Social/j  fosse/v</left>
+    <kwic> transferida/v</kwic>
+    <right> para/i  uma/x  nova/j  conta/n ./x &lt;/s&gt;&lt;s&gt; Nada/p  tem/v  a/i  ver/v  com/i  a/x  trabalhadora/n ./x &lt;/s&gt;&lt;s&gt; 35a/m &lt;/s&gt;&lt;s&gt; O/x  mesmo/p  se/p  diga/v  quanto/r  ao/i  ponto/n  20/m  que/p  se/p  limita/v  a/i  fazer/v  constar/v</right>
+  </line>
+  <line refs="dgsi.pt" num="13" label="_">
+    <left>tratar-se/v  do/i  receio/n  de/i  que/c  o/x  devedor/j  venda/n  os/x  seus/x  bens/n  (/x como/c  quando/r  se/p  prove/v  que/c  [/x já/r ]/x  está/v  tentando/v  fazê-lo/v  [/x .../x ]/x )/x  ou/c  os/p</left>
+    <kwic> transfira/v</kwic>
+    <right> para/i  o/x  estrangeiro/n  (/x está/v ,/x  por/i  exemplo/n ,/x  ameaçando/v  fazê-lo/v ,/x  ou/c  já/r  transferiu/v  alguns/x  [/x .../x ]/x )/x ,/x  ou/c  de/i  qualquer/x  outra/x</right>
+  </line>
+  <line refs="dgsi.pt" num="14" label="_">
+    <left>referidos/v  de/i  5.750.000,00/m €/x  e/c  de/i  3.366/m  725,25/m €/x ;/x  200/m )/x  -/x  Em/i  Março/n  de/i  2007/m ,/x  os/x  arguidos/v  BB/n ,/x  CC/n ,/x  GG/n  e/c  HH/n ,/x  acordaram/v  em/i</left>
+    <kwic> transferir/v</kwic>
+    <right>,/x  de/i  novo/j ,/x  os/x  referidos/v  financiamentos/n ,/x  decidindo/v  então/r  reestruturar/v  a/x  dívida/n  e/c  colocar/v  parte/n  dos/i  mesmos/x</right>
+  </line>
+  <line refs="apagina.pt" num="15" label="_">
+    <left>calada/v ./x &lt;/s&gt;&lt;s&gt; Intimidade/n  cujo/p  solfejo/n  é/v  uníssono/j :/x  quando/r  um/x  sente/v  que/c  o/x  seu/x  é/v  do/i  outro/p ,/x  enquanto/r  o/x  outro/x  pensa/v  que/c  o/x  seu/x  ficou/v</left>
+    <kwic> transferido/v</kwic>
+    <right>./x &lt;/s&gt;&lt;s&gt; E/c  vamos/v  cantando/v  esse/x  nós/p  que/p  nos/p  queremos/v  tanto/r ./x &lt;/s&gt;&lt;s&gt; E/c  vamos/v  programando/v  o/x  apoio/n  de/i  si/p  pelo/v  outro/p  e/c  do/i  outro/x  pelo/v  si/p ./x &lt;/s&gt;</right>
+  </line>
+  <line refs="sapo.pt" num="16" label="_">
+    <left>outras/x  povoações/n  nos/i  arredores/n  enfrentam/v  atrasos/n  na/i  capacidade/n  de/i  prestação/n  de/i  cuidados/n  ou/c  simplesmente/r  não/r  podem/v</left>
+    <kwic> transferir/v</kwic>
+    <right> os/x  doentes/n  críticos/j  para/i  os/x  hospitais/n  nas/i  cidades/n  maiores/j ,/x  tendo/v  de/i  tomar/v  medidas/n  de/i  emergência/n  para/i  tentar/v  dar/v</right>
+  </line>
+  <line refs="monumentos.pt" num="17" label="_">
+    <left>da/i  Câmara/n  Municipal/j  de/i  Lisboa/n ;/x  1911/m  -/x  o/x  instituto/n  passou/v  para/i  a/x  alçada/n  do/i  Ministério/n  da/i  Instrução/n  Pública/j ;/x  1912/m  -/x  foi/v</left>
+    <kwic> transferido/v</kwic>
+    <right> para/i  o/x  Campo/n  Mártires/n  da/i  Pátria/n  de/i  forma/n  a/i  ficar/v  mais/r  próximo/j  da/i  Faculdade/n  de/i  Medicina1926/n  -/x  passou/v  para/i  a/x  dependência/n</right>
+  </line>
+  <line refs="behindnature.pt" num="18" label="_">
+    <left>workshop/n ./x &lt;/s&gt;&lt;s&gt; Na/i  impossibilidade/n  do/i  participante/n  comparecer/v  nessa/i  nova/j  data/n ,/x  será/v  devolvida/v  a/x  totalidade/n  do/i  montante/n  já/r</left>
+    <kwic> transferido/v</kwic>
+    <right>&lt;/s&gt;&lt;s&gt; A/x  Behindnature/n  não/r  tem/v  nem/c  assumirá/v  qualquer/x  responsabilidade/n  por/i  prejuízos/n ,/x  danos/n ,/x  despesas/n  ou/c  inconvenientes/j  que/p</right>
+  </line>
+  <line refs="sapo.pt" num="19" label="_">
+    <left>e/c  sem/i  ter/v  lido/v  qualquer/x  review/n .../x &lt;/s&gt;&lt;s&gt; Já/r  agora/r ,/x  quem/p  liga/v  o/x  iPhone/n  pela/i  primeira/j  vez/n  é/v  avisado/v  que/c  se/p  não/r  actualizar/v  e/c  tentar/v</left>
+    <kwic> transferir/v</kwic>
+    <right> os/x  seus/x  dados/n  o/x  tlm/n  vai/v  ficar/v  bloqueado/v ?/x &lt;/s&gt;&lt;s&gt; É/v  que/c  se/p  não/r  avisa/v  os/x  utilizadores/n  que/p  não/r  a/i  ler/v  tudo/p  o/p  que/p  se/p  escreve/v  por/i  essa/x  net/n</right>
+  </line>
+  <line refs="mundodosguardaredes.pt" num="20" label="_">
+    <left>do/i  Académico/n  de/i  Viseu/n  com/i  contrato/n  até/i  junho/n  de/i  2019/m ./x &lt;/s&gt;&lt;s&gt; Internacional/j  pela/n  Guiné-Bissau/n ,/x  o/x  guarda-redes/n  de/i  27/m  anos/n</left>
+    <kwic> transferiu-se/v</kwic>
+    <right> para/i  os/x  Viseenses/n  após/i  uma/x  temporada/n  em/i  que/p  sofreu/v  doze/m  golos/n  em/i  24/m  presenças/n  pelo/i  SC/n  Salgueiros/n  no/i  Campeonato/n  de/i</right>
+  </line>
+  <line refs="quali.pt" num="21" label="_">
+    <left>de/i  lesões/n  leves/j  até/i  a/x  vida/n  vegetativa/j  ou/c  à/i  morte/n ./x &lt;/s&gt;&lt;s&gt; O/x  metilmercúrio/n ,/x  por/i  possuir/v  alta/j  solubilidade/n  em/i  gorduras/n ,/x  pode/v  ser/v</left>
+    <kwic> transferido/v</kwic>
+    <right> do/i  sangue/n  da/i  mãe/n  para/i  o/x  filho/n  através/r  da/i  placenta/n ,/x  pois/c  o/x  bebé/n  é/v  mais/r  sensível/j  a/x  pequenas/j  doses/n  de/i  mercúrio/n  do/i  que/p</right>
+  </line>
+  <line refs="apagina.pt" num="22" label="_">
+    <left>social/j  do/i  que/p  como/r  instrumento/v  de/i  aperfeiçoamento/n  pessoal/j ./x &lt;/s&gt;&lt;s&gt; Com/i  efeito/n ,/x  a/x  teoria/n  e/c  a/x  prática/n  educacional/j  mais/r  recente/j</left>
+    <kwic> transferiram/v</kwic>
+    <right> a/x  base/n  filosófica/j  da/i  educação/n  do/i  político/n  para/i  o/x  técnico/n ,/x  onde/r  a/x  primazia/n  é/v  entregue/j  à/i  eficácia/n  e/c  ao/i  controlo/n ./x &lt;/s&gt;&lt;s&gt; A/x</right>
+  </line>
+  <line refs="slbenfica.pt" num="23" label="_">
+    <left>-/x  Sete/n  Rios/n  -/x  construído/v  num/i  terreno/n  alugado/v ,/x  a/x  Quinta/n  Nova/j ,/x  onde/r  esteve/v  durante/i  4/m  temporadas/n  (/x 1913/14/m  a/i  1916/17/m )/x ,/x</left>
+    <kwic> transferindo-se/v</kwic>
+    <right> depois/r  para/i  um/x  espaço/n  que/p  oferecia/v  melhores/j  condições/n  após/i  obras/n  de/i  melhoramento/n ./x &lt;/s&gt;&lt;s&gt; A/x  intenção/n  era/v  continuar/v  em/i  Sete/n</right>
+  </line>
+  <line refs="hsnstore.pt" num="24" label="_">
+    <left>trem/n  inferior/j ,/x  esta/p  não/r  será/v  menos/r ./x &lt;/s&gt;&lt;s&gt; Deve/v  ir/v  alternando/v  na/i  rotina/n ,/x  e/c  incluir/v  esta/x  opção/n ,/x  que/p  ao/i  mesmo/p  tempo/n  irá/v  te/p  ajudar/v  a/i</left>
+    <kwic> transferir/v</kwic>
+    <right> ao/i  agachamento/n  profundo/j ./x &lt;/s&gt;&lt;s&gt; Anota/v  as/x  suas/x  marcas/n &lt;/s&gt;&lt;s&gt; É/v  muito/r  importante/j  ir/v  registando/v  os/x  treinos/n  que/p  realize/v ,/x  e/c  do/i  mesmo/p  modo/n ,/x</right>
+  </line>
+  <line refs="sapo.pt" num="25" label="_">
+    <left>um/x  reset/n  ao/i  iPhone/n ,/x  mesmo/r  que/c  no/i  iPhone/n  já/r  exista/v  um/x  WhatsApp/n  em/i  utilização/n ,/x  já/r  com/i  mensagens/n ./x &lt;/s&gt;&lt;s&gt; Isto/p  é/v ,/x  as/x  novas/j  mensagens/n</left>
+    <kwic> transferidas/v</kwic>
+    <right> serão/v  incluídas/v  nas/i  já/r  existentes/j ,/x  não/r  ocorrendo/v  eliminação/n  de/i  conteúdos/n ./x &lt;/s&gt;&lt;s&gt; E/c  os/x  anexos/n  do/i  WhatsApp/n ,/x  também/r  se/p  mantêm/v ?/x &lt;/s&gt;</right>
+  </line>
+  <line refs="uminho.pt" num="26" label="_">
+    <left>do/i  método/n  dos/i  elementos/n  finitos/j ./x &lt;/s&gt;&lt;s&gt; Em/i  1969/m  Luís/n  Braga/n  da/i  Cruz/n ,/x  com/i  o/x  apoio/n  do/i  Professor/n  Correia/n  de/i  Araújo/n ,/x  &quot;/x </left>
+    <kwic>transfere/v</kwic>
+    <right>&quot;/x  o/x  Elliot/n  803/m  -/x  B/n  do/i  LNEC/n  para/i  a/x  FEUP/n  -/x  Faculdade/n  de/i  Engenharia/n  do/i  Porto/n ./x &lt;/s&gt;&lt;s&gt; O/x  Sistema/n  permanece/v  em/i  funcionamento/n  no/i  Centro/n  de/i</right>
+  </line>
+  <line refs="noticiasdealmeirim.pt" num="27" label="_">
+    <left>do/i  século/n  passado/v ./x &lt;/s&gt;&lt;s&gt; O/x  Expresso/n  já/r  tinha/v  noticiado/v ,/x  no/i  fim/n  de/i  semana/n ,/x  que/c  a/x  offshore/n  com/i  sede/n  nas/i  Ilhas/n  Virgens/j  Britânicas/j</left>
+    <kwic> transferiu/v</kwic>
+    <right> 18,5_milhões/m  de/i  euros/n  para/i  uma/x  conta/n  aberta/j  em/i  nome/n  do/i  executivo/n  num/i  banco/n  estrangeiro/j ./x &lt;/s&gt;&lt;s&gt; Agora/r ,/x  o/x  Observador/n</right>
+  </line>
+  <line refs="mundodosguardaredes.pt" num="28" label="_">
+    <left>,/x  e/c  Adriano/n  Facchini/n ,/x  herói/n  de/i  Barcelos/n ,/x  que/p  voltou/v  a/x  Portugal/n  para/i  assegurar/v  a/x  substituição/n  do/i  jovem/n  Rui/v  Silva/n ,/x</left>
+    <kwic> transferido/v</kwic>
+    <right> para/i  o/x  aflito/j  Granada/n ,/x  no/i  Nacional/j  Madeira/n ./x &lt;/s&gt;&lt;s&gt; Entre/i  os/x  portugueses/n ,/x  nota/n  para/i  o/x  retorno/n  de/i  Cristiano/n  Figueiredo/n ,/x</right>
+  </line>
+  <line refs="dre.pt" num="29" label="_">
+    <left>de/i  programas/n  destinado/v  à/i  construção/n  naval/j  ligada/v  às/i  pescas/n ;/x &lt;/s&gt;&lt;s&gt; vvvv/n )/x  O/x  Decreto-Lei/n  n/n ./x o/x  522/79/m ,/x  de/i  31/m  de/i  dezembro/n ,/x  que/p</left>
+    <kwic> transfere/v</kwic>
+    <right> para/i  a/x  Região/n  Autónoma/j  dos/i  Açores/n  determinadas/v  atribuições/n  e/c  competências/n  da/i  Direção-Geral/n  da/i  Qualidade/n ;/x &lt;/s&gt;&lt;s&gt; wwww/n )/x  O/x</right>
+  </line>
+  <line refs="dgsi.pt" num="30" label="_">
+    <left>valer/v  atempadamente/r  os/x  seus/x  direitos/n ,/x  dado/v  o/x  facto/n  de/i  a/x  venda/n  deles/i  só/r  ser/v  possível/j  uma/x  vez/n  e/c  de/i  para/i  o/x  seu/x  produto/n  serem/v</left>
+    <kwic> transferidos/v</kwic>
+    <right> todos/x  os/x  direitos/n  reais/j  (/x cfr/n ./x ,/x  nomeadamente/r ,/x  artos/n  864/m  e/c  871/m ,/x  do/i  CPC/n )/x ./x &lt;/s&gt;&lt;s&gt; Ora/r  considerando/v ,/x  por/i  um/x  lado/n ,/x  que/c  os/x  direitos/n</right>
+  </line>
+  <line refs="dgsi.pt" num="31" label="_">
+    <left>,/x  qualquer/p  que/p  seja/v  o/x  sentido/n ,/x  o/x  acordo/n  foi/v ,/x  então/r ,/x  mera-mente/r  verbal/j ;/x  no/i  mais/r ,/x  porém/c ,/x  emergindo/v  alguma/x  ambiguidade/n ,/x</left>
+    <kwic> transferida/v</kwic>
+    <right> aliás/r  de/i  igual/j  forma/n  para/i  a/x  redacção/n  encontrada/v ,/x  em/i  particular/n ,/x  para/i  o/x  quesito/n  1o/m ./x &lt;/s&gt;&lt;s&gt; É/v  que/c ,/x  na/i  1a/m  hipótese/n ,/x  o/x  contrato/n  terá/v</right>
+  </line>
+  <line refs="worldgate.pt" num="32" label="_">
+    <left>o/x  disco/n  rigido/v  ou/c  cartão/n  de/i  memória/n  da/i  Xbox/n  360/m  ao/i  dock/n ,/x e/c  depois/r  ligá-lo/v  ao/i  seu/x  PC/n  através/r  da/i  porta/n  USB/n ./x &lt;/s&gt;&lt;s&gt; Poderá/v  também/r</left>
+    <kwic> transferir/v</kwic>
+    <right> ficheiros/n  do/i  PC/n  para/i  o/x  disco/n  rigido/v  da/i  consola/n ,/x  e/c  assim/r  inspeccionar/v ,/x  modificar/v  e/c  instalar/v  os/x  seus/x  próprios/j  ficheiros/n</right>
+  </line>
+  <line refs="dn.pt" num="33" label="_">
+    <left>no/i  Conselho/n ./x &lt;/s&gt;&lt;s&gt; Alguns/p  dirão/v :/x  bem/r ,/x  vamos/v  lá/r  ver/v ,/x  isto/p  não/r  pode/v  ser/v  feito/v  por/i  Bruxelas/n ./x &lt;/s&gt;&lt;s&gt; O/x  dinheiro/n  deve/v  simplesmente/r  ser/v</left>
+    <kwic> transferido/v</kwic>
+    <right> para/i  nós/p ,/x  os/x  governos/n  nacionais/j  e/c  estamos/v  mais/r  bem/r  preparados/v  para/i  decidir/v  como/c  o/x  gastar/v ./x &lt;/s&gt;&lt;s&gt; Outro/x  grupo/n  de/i  países/n  no/i</right>
+  </line>
+  <line refs="tsf.pt" num="34" label="_">
+    <left>aproximou/v  dele/i  e/c  disparou/v  a/i  uma/x  distância/n  de/i  cerca/r  de/i  dois/m  metros/n ./x &lt;/s&gt;&lt;s&gt; As/x  equipas/n  de/i  emergência/n  médica/j  estabilizaram-no/v  e/c</left>
+    <kwic> transferiram-no/v</kwic>
+    <right> para/i  o/x  Hospital/n  Universitário/j  de/i  La/p  Princesa/n ./x &lt;/s&gt;&lt;s&gt; Os/x  primeiros/j  pormenores/n  referem/v  que/c  o/x  atirador/n  trata-se/v  de/i  um/x  indivíduo/n</right>
+  </line>
+  <line refs="dgsi.pt" num="35" label="_">
+    <left>até/i  que/c  se/p  verifique/v  o/x  pagamento/n  das/i  respetivas/j  Notas/n  de/i  Despesas/n  e/c  Honorários/n ,/x  altura/n  em/i  que/p  também/r  eles/p  serão/v</left>
+    <kwic> transferidos/v</kwic>
+    <right> para/i  a/x  Conta-Cliente/n  da/i  Senhora/n  S./n  E./n  F./n .../x  Contrariamente/r  ao/i  invocado/v  pelo/i  I./n  Mandatário/n  no/i  ponto/n  11/m ./x  do/i  seu/x</right>
+  </line>
+  <line refs="dgsi.pt" num="36" label="_">
+    <left>para/i  o/x  Centro/n  Hospitalar/j  do/i  Alto/j  Minho/n  em/i  Viana/n  do/i  Castelo/n  e/c  após/i ,/x  dada/v  a/i  gravidade/n  das/i  lesões/n  que/c  apresentada/v ,/x</left>
+    <kwic> transferida/v</kwic>
+    <right> para/i  o/x  Hospital/n  de/i  S./n  Marcos/n ,/x  em/i  Braga/n ,/x  onde/r  foi/v  assistida/v  e/c  tratada/v ./x &lt;/s&gt;&lt;s&gt; As/x  lesões/n  sofridas/v  pela/i  autora/n  provocaram-lhe/v</right>
+  </line>
+  <line refs="dgsi.pt" num="37" label="_">
+    <left>com/i  a/x  venda/n ,/x  só/r  que/c  nesta/i  parte/n  não/r  considerou/v  o/p  por/i  esta/x  declarado/v ./x &lt;/s&gt;&lt;s&gt; E/c  ainda/r ,/x  Escreve/v  o/x  tribunal/n  que/p  por/i  estar/v  de/i  pulseira/n</left>
+    <kwic> transferiu/v</kwic>
+    <right> para/i  a/x  mulher/n  algumas/p  das/i  actuações/n ./x &lt;/s&gt;&lt;s&gt; Donde/i  retira/v  o/x  tribunal/n  tal/x  conclusão/n ?/x &lt;/s&gt;&lt;s&gt; A/x  A./n ./x ./x  não/r  vendia/v  antes/r  de/i  este/p  ter/v  vindo/v</right>
+  </line>
+  <line refs="dgsi.pt" num="38" label="_">
+    <left>de/i  seguro/n ,/x  este/x  titulado/j  pela/i  apólice/n  n/n ./x o/x  .../x ,/x  com/i  início/n  em/i  30/m  de/i  Maio/n  de/i  2014/m  e/c  para/i  vigorar/v  por/i  um/x  ano/n ,/x  pelo/n  qual/p  foi/v</left>
+    <kwic> transferida/v</kwic>
+    <right> para/i  a/x  ré/n  &quot;/x A./n ./x ./x &quot;/x  a/x  responsabilidade/n  civil/j  emergente/j  da/i  circulação/n  rodoviária/j  do/i  veículo/n  ./x ./x -/x DJ/n -/x ./x ./x ;/x  16.F/m  -/x  Esse/x  novo/j</right>
+  </line>
+  <line refs="amlameiras.pt" num="39" label="_">
+    <left>de/i  pessoas/n  à/i  cidade/n ,/x  não/r  chegou/v  a/i  realizar-se/v  devido/v  ao/i  tempo/n  incerto/j  que/p  se/p  fazia/v  sentir/v  naquele/i  dia/n ,/x  tendo/v  sido/v</left>
+    <kwic> transferido/v</kwic>
+    <right> para/i  o/x  Pavilhão/n  Municipal/j ./x &lt;/s&gt;&lt;s&gt; Muitas/x  instituições/n  optaram/v  até/r  por/i  não/r  se/p  deslocarem/v  e/c  festejar/v  o/x  corso/n  carnavalesco/j  no/i</right>
+  </line>
+  <line refs="acupunturaemlisboa.pt" num="40" label="_">
+    <left>,/x  que/p  lhe/p  são/v  únicas/j ,/x  e/c  estudos/n  que/p  envolvam/v  esse/x  aspeto/n  não/r  podem/v  tirar/v  conclusões/n  relevantes/j  passíveis/j  de/i  ser/v</left>
+    <kwic> transferidas/v</kwic>
+    <right> para/i  outros/x  países/n  ricos/j ./x &lt;/s&gt;&lt;s&gt; Em/i  terceiro/j  lugar/n  a/i  realidade/n  religiosa/j  dos/i  EUA/n  está/v  completamente/r  desfasada/v  da/i  amostra/n</right>
+  </line>
+  <line refs="dgsi.pt" num="41" label="_">
+    <left>,/x  a/x  memória/n  de/i  longo/j  prazo/n ,/x  é/v  a/x  informação/n  que/p  fica/v  durante/i  muito/x  tempo/n ./x &lt;/s&gt;&lt;s&gt; Os/x  sistemas/n  de/i  curto/j  e/c  longo/j  prazo/n  estão/v  ligados/v ,/x</left>
+    <kwic> transferindo/v</kwic>
+    <right> informações/n  de/i  um/m  para/i  outro/p ./x &lt;/s&gt;&lt;s&gt; Toda/x  informação/n  passa/v  primeiramente/r  pela/i  memória/n  de/i  trabalho/n ./x &lt;/s&gt;&lt;s&gt; Se/c  ela/p  tiver/v  algum/x  valor/n ,/x</right>
+  </line>
+  <line refs="pcp.pt" num="42" label="_">
+    <left>levada/v  a/i  cabo/n  nos/i  últimos/j  anos/n  na/i  Alta/n  do/i  Lumiar/n ./x &lt;/s&gt;&lt;s&gt; Através/r  de/i  um/x  contrato/n  assinado/v  entre/i  o/x  Município/n  e/c  a/x  SGAL/n ,/x  o/x  Município/n</left>
+    <kwic> transfere/v</kwic>
+    <right> para/i  a/x  SGAL/n  terrenos/n  e/c  recebe/v  em/i  troca/n  equipamentos/n ,/x  construções/n  e/c  outros/x  bens/n  ou/c  ainda/r  numerário/j ./x  2/m ./x &lt;/s&gt;&lt;s&gt; O/x  valor/n  de/i</right>
+  </line>
+  <line refs="nintendo.pt" num="43" label="_">
+    <left>na/i  página/n  do/i  jogo/n  com/i  um/x  símbolo/n  especial/j ./x &lt;/s&gt;&lt;s&gt; O/x  programa/n  de/i  transferência/n  de/i  dados/n  de/i  Monster/n  Hunter/n  3/m  Ultimate/n  permite-te/v</left>
+    <kwic> transferir/v</kwic>
+    <right> os/x  ficheiros/n  de/i  jogo/n  da/i  versão/n  Nintendo/n  3DS/m  para/i  a/x  tua/j  Wii/n  U/n  e/c  vice-versa/n ,/x  para/i  que/c  possas/v  jogar/v  em/i  casa/n ,/x  em/i  HD/n ,/x  e/c  onde/r  quer/v</right>
+  </line>
+  <line refs="sapo.pt" num="44" label="_">
+    <left>Exotic/n  obrigado/v  a/i  ceder/v  o/x  parque/n  à/i  rival/n  que/p  mandou/v  matar/v &lt;/s&gt;&lt;s&gt; O/x  tribunal/n  conseguiu/v  provar/v  que/c ,/x  em/i  meados/n  de/i  2011/m ,/x  Joe/n  Exotic/n</left>
+    <kwic> transferiu/v</kwic>
+    <right> o/x  parque/n  exótico/j  para/i  a/x  mãe/n  de/i  forma/n  ilegal/j  para/i  fugir/v  a/x  credores/n  fiscais/j ./x &lt;/s&gt;&lt;s&gt; A/x  história/n  bizarra/j  de/i  Joe/n  Exotic/n  continua/v  a/i</right>
+  </line>
+  <line refs="nutricionista.com.pt" num="45" label="_">
+    <left>do/i  organismo/n  são/v  controlados/v  por/i  metalo-enzimas/n  e/c  enzimas/n  que/p  contêm/v  um/x  ião/n  de/i  metal/n  na/i  sua/x  estrutura/n ./x &lt;/s&gt;&lt;s&gt; Estas/x  enzimas/n</left>
+    <kwic> transferem/v</kwic>
+    <right> um/x  electrão/n  do/i  ião/n  de/i  metal/n  para/i  o/x  radical/n  livre/j  e/c ,/x  desta/i  forma/n ,/x  diminuem/v  a/x  sua/x  capacidade/n  de/i  reacção/n ./x &lt;/s&gt;&lt;s&gt; Estas/x  enzimas/n</right>
+  </line>
+  <line refs="sapo.pt" num="46" label="_">
+    <left>período/n  para/i  sete/m  ou/c  noventa/m  dias/n  –/x  pode/v  alterar/v  isto/p  nas/i  '/x Definições/n  de/i  sincronização/n '/x ,/x  assim/r  como/c  escolher/v  se/p  quer/v</left>
+    <kwic> transferir/v</kwic>
+    <right> os/x  anexos/n  –/x  pode/v  ver/v  também/r  quanto/r  é/v  que/c  os/x  seus/x  emails/n  vão/v  ocupar/v  quando/r  estiverem/v  no/i  computador/n ./x &lt;/s&gt;&lt;s&gt; 4/m  –/x  O/x  Gmail/n  dá-lhe/v  ainda/r</right>
+  </line>
+  <line refs="iscte-iul.pt" num="47" label="_">
+    <left>./x &lt;/s&gt;&lt;s&gt; Deferir/v  e/c  diferir/v &lt;/s&gt;&lt;s&gt; O/x  verbo/n  diferir/v ,/x  além/r  do/i  significado/n  de/i  &quot;/x divergir/v &quot;/x ,/x  assume/v  também/r  o/x  significado/n  de/i  &quot;/x adiar/v ,/x</left>
+    <kwic> transferir/v</kwic>
+    <right> para/i  outra/x  data/n &quot;/x ./x &lt;/s&gt;&lt;s&gt; Por/i  exemplo/n :/x  &quot;/x O/x  júri/n  diferiu/v  o/x  prazo/n  do/i  concurso/n ./x &quot;/x &lt;/s&gt;&lt;s&gt; O/x  verbo/n  deferir/v  significa/v  &quot;/x aprovar/v ,/x  conceder/v ,/x</right>
+  </line>
+  <line refs="dgsi.pt" num="48" label="_">
+    <left>do/i  Setor/n  Bancário/j ./x  50.O/m  Autor/n  renunciou/v  sempre/r  a/i  assinar/v  qualquer/x  acordo/n  de/i  cessação/n  do/i  contrato/n  de/i  trabalho/n ./x  51.A/m  Ré/n</left>
+    <kwic> transferiu/v</kwic>
+    <right> o/x  Autor/n  para/i  a/x  DRBM/n ./x  52.Na/m  época/n  da/i  contratação/n  do/i  Autor/n ,/x  a/x  Ré/n  tinha/v  uma/x  política/n  de/i  remuneração/n  muito/r  genuína/j  que/p  se/p</right>
+  </line>
+  <line refs="dgsi.pt" num="49" label="_">
+    <left>31/m  de/i  agosto/n  e/c  28/m  de/i  setembro/n  de/i  2018/m ,/x  ou/c  seja/v ,/x  encontrava-se/v  praticamente/r  sem/i  fundos/n  C/n )/x  e/c  ainda/r  que/c  o/x  embargante/n  decidiu/v</left>
+    <kwic> transferir/v</kwic>
+    <right> da/i  conta/n  que/p  é/v  titular/j  com/i  o/x  NIB/n  .../x 73/m  para/i  a/x  conta/n  referida/v  em/i  1/m )/x ,/x  as/x  quantias/n  de/i  €15.000,00/m ,/x  €20.000,00/m ,/x  e/c  de/i  €15.078,00/m</right>
+  </line>
+  <line refs="stml.pt" num="50" label="_">
+    <left>para/i  instalação/n  sem/i  avaliação/n  ou/c  conversa/n  prévia/j  com/i  o/x  mesmo/p ./x &lt;/s&gt;&lt;s&gt; O/x  sindicato/n  defende/v  que/c  no/i  caso/n  de/i  ser/v  necessário/j</left>
+    <kwic> transferir/v</kwic>
+    <right> pessoal/n  de/i  uma/x  '/x unidade/n '/x  para/i  outra/p ,/x  deve/v  ser/v  comunicado/v  essa/x  intenção/n  com/i  duas/m  semanas/n  de/i  antecedência/n ,/x  de/i  forma/n  a/i</right>
+  </line>
+  <line refs="cajil.pt" num="51" label="_">
+    <left>Apoio/n  foi/v  instituída/v  a/x  FUNDAÇÃO/n  de/i  Solidariedade/n  Social/j  CAJIL/n ./x &lt;/s&gt;&lt;s&gt; Parte/n  relevante/j  do/i  património/n  da/i  Associação/n  CAJIL/n  foi/v</left>
+    <kwic> transferida/v</kwic>
+    <right> para/i  a/x  Fundação/n  CAJIL/n ,/x  no/i  quadro/n  do/i  estabelecido/v  no/i  pedido/n  para/i  a/x  sua/x  criação/n ./x &lt;/s&gt;&lt;s&gt; Implica/v  maior/j  envolvimento/n ,/x</right>
+  </line>
+  <line refs="elring.pt" num="52" label="_">
+    <left>dentro/r  do/i  Grupo/n  ElringKlinger/n  aos/i  prestadores/n  de/i  serviços/n  para/i  que/p  a/x  newsletter/n  possa/v  ser/v  enviada/v ./x &lt;/s&gt;&lt;s&gt; Os/x  dados/n  não/r  serão/v</left>
+    <kwic> transferidos/v</kwic>
+    <right> para/i  países/n  terceiros/j  e/c  os/x  seus/x  dados/n  pessoais/j  não/r  serão/v  processadospara/v  qualquer/x  outra/x  finalidade/n ./x &lt;/s&gt;&lt;s&gt; Os/x  seus/x  dados/n</right>
+  </line>
+  <line refs="sapo.pt" num="53" label="_">
+    <left>alguns/p  muito/r  necessitados/v  de/i  obras/n  e/c  remodelações/n ,/x  condições/n  que/p  já/r  não/r  oferecem/v  segurança/n  aos/i  jovens/n ./x &lt;/s&gt;&lt;s&gt; &quot;/x Tivemos/v  de/i</left>
+    <kwic> transferir/v</kwic>
+    <right> para/i  norte/n ,/x  Vila/n  do/i  Conde/n  e/c  Porto/n ,/x  alguns/x  jovens/n  de/i  Lisboa/n ,/x  teve/v  de/i  ser/v ,/x  pensando/v  sempre/r  no/i  melhor/r  para/i  eles/p ,/x  teve/v  que/c  ser/v</right>
+  </line>
+  <line refs="apibarra.pt" num="54" label="_">
+    <left>do/i  projeto/n  europeu/j  das/i  autoestradas/n  do/i  mar/n  prof./n  Kurt/n  Bodewig/n ,/x  informou/v  sobre/i  os/x  esforços/n  da/i  União/n  Europeia/j  para/i</left>
+    <kwic> transferir/v</kwic>
+    <right> mais/r  mercadorias/n  da/i  rodovia/n  para/i  as/x  vias/n  navegáveis/j ;/x  ou/c  a/x  diretora/n  executiva/j  da/i  EMSA/n  (/x Agência/n  Europeia/j  de/i  Segurança/n</right>
+  </line>
+  <line refs="probikeshop.pt" num="55" label="_">
+    <left>imagem/n  ou/c  sacudidelas/n ./x &lt;/s&gt;&lt;s&gt; As/x  ligações/n  por/i  cabo/n &lt;/s&gt;&lt;s&gt; A/x  maioria/n  das/i  câmaras/n  pode/v  conetar-se/r  com/i  um/x  cabo/n  USB/n  a/i  um/x  computador/n ,/x  para/i</left>
+    <kwic> transferir/v</kwic>
+    <right> imagens/n  ou/c  recarregar/v  a/x  bateria/n ./x &lt;/s&gt;&lt;s&gt; Se/c  tiver/v  uma/x  entrada/n  HDMI/n ,/x  as/x  imagens/n  podem/v  ser/v  visualizadas/v  diretamente/r  numa/i</right>
+  </line>
+  <line refs="ultraperiferias.pt" num="56" label="_">
+    <left>com/i  Portugal/n  o/x  espaço/n  Ibérico/j ./x &lt;/s&gt;&lt;s&gt; Ora/r ,/x  se/p  tomarmos/v  o/x  exemplo/n  da/i  vizinha/j  Espanha/n ,/x  verificamos/v  que/c  do/i  plafond/n  do/i  OE/n</left>
+    <kwic> transferido/v</kwic>
+    <right> para/i  as/x  instituições/n  apenas/r  52,5/m %/x  dele/i  é/v  gasto/v  com/i  remunerações/n  certas/j  e/c  permanentes/j ,/x  deixando-lhes/v  disponível/j  47,5/m</right>
+  </line>
+  <line refs="aeiou.pt" num="57" label="_">
+    <left>Seb/n  que/p  tinha/v  acabado/v  de/i  nascer/v  e/c ,/x  em/i  seu/x  lugar/n ,/x  o/x  PSG/n  contratou/v  o/x  camaronês/j  Choupo-Moting/n ./x &lt;/s&gt;&lt;s&gt; O/x  ponta/n  de/i  lança/n  holandês/j</left>
+    <kwic> transferiu-se/v</kwic>
+    <right> esta/x  semana/n  para/i  o/x  Eintracht/n  Frankfurt/n  a/i  troco/n  de/i  sete_milhões/m  de/i  euros/n ./x &lt;/s&gt;&lt;s&gt; O/x  avançado/n  deixa/v  o/x  Sporting/n  depois/r  de/i  ter/v</right>
+  </line>
+  <line refs="infopedia.pt" num="58" label="_">
+    <left>de/i  1295/m  tornou-se/v  capital/n  do/i  principado/n  de/i  Moscovo/n  e/c  expandiu-se/v  muito/r  ao/i  longo/n  do/i  século/n  XIV/n ./x &lt;/s&gt;&lt;s&gt; A/x  Igreja/n  Russo-Ortodoxa/n</left>
+    <kwic> transferiu/v</kwic>
+    <right> neste/i  período/n  a/x  sua/x  sede/n  para/i  esta/x  cidade/n ,/x  que/p  se/p  converteu/v  em/i  capital/n  religiosa/j ./x &lt;/s&gt;&lt;s&gt; Com/i  o/x  reinado/n  de/i  Ivan/n  III/n ,/x  o/x  Terrível/j ,/x  a/x</right>
+  </line>
+  <line refs="electrofun.pt" num="59" label="_">
+    <left>,/x  Airplay/n ,/x  EZMirror/n ,/x  EZAir/n ,/x  EZMirror/n  e/c  DLNA/n  ao/i  mesmo/p  tempo/n ./x &lt;/s&gt;&lt;s&gt; Com/i  este/x  adaptador/n  incrível/j ,/x  os/x  utilizadores/n  podem/v</left>
+    <kwic> transferir/v</kwic>
+    <right> vídeos/n  a/i  1080P/m ,/x  fotos/n ,/x  música/n ,/x  arquivos/n  e/c  jogos/n ,/x  desde/i  dispositivos/j  móveis/n  (/x como/r  iPAD/n  iPhone/n ,/x  smartphones/n //x tablet/n</right>
+  </line>
+  <line refs="tsf.pt" num="60" label="_">
+    <left>da/i  Nossa/x  Senhora/n  das/i  Dores/n ,/x  em/i  Vila/n  Real/j ,/x  onde/r  há/v  13/m  idosos/j  e/c  sete/m  funcionários/n  infetados/v  com/i  Covid-19/n ./x &lt;/s&gt;&lt;s&gt; Os/x  doentes/n  serão/v</left>
+    <kwic> transferidos/v</kwic>
+    <right> para/i  o/x  Hospital/n  Militar/j  do/i  Porto/n ,/x  enquanto/r  os/x  outros/x  63/m  utentes/n  do/i  lar/n  vão/v  ser/v  encaminhados/v  para/i  o/x  Hospital/n  Militar/j  de/i</right>
+  </line>
+  <line refs="dgsi.pt" num="61" label="_">
+    <left>,/x  pode/v  ser/v  movimentada/v  diretamente/r  pelo/v  creditado/v ./x &lt;/s&gt;&lt;s&gt; Na/i  maioria/n  dos/i  casos/n ,/x  porém/c ,/x  o/x  banco/n ,/x  a/x  solicitação/n  do/i  creditado/v ,/x</left>
+    <kwic> transfere/v</kwic>
+    <right> os/x  montantes/n  utilizados/v  para/i  a/x  sua/x  conta/n  à/i  ordem/n ./x &lt;/s&gt;&lt;s&gt; Sob/i  a/x  modalidade/n  de/i  utilização/n  em/i  conta/n  corrente/j ,/x  a/x  abertura/n  de/i</right>
+  </line>
+  <line refs="healthybites.pt" num="62" label="_">
+    <left>saborosa/j  na/i  mesma/p ?/x &lt;/s&gt;&lt;s&gt; Transferir/v  o/x  preparado/v  para/i  frasquinhos/n  individuais/j  e/c  colocar/v  no/i  YogurtNest/n ./x &lt;/s&gt;&lt;s&gt; Aguardar/v  6/m  horas/n ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Transferir/v</kwic>
+    <right> os/x  iogurtes/n  para/i  o/x  frigorifico/v ./x &lt;/s&gt;&lt;s&gt; Bom/j  Apetite/n !/x &lt;/s&gt;&lt;s&gt; Costumo/v  usar/v  estes/x  probióticos/n  no/i  entanto/r  possuem/v  leite/n  em/i  pó/n  pelo/i  que/p  não/r</right>
+  </line>
+  <line refs="viagens-aviao.pt" num="63" label="_">
+    <left>a/x  sua/x  viagem/n  com/i  toda/x  a/x  antecedência/n  e/c  economizar/v  não/r  só/r  nas/i  passagens/n  aéreas/j  como/c  também/r  nas/i  hospedagens/n ,/x  passeios/n ,/x</left>
+    <kwic> transferes/v</kwic>
+    <right> e/c  deslocamentos/n ./x &lt;/s&gt;&lt;s&gt; Os/x  voos/n  na/i  KLM/n  fazem/v  conexão/n  em/i  Amsterdã/n  e/c  os/x  voos/n  operados/v  pela/i  Air/n  France/n  fazem/v  escala/n  em/i  Paris/v  (/x</right>
+  </line>
+  <line refs="capeiaarraiana.pt" num="64" label="_">
+    <left>,/x  o/x  Vereador/n  da/i  Cultura/n  da/i  Câmara/n  Municipal/j  do/i  Sabugal/n ,/x  Sr./n  António/n  Robalo/n ,/x  achou/v  por/i  bem/r  fechar/v  a/x  escola/n  da/i  Bismula/n ,/x</left>
+    <kwic> transferindo/v</kwic>
+    <right> os/x  alunos/n  para/i  a/x  Ruvina/n ./x &lt;/s&gt;&lt;s&gt; Não/r  nos/p  foi/v  fácil/j  aceitar/v  o/x  encerramento/n  da/i  nossa/x  escola/n ,/x  mas/c  sendo-nos/v  apresentado/v  o/x  facto/n</right>
+  </line>
+  <line refs="truca.pt" num="65" label="_">
+    <left>busca/n ./x &lt;/s&gt;&lt;s&gt; Em/i  Março/n ,/x  na/i  sequência/n  de/i  ciberataques/n  chineses/j ,/x  a/x  Google/n  decidiu/v  deixar/v  de/i  censurar/v  o/x  seu/x  &quot;/x site/n &quot;/x  em/i  chinês/n ,/x  que/p</left>
+    <kwic> transferiu/v</kwic>
+    <right> para/i  a/x  Região/n  Administrativa/j  Especial/j  de/i  Hong/n  Kong/n ./x &lt;/s&gt;&lt;s&gt; Segundo/i  um/x  comunicado/n  da/i  Google/n ,/x  o/x  governo/n  chinês/j  renovou/v  a/x</right>
+  </line>
+  <line refs="livoo.pt" num="66" label="_">
+    <left>os/x  restantes/n  70/m %/x  terão/v  que/c  ser/v  pagos/n  20/m  dias/n  antes/r  da/i  partida/n ./x &lt;/s&gt;&lt;s&gt; Condições/n &lt;/s&gt;&lt;s&gt; MAIORCA/n  |/x  Voos/n  Lisboa/n  +/x  7/m  noites/n  em/i  Hotel/n  de/i  3/m */x +/x</left>
+    <kwic> Transferes/v</kwic>
+    <right> +/x  Seguro/n !/x &lt;/s&gt;&lt;s&gt; A/x  Beleza/n  das/i  Baleares/n !/x &lt;/s&gt;&lt;s&gt; A/x  maior/j  parte/n  dos/i  cinco_milhões/m  de/i  visitantes/j  que/p  visitam/v  Maiorca/n  anualmente/r</right>
+  </line>
+  <line refs="zankyou.pt" num="67" label="_">
+    <left>./x &lt;/s&gt;&lt;s&gt; Tudo/p  isto/p  por/i  um/x  preço/n  que/p  pode/v  começar/v  nos/i  550/m  euros/n ./x &lt;/s&gt;&lt;s&gt; Se/c  não/r  puder/v  pagar/v  tudo/p  de/i  uma/x  vez/n ,/x  também/r  não/r  é/v  grave/j ./x &lt;/s&gt;&lt;s&gt; Pode/v</left>
+    <kwic> transferir/v</kwic>
+    <right> 20/m %/x  na/i  reserva/n ;/x  30/m %/x  15/m  dias/n  antes/r  do/i  evento/n  e/c  50/m %/x  na/i  entrega/n  do/i  material/n ./x &lt;/s&gt;&lt;s&gt; O/x  ideal/n ,/x  antes/r  de/i  optarem/v  por/i  qualquer/x  tipo/n  de/i</right>
+  </line>
+  <line refs="vivalocal.pt" num="68" label="_">
+    <left>as/x  novas/j  fachada/n  e/c  capela-mor/n ,/x  mantendo/v  o/x  restante/n  da/i  traça/n  românica/j ./x  em/i  1760/m ,/x  os/x  restos/n  mortais/j  de/i  s./n  ganfei/n  foram/v</left>
+    <kwic> transferidos/v</kwic>
+    <right> para/i  esta/x  igreja/n ./x &lt;/s&gt;&lt;s&gt; Neste/i  ano/n ,/x  a/x  competição/n  reúne/v  1.155/m  acadêmicos/n ,/x  sendo/v  355/m  alunos/n  de/i  10/m  unidades/n  do/i  interior/n  e/c  800/m  das/i</right>
+  </line>
+  <line refs="electrofun.pt" num="69" label="_">
+    <left>celebração/n  da/i  vida/n ./x &lt;/s&gt;&lt;s&gt; -/x  Cabo/n  USB-A/n  com/i  3/m  fichas/n  e/c  enrolador/n  -/x  Micro/j  USB-B/n ,/x  USB-C/n ,/x  ficha/v  Lightning/n  8P/m  -/x  permite/v  carregar/v  e/c</left>
+    <kwic> transferir/v</kwic>
+    <right> Dados/n  -/x  Fichas/n  em/i  PVC/n  com/i  cabo/n  plano/n  e/c  enrolador/n  -/x  Comprimento/n  cabo/n :/x  1/m  Metro/n  -/x  fornecido/v  Em/i  Blister/n  elegante/j &lt;/s&gt;&lt;s&gt; A/x  Dona/n  do/i</right>
+  </line>
+  <line refs="gestaodocondominio.pt" num="70" label="_">
+    <left>foi/v  sempre/r  o/p  silencio/v  nunca/r  respondeu/v  a/i  uma/x  única/j  reclamação/n  ou/c  pedido/n  de/i  esclarecimentos/n  ,/x  a/x  única/j  coisa/n  que/p  fez/v  foi/v</left>
+    <kwic> transferir/v</kwic>
+    <right> para/i  a/x  minha/x  conta/n  o/x  dinheiro/n  do/i  valor/n  do/i  orçamento/n  la/p  do/i  perito/n ,/x  sem/i  nos/p  dizer/v  nada/p  só/r  ao/i  ver/v  o/x  saldo/n  é/v  que/c  dei/v  pela/i</right>
+  </line>
+  <line refs="dgsi.pt" num="71" label="_">
+    <left>na/i  esfera/n  jurídica/j  do/i  Banco/n  A/i ,/x  S.A./n ./x  (/x d/n )/x -/x Todos/x  os/x  restantes/j  elementos/n  extrapatrimoniais/j  do/i  Banco/n  A/i ,/x  S.A./n  serão/v</left>
+    <kwic> transferidos/v</kwic>
+    <right> na/i  sua/x  totalidade/n  para/i  o/x  Banco/n ,/x  SA/n  com/i  excepção/n  dos/i  relativos/j  ao/i  Banco/n  A/i ,/x  (/x .../x )/x  Angola/j ,/x  S.A./n ,/x  ao/i  Bank/n  (/x Miami/n )/x  e/c  ao/i  (/x .../x )/x</right>
+  </line>
+  <line refs="famelab.pt" num="72" label="_">
+    <left>que/p  trabalha/v  arduamente/r  nos/i  laboratórios/n ,/x  na/i  investigação/n  científica/j  criando/v  conhecimento/n  que/p  pode/v  mais/r  tarde/r  ser/v</left>
+    <kwic> transferido/v</kwic>
+    <right> para/i  os/x  mercados/n  criando/v  riqueza/n  e/c  postos/n  de/i  trabalho/n ,/x  mas/c  principalmente/r  ajudando/v  a/i  que/c  os/x  cidadãos/n  tenham/v  uma/x  melhor/j</right>
+  </line>
+  <line refs="sapo.pt" num="73" label="_">
+    <left>no/i  processo/n  de/i  fragmentação/n  de/i  datagrama/n ./x &lt;/s&gt;&lt;s&gt; Esse/x  processo/n  divide/v  os/x  datagramas/n  IP/n  em/i  pacotes/n  menores/j ,/x  são/v</left>
+    <kwic> transferidos/v</kwic>
+    <right> para/i  uma/x  rede/n  e/c ,/x  em/i  seguida/n ,/x  remontados/v ./x &lt;/s&gt;&lt;s&gt; Esses/x  ataques/n  cibernéticos/j  sobrecarregam/v  o/x  servidor/n  com/i  pacotes/n  de/i  dados/n</right>
+  </line>
+  <line refs="dn.pt" num="74" label="_">
+    <left>processo/n  de/i  construção/n  da/i  nova/j  ala/n  pediátrica/j ,/x  ficando/v ,/x  por/i  isso/p ,/x  autorizado/v  à/i  utilização/n  das/i  verbas/n  necessárias/j  e/c  já/r</left>
+    <kwic> transferidas/v</kwic>
+    <right> para/i  o/x  efeito/n &quot;/x ./x &lt;/s&gt;&lt;s&gt; Mais/r  três/m  vacinas/n &lt;/s&gt;&lt;s&gt; Por/i  unanimidade/n ,/x  os/x  deputados/n  da/i  comissão/n  aprovaram/v  também/r ,/x  na/i  especialidade/n ,/x  uma/x</right>
+  </line>
+  <line refs="dre.pt" num="75" label="_">
+    <left>a/x  transferir/v  para/i  um/x  terceiro/j  nessa/i  data/n ./x &lt;/s&gt;&lt;s&gt; Muitas/x  vezes/n  é/v  quase/r  impossível/j  ou/c  excessivamente/r  dispendioso/j  liquidar/v  ou/c</left>
+    <kwic> transferir/v</kwic>
+    <right> uma/x  obrigação/n  na/i  data/n  de/i  relato/n ./x &lt;/s&gt;&lt;s&gt; Porém/c ,/x  a/x  estimativa/n  da/i  quantia/n  que/p  uma/x  entidade/n  racionalmente/r  pagaria/v  para/i  liquidar/v</right>
+  </line>
+  <line refs="drapc.gov.pt" num="76" label="_">
+    <left>de/i  produção/n  declarada/v  no/i  Modelo/n  N/n ,/x  para/i  outra/x  unidade/n  de/i  produção/n  não/r  declarada/v  nesse/i  modelo/n ;/x &lt;/s&gt;&lt;s&gt; Quando/r  os/x  animais/n  são/v</left>
+    <kwic> transferidos/v</kwic>
+    <right> de/i  uma/x  unidade/n  de/i  produção/n  para/i  outra/p ,/x  mesmo/r  no/i  caso/n  de/i  ambas/p  terem/v  sido/v  declaradas/v  no/i  Modelo/n  N/n  ;/x &lt;/s&gt;&lt;s&gt; Quando/r  a/x  UP/n  possui/v  mais/r  do/i</right>
+  </line>
+  <line refs="onedirect.pt" num="77" label="_">
+    <left>companheiros/n  de/i  trabalho/n ,/x  recomendamos/v  o/x  uso/n  de/i  uns/x  alta/j  vozes/n  para/i  melhorar/v  a/x  qualidade/n  de/i  audio/n ./x &lt;/s&gt;&lt;s&gt; Desde/i  o/x  seu/x  PC/n :/x  Se/p</left>
+    <kwic> transfere/v</kwic>
+    <right> os/x  dados/n  ao/i  seu/x  PC/n  poderá/v  ouvir-los/v  no/i  seu/x  computador/n ./x &lt;/s&gt;&lt;s&gt; Beijo/n  no/i  casamento/n ,/x  beijo/v  antes/r  do/i  sexo/n &lt;/s&gt;&lt;s&gt; Bom/j  dia/n  pessoal/n !/x &lt;/s&gt;&lt;s&gt; Estou/v</right>
+  </line>
+  <line refs="uevora.pt" num="78" label="_">
+    <left>de/i  se/p  assistir/v ./x &lt;/s&gt;&lt;s&gt; Cotação/n :/x  ***/x &lt;/s&gt;&lt;s&gt; O/x  ForestWISE/n  pretende/v  realizar/v  atividades/n  de/i  investigação/n  e/c  desenvolvimento/n  (/x I/v &amp;/x D/n )/x ;/x</left>
+    <kwic> transferir/v</kwic>
+    <right> conhecimento/n  e/c  tecnologias/n ,/x  em/i  articulação/n  com/i  outras/x  entidades/n ,/x  com/i  vista/n  à/i  proteção/n  e/c  gestão/n  sustentável/j  da/i</right>
+  </line>
+  <line refs="acorianooriental.pt" num="79" label="_">
+    <left>&quot;/x ./x &lt;/s&gt;&lt;s&gt; Horácio/n  Franco/j  acrescentou/v  que/c  se/p  pretende/v  agora/r  aproveitar/v  o/x  conhecimento/n  obtido/v  no/i  Skal/n  Internacional/j  e/c</left>
+    <kwic> transferi-lo/v</kwic>
+    <right> para/i  a/x  associação/n ,/x  a/x  par/n  da/i  importação/n  dos/i  seus/x  estatutos/n  e/c  normas/n ,/x  adaptando-os/v  à/i  realidade/n  açoriana/j ./x &lt;/s&gt;&lt;s&gt; Um/x  pouco/x  de/i</right>
+  </line>
+  <line refs="mdb.pt" num="80" label="_">
+    <left>mau/j  militar/j ,/x  mau/j  político/j  e/c  pouco/r  inteligente/j ./x &lt;/s&gt;&lt;s&gt; Cento_e_vinte_e_quatro/m  oficiais/n ,/x  ao/i  todo/p ,/x  foram/v  presos/n  ou/c</left>
+    <kwic> transferidos/v</kwic>
+    <right> de/i  unidade/n  militar/j ,/x  o/p  que/p  constituiu/v  um/x  rude/j  golpe/n  para/i  o/x  MFA/n ,/x  cujos/p  dirigentes/n ,/x  à/i  pressa/n ,/x  trataram/v  de/i  organizar/v  o/x  golpe/n</right>
+  </line>
+  <line refs="dgsi.pt" num="81" label="_">
+    <left>atribuições/n  próprias/j  –/x  de/i  entre/i  as/x  que/c  por/i  tradição/n  lhe/p  pertenciam/v  –/x ,/x  sem/i  prejuízo/n  das/i  que/c  possam/v  ser/v  e/c  forem/v  sendo/v</left>
+    <kwic> transferidas/v</kwic>
+    <right> para/i  as/x  autarquias/n  locais/j ,/x  maxime/n  para/i  os/x  municípios/n ,/x  ao/i  abrigo/n  do/i  princípio/n  da/i  descentralização/n  (/x [/x 7/m ]/x )/x  ./x &lt;/s&gt;</right>
+  </line>
+  <line refs="scielo.pt" num="82" label="_">
+    <left>inoculados/v  em/i  tubos/n  de/i  ensaio/n  contendo/v  15mL/m  de/i  meio/n  de/i  cultura/n  DSD1/n  (/x Silva/n  e/c  Doazan/n ,/x  1995/m )/x ./x &lt;/s&gt;&lt;s&gt; As/x  culturas/n  in/i  vitro/j  foram/v</left>
+    <kwic> transferidas/v</kwic>
+    <right> para/i  salas/n  de/i  crescimento/n  e/c  mantidas/v  sob/i  temperatura/n  de/i  25°C/m ,/x  fotoperíodo/n  de/i  16/m  horas/n  e/c  intensidade/n  luminosa/j  de/i</right>
+  </line>
+  <line refs="turisver.pt" num="83" label="_">
+    <left>de/i  Lisboa/n  ou/c  do/i  Porto/n ,/x  nos/i  dias/n  29/m  ou/c  30/m  de/i  dezembro/n ./x &lt;/s&gt;&lt;s&gt; Os/x  pacotes/n  apresentados/v  incluem/v  quatro/m  noites/n  de/i  alojamento/n  e/c</left>
+    <kwic> transferes/v</kwic>
+    <right> e/c  taxas/n  aeroportuárias/j ./x &lt;/s&gt;&lt;s&gt; Não/r  estão/v  incluídas/v  no/i  preço/n  as/x  taxas/n  hoteleiras/j  nem/c  o/x  visto/n  eletrónico/j  de/i  entrada/n  nos/i  Estados/n</right>
+  </line>
+  <line refs="co.pt" num="84" label="_">
+    <left>distância/n  entre/i  um/m  e/c  outro/p ./x &lt;/s&gt;&lt;s&gt; Frite/v  virando/v  uma/x  vez/n ,/x  durante/i  4/m  minutos/n  ou/c  até/r  que/c  o/x  peixe/n  esteja/v  levemente/r  dourado/v ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Transfira/v</kwic>
+    <right> o/x  peixe/n  para/i  um/x  prato/n ./x &lt;/s&gt;&lt;s&gt; Repita/v  o/x  mesmo/r  processo/n  com/i  o/x  restante/n  do/i  peixe/n ./x &lt;/s&gt;&lt;s&gt; Um/x  Dia/n  na/i  Vida/n  (/x DITL/n )/x  é/v  uma/x  metodologia/n</right>
+  </line>
+  <line refs="diariodasaude.pt" num="85" label="_">
+    <left>apenas/r  uma/x  vaga/n  no/i  serviço/n ,/x  pelo/n  que/p ,/x  considerando/v  que/c  o/x  HGO/n  não/r  era/v  o/x  hospital/n  de/i  referência/n ,/x  o/x  utente/n  deveria/v  ser/v</left>
+    <kwic> transferido/v</kwic>
+    <right> para/i  o/x  Hospital/n  de/i  São/v  José/n &quot;/x ./x &lt;/s&gt;&lt;s&gt; &quot;/x Cerca/r  de/i  30/m  minutos/n  depois/r  do/i  primeiro/j  contacto/n ,/x  e/c  de/i  acordo/n  com/i  a/x  informação/n  prestada/v</right>
+  </line>
+  <line refs="arquivos.pt" num="86" label="_">
+    <left>feito/v  a/i  8/m  de/i  Abril/n  do/i  referido/v  ano/n ./x &lt;/s&gt;&lt;s&gt; Em/i  1750/m ,/x  a/i  10/m  de/i  Agosto/n ,/x  com/i  o/x  grande/j  incêndio/n  do/i  Hospital/n  de/i  Todos-os-Santos/n ,/x  foram/v</left>
+    <kwic> transferidos/v</kwic>
+    <right> todos/x  os/x  seus/x  pacientes/n  para/i  o/x  Mosteiro/n  de/i  Nossa/x  Senhora/n  do/i  Desterro/n ,/x  tendo/v  sido/v  mais/r  tarde/r  transferidos/v  para/i  o/x  colégio/n</right>
+  </line>
+  <line refs="tribunaalentejo.pt" num="87" label="_">
+    <left>permite/v !/x &lt;/s&gt;&lt;s&gt; O/x  Eucalipto/n  é/v  uma/x  monocultura/n ,/x  uma/x  fileira/n  industrial/j  que/p  nos/p  tira/v  a/x  riqueza/n  da/i  Biodiversidade/n  e/c  a/x</left>
+    <kwic> transfere/v</kwic>
+    <right> para/i  as/x  celuloses/n ./x &lt;/s&gt;&lt;s&gt; MAS/c  -/x  Em/i  2020/m ,/x  se/c  o/x  MPT/n  eleger/v  deputados/n ,/x  vejo/v  um/x  Alentejo/n  bem/r  mais/r  feliz/j !/x &lt;/s&gt;&lt;s&gt; Elisabete/n  Ramalho/n ,/x  natural/j</right>
+  </line>
+  <line refs="pcp.pt" num="88" label="_">
+    <left>menção/n  relativa/j  a/i  esse/x  acto/n  conduzindo/v ,/x  por/i  vezes/n ,/x  a/x  situações/n  em/i  que/p  não/r  há/v  noção/n  exacta/j  de/i  que/p  se/p  foi/v  inscrito/v  ou/c</left>
+    <kwic> transferido/v</kwic>
+    <right>,/x  qual/p  a/x  circunscrição/n  eleitoral/j  respectiva/j  e/c  de/i  quais/p  são/v  os/x  dados/n  necessários/j  à/i  identificação/n  da/i  sua/x  assembleia/n</right>
+  </line>
+  <line refs="sapo.pt" num="89" label="_">
+    <left>./x &lt;/s&gt;&lt;s&gt; Depois/r  da/i  sua/x  chegada/n  ao/i  poder/n  no/i  início/n  de/i  junho/n  último/j ,/x  o/x  primeiro-ministro/n  espanhol/j  revelou/v  a/x  sua/x  determinação/n  em/i</left>
+    <kwic> transferir/v</kwic>
+    <right> os/x  restos/n  mortais/j  do/i  ditador/n  do/i  seu/x  mausoléu/n ,/x  perto/r  de/i  Madrid/n ,/x  que/p  se/p  transformaria/v  num/i  local/n  de/i  &quot;/x reconciliação/n &quot;/x</right>
+  </line>
+  <line refs="apfn.com.pt" num="90" label="_">
+    <left>&quot;/x ,/x  serão/v  integradas/v  em/i  outros/x  estabelecimentos/n ./x &lt;/s&gt;&lt;s&gt; O/x  mesmo/p  é/v  dizer/v  que/c  alunos/n ,/x  professores/n  e/c  pessoal/j  não/r  docente/n  serão/v</left>
+    <kwic> transferidos/v</kwic>
+    <right> para/i  outra/x  instituição/n  de/i  ensino/n  público/j ./x &lt;/s&gt;&lt;s&gt; De/i  resto/n ,/x  a/x  tutela/n  garante/v  que/c  &quot;/x em/i  nenhuma/x  circunstância/n  serão/v  postos/v  em/i</right>
+  </line>
+  <line refs="dgsi.pt" num="91" label="_">
+    <left>o/x  que/c  as/x  AA/n ./x  nem/c  sequer/r  puseram/v  em/i  causa/n )/x ,/x  apresentando/v  uma/x  solução/n  que/p ,/x  em/i  suma/n ,/x  &quot;/x é/v  capaz/j  de/i  identificar/v  utilizadores/n ,/x</left>
+    <kwic> transferindo/v</kwic>
+    <right> os/x  dados/n  para/i  o/x  software/n  de/i  gestão/n &quot;/x ,/x  sendo/v  que/c  &quot;/x o/x  software/n  de/i  suporte/n  ao/i  sistema/n  é/v  baseado/v  em/i  web/n  que/p  monitoriza/v  a/x</right>
+  </line>
+  <line refs="dgsi.pt" num="92" label="_">
+    <left>não/r  configura/v  a/x  prática/n  de/i  crime/n  de/i  falsificação/n  de/i  documento/n ./x &lt;/s&gt;&lt;s&gt; VII/n ./x &lt;/s&gt;&lt;s&gt; A/x  perda/n  de/i  bens/n  a/i  favor/n  do/i  Estado/n ,/x  com/i  eficácia/n  real/j ,/x</left>
+    <kwic> transferindo-se/v</kwic>
+    <right> a/x  propriedade/n  a/i  favor/n  daquele/i ,/x  apresenta-se/v  como/c  uma/x  medida/n  sancionatória/j  de/i  natureza/n  análoga/j  à/i  medida/n  de/i  segurança/n ,/x</right>
+  </line>
+  <line refs="intertours.com.pt" num="93" label="_">
+    <left>a/i  alterações/n  legais/j ;/x &lt;/s&gt;&lt;s&gt; Programa/n  realizado/v  com/i  transferes/v  partilhados/v ./x &lt;/s&gt;&lt;s&gt; Consulte-nos/v  caso/c  queira/v  suplemento/n  para/i</left>
+    <kwic> transferes/v</kwic>
+    <right> privados/v ./x &lt;/s&gt;&lt;s&gt; adoro/v  uma/x  modernidade/n ,/x  sou/v  aquariana/j ,/x  sabem/v  como/c  é/v .../x  mas/c  isso/p  não/r  quer/v  dizer/v  que/c  de/i  vez/n  em/i  quando/r  eu/p  não/r</right>
+  </line>
+  <line refs="jornaldenegocios.pt" num="94" label="_">
+    <left>para/i  o/x  FEFSS/n &quot;/x ,/x  afirmou/v  a/x  mesma/p  fonte/n  oficial/j ,/x  sem/i  especificar/v  o/x  valor/n  final/j  que/p  terá/v  sido/v  apurado/v  e/c  será/v  ainda/r</left>
+    <kwic> transferido/v</kwic>
+    <right>./x &lt;/s&gt;&lt;s&gt; Desde/i  que/c  o/x  AIMI/n  foi/v  criado/v ,/x  os/x  proprietários/n  de/i  imóveis/n  abrangidos/v  pelo/i  novo/j  imposto/n  pagaram-no/v  por/i  duas/m  vezes/n :/x  a/i</right>
+  </line>
+  <line refs="jogo-legal-portugal.pt" num="95" label="_">
+    <left>&lt;s&gt; Renato/n  Neto/n  (/x ex-Sporting/n )/x  é/v  o/x  ponto/n  de/i  equilíbrio/n  da/i  equipa/n  e/c  poderá/v  a/x  médio/j  prazo/n  fazer/v  dupla/n  com/i  Anderson/n  Esiti/n ,/x  que/p  se/p</left>
+    <kwic> transferiu/v</kwic>
+    <right> do/i  Estoril/n  para/i  o/x  Gent/n  e/c  mostra/v  excelente/j  potencial/j ./x &lt;/s&gt;&lt;s&gt; Na/i  Pedreira/n ,/x  O/x  Sporting/n  de/i  Braga/n  deverá/v  fazer/v  valer/v  a/x  sua/x  maior/j</right>
+  </line>
+  <line refs="sapo.pt" num="96" label="_">
+    <left>do/i  Conselho/n  Regional/j  do/i  Norte/n  da/i  Ordem/n  dos/i  Médicos/n ,/x  António/n  Araújo/n ,/x  avançava/v  que/c  aquela/x  unidade/n  iria/v  permitir/v</left>
+    <kwic> transferir/v</kwic>
+    <right> cerca/r  de/i  20/m %/x  dos/i  doentes/n  internados/v  nos/i  dois/m  hospitais/n  da/i  cidade/n ./x &lt;/s&gt;&lt;s&gt; O/x  espaço/n  foi/v  inicialmente/r  preparado/v  para/i  a/x</right>
+  </line>
+  <line refs="nintendo.pt" num="97" label="_">
+    <left>um/x  período/n  limitado/v  de/i  tempo/n  através/r  da/i  Ligação/n  Wi-Fi/n  da/i  Nintendo/n ./x &lt;/s&gt;&lt;s&gt; Encontrarás/v  Pokémon/n  exclusivos/j  que/p  poderás/v  até/i</left>
+    <kwic> transferir/v</kwic>
+    <right> para/i  a/x  tua/x  cópia/n  de/i  Pokémon/n  Diamond/n  Version/n ,/x  Pokémon/n  Pearl/n  Version/n ,/x  Pokémon/n  Platinum/n  Version/n ,/x  Pokémon/n  HeartGold/n</right>
+  </line>
+  <line refs="oa.pt" num="98" label="_">
+    <left>não/r  reagir/v ,/x  a/x  injunção/n  de/i  pagamento/n  passa/v  a/i  ter/v  força/n  executiva/j ./x &lt;/s&gt;&lt;s&gt; Só/r  no/i  caso/n  de/i  o/x  requerido/v  deduzir/v  oposição/n ,/x  a/x  causa/n  será/v</left>
+    <kwic> transferida/v</kwic>
+    <right> para/i  um/x  procedimento/n  ordinário/j ./x &lt;/s&gt;&lt;s&gt; Portanto/c ,/x  contrariamente/r  às/i  regras/n  processuais/j  ordinárias/j ,/x  cabe/v  ao/i  destinatário/n</right>
+  </line>
+  <line refs="e-konomista.pt" num="99" label="_">
+    <left>&lt;s&gt; Fonte/n :/x  Divulgação/n  Douglas/n &lt;/s&gt;&lt;s&gt; Este/x  batom/n  muito/r  cremoso/j  da/i  Douglas/n  é/v  muito/r  confortável/j  e/c  suave/j  e/c  garante/v  longa/j  duração/n ./x &lt;/s&gt;&lt;s&gt; Não/r</left>
+    <kwic> transfere/v</kwic>
+    <right> e/c  por/i  isso/p  pode/v  usá-lo/v  confortavelmente/r  todo/x  o/x  dia/n ./x &lt;/s&gt;&lt;s&gt; Custa/v  9,95/m €/x  e/c  está/v  disponível/j  apenas/r  nas/i  lojas/n  Douglas/n ./x &lt;/s&gt;&lt;s&gt; Li/v  isso/p  no/i</right>
+  </line>
+  <line refs="dn.pt" num="100" label="_">
+    <left>permitir/v  o/x  arresto/n  de/i  outros/x  bens/n  do/i  empresário/n  madeirense/j ./x &lt;/s&gt;&lt;s&gt; Segundo/i  a/x  SIC/j ,/x  o/x  tribunal/n  terá/v  considerado/v  que/c  Joe/n  Berardo/n</left>
+    <kwic> transferiu/v</kwic>
+    <right> todos/x  os/x  seus/x  bens/n  para/i  empresas/n  intencionalmente/j  para/i  não/r  pagar/v  as/x  suas/x  dívidas/n  -/x  como/c  a/x  dívida/n  ao/i  banco/n  do/i  Estado/n ,/x  de/i</right>
+  </line>
+  <line refs="cmjornal.pt" num="101" label="_">
+    <left>o/x  seu/x  tórax/n ./x &lt;/s&gt;&lt;s&gt; De/i  acordo/n  com/i  a/x  Globo/n ,/x  o/x  segundo/j  tiro/n  atingiu/v  o/x  lóbulo/n  do/i  menino/n ./x &lt;/s&gt;&lt;s&gt; Por/i  estar/v  em/i  estado/n  grave/j ,/x  o/x  bebé/n  foi/v</left>
+    <kwic> transferido/v</kwic>
+    <right> para/i  o/x  Hospital/n  Adão/n  Pereira/n  Nunes/j ./x &lt;/s&gt;&lt;s&gt; O/x  site/n  brasileiro/j  conta/v  ainda/r  que/c  a/x  mãe/n ,/x  de/i  29/m  anos/n ,/x  sobreviveu/v  aos/i  ferimentos/n  e/c  está/v</right>
+  </line>
+  <line refs="revistamilitar.pt" num="102" label="_">
+    <left>propõe/v  que/c ,/x  &quot;/x em/i  vez/n  de/i  estratégia/n  empresarial/j &quot;/x ,/x  se/p  trabalhem/v ,/x  &quot;/x recursos/n  analógicos/j  que/p  são/v  susceptíveis/j  de/i</left>
+    <kwic> transferir/v</kwic>
+    <right> para/i  o/x  empresarial/j &quot;/x  e/c  no/i  seu/x  final/n  &quot;/x Ainda/r  e/c  sempre/r ,/x  a/x  favor/n  da/i  Estratégia/n  Empresarial/j &quot;/x  diz/v  Francisco/j  Abreu/n ,/x  &quot;/x Mas/c  o/x  ponto/n</right>
+  </line>
+  <line refs="sapo.pt" num="103" label="_">
+    <left>impossíveis/j  de/i  replicar/v  noutro/i  qualquer/x  local/n  com/i  condições/n  diferentes/j ./x &lt;/s&gt;&lt;s&gt; Portanto/c ,/x  um/x  determinado/v  terroir/v  consegue/v</left>
+    <kwic> transferir/v</kwic>
+    <right> para/i  o/x  vinho/n  um/x  gosto/n  único/j  e/c  próprio/j ./x &lt;/s&gt;&lt;s&gt; Publicidade/n &lt;/s&gt;&lt;s&gt; O/x  conceito/n  de/i  terroir/v  pode/v  ser/v  resumindo/v  em/i  vários/x  fatores/n  como/c  o/x  solo/n</right>
+  </line>
+  <line refs="pcp.pt" num="104" label="_">
+    <left>,/x  7/m %/x  do/i  SMN/n ;/x  digamos/v  que/c  é/v  a/x  componente/n  a/i  ser/v  &quot;/x suportada/v &quot;/x  pelas/i  instituições/n  bancárias/j ./x &lt;/s&gt;&lt;s&gt; A/x  segunda/j  tem/v  por/i  objectivo/n</left>
+    <kwic> transferir/v</kwic>
+    <right> para/i  a/x  responsabilidade/n  do/i  Estado/n  o/x  pagamento/n  dos/i  custos/n  e/c  encargos/n  computados/v  no/i  máximo/n  de/i  1/m %/x  do/i  SMN/n ./x &lt;/s&gt;&lt;s&gt; É/v  socialmente/r</right>
+  </line>
+  <line refs="dgsi.pt" num="105" label="_">
+    <left>)/x ./x &lt;/s&gt;&lt;s&gt; Mas/c  porque/c  a/x  notificação/n  foi/v  efectuada/v  em/i  férias/n ,/x  entendem/v  os/x  agravantes/n  haver/v  lugar/n  à/i  suspensão/n  do/i  prazo/n ,/x</left>
+    <kwic> transferindo-se/v</kwic>
+    <right>,/x  assim/r ,/x  para/i  o/x  dia/n  13/4/2004/m ,/x  e/c  sendo/v  o/x  prazo/n  legal/j  para/i  apresentar/v  o/x  requerimento/n  probatório/j  de/i  15/m  dias/n  apenas/r  expirou/v</right>
+  </line>
+  <line refs="ford.pt" num="106" label="_">
+    <left>dispõem/v ./x &lt;/s&gt;&lt;s&gt; O/x  catálogo/n  do/i  AppLink/n  inclui/v  também/r  ligações/n  para/i  o/x  iTunes/n  ou/c  Google/n  Play/n  Stores/n ,/x  a/i  partir/v  dos/i  quais/p  é/v  possível/j</left>
+    <kwic> transferir/v</kwic>
+    <right> as/x  aplicações/n  do/i  AppLink/n &lt;/s&gt;&lt;s&gt; Antes/r  de/i  utilizar/v  o/x  Siri/n  Eyes/n  Free/n  deve/v ,/x  em/i  primeiro/j  lugar/n ,/x  certifique-se/v  de/i  que/p  o/x  iPhone/n  está/v</right>
+  </line>
+  <line refs="destak.pt" num="107" label="_">
+    <left>e/c  criaram/v  um/x  grupo/n  de/i  imaculados/j  Está/v  na/i  moda/n  ser/v  virgem/j ./x &lt;/s&gt;&lt;s&gt; Ou/c ,/x  pelo/i  menos/r ,/x  fazer/v  publicidade/n  à/i  coisa/n ./x &lt;/s&gt;&lt;s&gt; A/x  guerra/n  dos/i  sexos/n</left>
+    <kwic> transferiu-se/v</kwic>
+    <right> agora/r  para/i  o/x  campo/n  da/i  pureza/n  do/i  corpo/n ./x &lt;/s&gt;&lt;s&gt; Tudo/p  começou/v  em/i  2008/m ,/x  quando/r  Margarida/n  Menezes/n  decidiu/v  criar/v  o/x  Clube/n  das/i  Virgens/n ./x &lt;/s&gt;</right>
+  </line>
+  <line refs="zerozero.pt" num="108" label="_">
+    <left>nada/p  atrás/r  no/i  mercado/n :/x  Jürgen/n  Klinsmann/n  e/c  Popescu/n  aterraram/v  em/i  White/n  Hart/n  Lane/n ,/x  Schwarz/n  foi/v  para/i  o/x  Arsenal/n  e/c  Bryan/n  Roy/n</left>
+    <kwic> transferiu-se/v</kwic>
+    <right> para/i  o/x  Nottingham/n  Forest/n ./x &lt;/s&gt;&lt;s&gt; Em/i  Old/n  Trafford/n ,/x  Eric/n  Cantona/n ,/x  Peter/n  Schmeichel/n ,/x  Roy/n  Keane/n  e/c  Mark/n  Hughes/n  eram/v  donos/n  e/c</right>
+  </line>
+  <line refs="clickfiel.pt" num="109" label="_">
+    <left>usados/v  por/i  empresas/n ,/x  sendo/v  que/c  ao/i  optar/v  por/i  este/p  será/v  indicado/v  na/i  confirmação/n  final/j  e/c  por/i  email/n  o/x  IBAN/n //x NIB/n  da/i  conta/n  a/i</left>
+    <kwic> transferir/v</kwic>
+    <right> e/c  deverá/v  indicar/v  na/i  mesma/p  o/x  número/n  da/i  encomenda/n ./x &lt;/s&gt;&lt;s&gt; O/x  processo/n  de/i  verificação/n  após/i  pagamento/n  poderá/v  demorar/v  entre/i  24/m  a/i  48/m</right>
+  </line>
+  <line refs="ulisboa.pt" num="110" label="_">
+    <left>,/x  o/x  consumidor/n  poderá/v  escolher/v  a/x  cidade/n  que/p  mais/r  lhe/p  agrada/v  na/i  altura/n  pretendida/v  e/c ,/x  sem/i  contar/v  com/i  os/x  inconvenientes/n  de/i</left>
+    <kwic> transferes/v</kwic>
+    <right>,/x  alojamento/n  e/c  alimentação/n ,/x  marcar/v  a/x  sua/x  viagem/n  e/c  usufruir/v  de/i  uns/x  dias/n  diferentes/j ,/x  sozinho/j ,/x  com/i  família/n  ou/c  amigos/n ./x  (/x</right>
+  </line>
+  <line refs="scielo.pt" num="111" label="_">
+    <left>./x &lt;/s&gt;&lt;s&gt; Os/x  DL/n  n/n ./x os/x  32/89/m  e/c  8-F/91/m  vêm/v  marcar/v  um/x  momento/n  de/i  rotura/n  com/i  o/x  passado/n ,/x  por/i  forma/n  a/i  reajustar/v  as/x  empresas/n  estatais/j ,/x</left>
+    <kwic> transferindo-as/v</kwic>
+    <right> para/i  o/x  setor/n  privado/v ./x &lt;/s&gt;&lt;s&gt; São/v  reforçados/v  posteriormente/r  com/i  os/x  DL/n  n/n ./x os/x  10/94/m  e/c  13/94/m ,/x  que/p  concedem/v  às/i  empresas/n  do/i  setor/n</right>
+  </line>
+  <line refs="4gnews.pt" num="112" label="_">
+    <left>(/x micro/n  USB/n  ou/c  USB-C/n )/x  e/c  a/x  outra/p  à/i  TV/n  (/x HDMI/n )/x ./x &lt;/s&gt;&lt;s&gt; É/v  necessário/j  que/c  o/x  smartphone/n  seja/v  compatível/j  com/i  as/x  tecnologias/n  que/p  permitem/v</left>
+    <kwic> transferir/v</kwic>
+    <right> conteúdos/n  do/i  &quot;/x pequeno/j  ecrã/n &quot;/x  para/i  a/x  TV/n ,/x  como/c  o/x  MHL/n ,/x  por/i  exemplo/n ,/x  sendo/v  que/c  alguns/x  cabos/n  específicos/j  e/c  hubs/n  do/i  género/n</right>
+  </line>
+  <line refs="wintech.pt" num="113" label="_">
+    <left>Sync/n  consolida/v  as/x  funcionalidades/n  de/i  backup/n ,/x  restauro/n  e/c  sincronização/n  numa/i  só/r  aplicação/n  QTS/n  que/p  permite/v  facilmente/r</left>
+    <kwic> transferir/v</kwic>
+    <right> dados/n  para/i  armazenamento/n  local/j ,/x  remoto/j  e/c  na/i  nuvem/n  sob/i  a/x  forma/n  de/i  um/x  plano/n  completo/j  de/i  armazenamento/n  de/i  dados/n  e/c</right>
+  </line>
+  <line refs="sapo.pt" num="114" label="_">
+    <left>funcionários/n ,/x  afeta/v  55/m  pessoas/n :/x  38/m  idosos/j  e/c  17/m  trabalhadores/n ./x &lt;/s&gt;&lt;s&gt; Neste/i  caso/n ,/x  os/x  utentes/n  que/p  tiveram/v  teste/n  negativo/j  foram/v</left>
+    <kwic> transferidos/v</kwic>
+    <right> para/i  uma/x  unidade/n  hoteleira/j  da/i  cidade/n ,/x  enquanto/r  os/x  restantes/n  permanecem/v  no/i  edifício/n  do/i  lar/n ,/x  que/p  também/r  foi/v  desinfetado/v</right>
+  </line>
+  <line refs="ufp.pt" num="115" label="_">
+    <left>./x &lt;/s&gt;&lt;s&gt; A/x  coerência/n  almejada/v  está/v  alicerçada/v  na/i  matriz/n  organizativa/j  do/i  conjunto/n  dos/i  exercícios/n  práticos/j  de/i  projeto/n  que/p</left>
+    <kwic> transferem/v</kwic>
+    <right> para/i  o/x  aluno/n  os/x  conteúdos/n  do/i  programa/n  por/i  via/n  da/i  sua/x  manipulação/n ./x &lt;/s&gt;&lt;s&gt; As/x  &quot;/x aulas/n  práticas/j &quot;/x  priorizam/v  o/x  encaminhamento/n  do/i</right>
+  </line>
+  <line refs="wrestling.pt" num="116" label="_">
+    <left>Roster/n ,/x  o/x  &quot;/x Bulgarian/n  Brute/n &quot;/x  viria/v  a/i  lesionar-se/v ,/x  mas/c  desta/i  vez/n  num/i  período/n  de/i  longa/j  duração/n  e/c  viria/v ,/x  ainda/r  assim/r ,/x  a/i  ser/v</left>
+    <kwic> transferido/v</kwic>
+    <right> para/i  o/x  SmackDown/n  aquando/r  do/i  Superstar/n  Shake-up/n  em/i  Abril/n  deste/i  ano/n ,/x  uma/x  mudança/n  que/p  poderia/v  trazer/v  benefícios/n  para/i</right>
+  </line>
+  <line refs="sapo.pt" num="117" label="_">
+    <left>)/x  !/x !/x !/x &lt;/s&gt;&lt;s&gt; Cá/r  estamos/v  nós/p  para/i  mais/r  uma/x  rubrica/n  &quot;/x Comandos/n  Linux/n  para/i  Totós/n &quot;/x ./x &lt;/s&gt;&lt;s&gt; Como/c  administrador/n  de/i  sistemas/n  é/v  muito/r  comum/j</left>
+    <kwic> transferir/v</kwic>
+    <right> ficheiros/n  entre/i  sistemas/n ./x &lt;/s&gt;&lt;s&gt; Com/i  os/x  serviços/n //x protocolos/n  que/p  existem/v  actualmente/r  disponíveis/j ,/x  transferir/v  ficheiros/n</right>
+  </line>
+  <line refs="jfalhosvedros.pt" num="118" label="_">
+    <left>pessoais/j ./x &lt;/s&gt;&lt;s&gt; Os/x  seus/x  dados/n  são/v  inseridos/v  numa/i  máscara/n  de/i  entrada/n ,/x  são-nos/v  transmitidos/v  e/c  guardados/v ./x &lt;/s&gt;&lt;s&gt; Os/x  seus/x  dados/n  não/r  são/v</left>
+    <kwic> transferidos/v</kwic>
+    <right> para/i  terceiros/j ./x &lt;/s&gt;&lt;s&gt; Os/x  dados/n  pessoais/j  são/v  recolhidos/v  no/i  processo/n  são/v  os/x  seguintes/j :/x &lt;/s&gt;&lt;s&gt; 4.1/m  Utilização/n  de/i  cookies/n &lt;/s&gt;&lt;s&gt; Cookies/n  são/v</right>
+  </line>
+  <line refs="quintadosvales.pt" num="119" label="_">
+    <left>tintos/j  e/c  brancos/j //x rosé/j  começa/v  a/i  variar/v ./x &lt;/s&gt;&lt;s&gt; PROCESSO/n &lt;/s&gt;&lt;s&gt; Prensa/n &lt;/s&gt;&lt;s&gt; Na/i  produção/n  de/i  um/x  vinho/n  branco/n  ou/c  um/x  vinho/n  rosé/j ,/x  as/x  uvas/n  são/v</left>
+    <kwic> transferidas/v</kwic>
+    <right> para/i  a/x  prensa/n  pneumática/j ./x &lt;/s&gt;&lt;s&gt; Este/x  lagar/n  está/v  equipado/v  com/i  uma/x  membrana/n  que/p  vai/v  insuflar/v  lentamente/r ,/x  extraindo/v</right>
+  </line>
+  <line refs="mec.pt" num="120" label="_">
+    <left>colocando/v  alguns/x  feijões/n  num/i  fraco/j  pequeno/j  de/i  vidro/n  com/i  algodão/n  embebido/v  em/i  água/n ./x &lt;/s&gt;&lt;s&gt; Quando/r  começarem/v  a/i  germinar/v</left>
+    <kwic> transfere/v</kwic>
+    <right> um/x  dos/i  rebentos/n  para/i  o/x  vaso/n  com/i  terra/n ./x &lt;/s&gt;&lt;s&gt; Em/i  alternativa/n ,/x  podes/v  semear/v  o/x  feijão/n  diretamente/j  no/i  vaso/n ./x &lt;/s&gt;&lt;s&gt; Coloca/v  o/x  vaso/n  num/i  local/n</right>
+  </line>
+  <line refs="jn.pt" num="121" label="_">
+    <left>infetado/v  será/v  testado/v &quot;/x ,/x  informou/v ./x &lt;/s&gt;&lt;s&gt; Outro/x  paciente/n  com/i  covid-19/m ,/x  que/p  tinha/v  sido/v  diagnosticado/v  com/i  pneumonia/n ,/x  foi/v</left>
+    <kwic> transferido/v</kwic>
+    <right> para/i  uma/x  unidade/n  de/i  cuidados/n  intensivos/j ,/x  &quot;/x para/i  maior/j  vigilância/n ,/x  atendendo/v  à/i  avaliação/n  clínica/j &quot;/x ./x &lt;/s&gt;&lt;s&gt; No/i  total/n ,/x  foram/v</right>
+  </line>
+  <line refs="ffms.pt" num="122" label="_">
+    <left>,/x  de/i  despolitizar/v  assuntos/n  controversos/j  colocando-os/v  fora/r  do/i  domínio/n  democrático/j  (/x i.e./n  eleitoral/j )/x ,/x  tal/r  como/c</left>
+    <kwic> transferi-los/v</kwic>
+    <right> para/i  instituições/n  supranacionais/j ,/x  como/c  a/x  União/n  Europeia/j ,/x  ou/c  instituições/n  (/x neo/j )/x liberais/j ,/x  como/c  tribunais/n  ou/c  bancos/n</right>
+  </line>
+  <line refs="sabado.pt" num="123" label="_">
+    <left>&quot;/x ,/x  refere/v  o/x  analista/n  da/i  Deco/n ./x &lt;/s&gt;&lt;s&gt; Também/r  em/i  qualquer/x  altura/n  do/i  investimento/n ,/x  e/c  se/c  o/x  medo/n  do/i  risco/n  o/p  atingir/v ,/x  saiba/v  que/p  pode/v</left>
+    <kwic> transferir/v</kwic>
+    <right> o/x  dinheiro/n  de/i  um/x  fundo/n  para/i  um/x  seguro/n ,/x  ou/c  vice-versa/n ,/x  bem/r  como/c  entre/i  fundos/n  e/c  seguros/n  diferentes/j ./x &lt;/s&gt;&lt;s&gt; Este/p  é/v  um/x  dos/i  bons/j</right>
+  </line>
+  <line refs="eurogamer.pt" num="124" label="_">
+    <left>preparou/v ./x &lt;/s&gt;&lt;s&gt; Pre-Load/n &lt;/s&gt;&lt;s&gt; Se/c  te/p  quiseres/v  preparar/v  antecipadamente/r ,/x  a/x  beta/n  fechada/v  terá/v  pre-load/n  e/c  isso/p  significa/v  que/c  podes/v</left>
+    <kwic> transferir/v</kwic>
+    <right> os/x  ficheiros/n  para/i  o/x  teu/x  armazenamento/n  e/c  ficar/v  pronto/j  para/i  a/x  hora/n  de/i  início/n ./x &lt;/s&gt;&lt;s&gt; Como/c  Obter/v  Acesso/n &lt;/s&gt;&lt;s&gt; Existem/v  três/m  formas/n  de/i</right>
+  </line>
+  <line refs="anossavida.pt" num="125" label="_">
+    <left>esteja/v  completamente/r  derretido/v  e/c  obter/v  uma/x  cor/n  dourada/v  profunda/j  e/c  as/x  avelãs/n  estiverem/v  revestidas/v  uniformemente/r ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Transfira-os/v</kwic>
+    <right> para/i  a/x  assadeira/n  preparada/v ./x &lt;/s&gt;&lt;s&gt; Antes/r  do/i  caramelo/n  endurecer/v ,/x  separe/v  cerca/r  de/i  10/m  grupos/n  de/i  4/m  a/i  5/m  avelãs/n  para/i  decorar/v ./x &lt;/s&gt;&lt;s&gt; Usando/v</right>
+  </line>
+  <line refs="velocidades.pt" num="126" label="_">
+    <left>detida/v  pela/i  Volvo/n  Cars/n ./x &lt;/s&gt;&lt;s&gt; Por/i  outro/x  lado/n ,/x  as/x  operações/n  e/c  colaboradores/n  que/p  se/p  mantinham/v  em/i  Munique/n  e/c  em/i  Detroit/n  serão/v</left>
+    <kwic> transferidos/v</kwic>
+    <right> para/i  a/x  Veoneer/n ./x &lt;/s&gt;&lt;s&gt; A/x  nova/j  empresa/n ,/x  ainda/r  que/c  detida/v  pela/i  Volvo/n  Cars/n ,/x  será/v  independente/j  da/i  mesma/p  possuindo/v  o/x  seu/x  próprio/j</right>
+  </line>
+  <line refs="sapo.pt" num="127" label="_">
+    <left>não/r  é/v  demasiado/r  denso/j ./x &lt;/s&gt;&lt;s&gt; Este/x  tipo/n  de/i  pão/n  é/v  excelente/j  para/i  consumir/v  com/i  queijo/n ./x &lt;/s&gt;&lt;s&gt; O/x  pão/n  fermenta/v  numa/i  forma/n  durante/i  a/x  noite/n ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Transfira/v</kwic>
+    <right> a/x  massa/n  para/i  uma/x  superfície/n  polvilhada/v  com/i  farinha/n ./x &lt;/s&gt;&lt;s&gt; Divida-a/v  em/i  duas/m  partes/n  com/i  690/m  g/n  cada/p ./x &lt;/s&gt;&lt;s&gt; Achate/v  levemente/r  cada/x  uma/x</right>
+  </line>
+  <line refs="dn.pt" num="128" label="_">
+    <left>da/i  Turquia/n ./x &lt;/s&gt;&lt;s&gt; Trump/n  anunciou/v  a/i  06/m  de/i  dezembro/n  que/p  os/x  Estados/n  Unidos/v  reconhecem/v  Jerusalém/n  como/c  capital/n  de/i  Israel/n  e/c  que/p  vão/v</left>
+    <kwic> transferir/v</kwic>
+    <right> a/x  sua/x  embaixada/n  de/i  Telavive/n  para/i  Jerusalém/n ,/x  contrariando/v  a/x  posição/n  da/i  ONU/n  e/c  dos/i  países/n  europeus/j ,/x  árabes/j  e/c  muçulmanos/j ,/x</right>
+  </line>
+  <line refs="jmf.pt" num="129" label="_">
+    <left>nossa/x  adega/n  na/i  região/n  do/i  Dão/v ,/x  em/i  Alcafache/n ./x &lt;/s&gt;&lt;s&gt; Mais/r  tarde/r ,/x  em/i  1996/m ,/x  todo/x  o/x  processo/n  de/i  envelhecimento/n  e/c  engarrafamento/n  foi/v</left>
+    <kwic> transferido/v</kwic>
+    <right> para/i  as/x  nossas/x  instalações/n  em/i  Vila/n  Nogueira/n  de/i  Azeitão/n ./x &lt;/s&gt;&lt;s&gt; Actualmente/r  o/x  Terras/n  Altas/n  2014/m ,/x  um/x  vinho/n  DOC/n  Dão/v ,/x  é/v  um/x  blend/n  de/i</right>
+  </line>
+  <line refs="dgsi.pt" num="130" label="_">
+    <left>o/x  activo/n  e/c  o/x  passivo/n  das/i  sociedades/n  a/i  que/p  se/p  refere/v  o/x  artigo/n  1o/m [/x 12/m ]/x ,/x  ou/c  que/c  se/p  encontrem/v  afectos/n  à/i  sua/x  exploração/n ,/x  são/v</left>
+    <kwic> transferidos/v</kwic>
+    <right> para/i  o/x  Estado/n ,/x  integrados/v  no/i  património/n  autónomo/j  das/i  respectivas/j  empresas/n  ou/c  a/i  elas/p  igualmente/j  afectos/n ./x  2/m  –/x  O/x  disposto/v</right>
+  </line>
+  <line refs="dgsi.pt" num="131" label="_">
+    <left>,/x  serviços/n  municipalizados/v ,/x  federações/n  de/i  municípios/n  ou/c  outras/x  entidades/n  que/p  explorassem/v  os/x  serviços/n  e/c  instalações/n</left>
+    <kwic> transferidos/v</kwic>
+    <right> ao/i  abrigo/n  dos/i  artigos/n  7.o/m  e/c  17.o/m ,/x  relativamente/r  a/x  arrendamentos/n ,/x  aquisição/n  de/i  equipamentos/n ,/x  execução/n  de/i  obras/n ,/x</right>
+  </line>
+  <line refs="dgsi.pt" num="132" label="_">
+    <left>obrigatórios/j [/x 78/m ]/x  [/x 79/m ]/x ./x &lt;/s&gt;&lt;s&gt; O/x  seguro/n  de/i  complemento/n //x reforma/n  teve/v  origem/n  numa/i  iniciativa/n  da/i  entidade/n  empregadora/n ,/x  que/p</left>
+    <kwic> transferiu/v</kwic>
+    <right> a/x  responsabilidade/n  para/i  uma/x  entidade/n  seguradora/j ,/x  através/r  de/i  um/x  contrato/n  a/i  favor/n  de/i  terceiros/j ,/x  in/i  casu/v ,/x  um/x  seguro/n  por/i</right>
+  </line>
+  <line refs="oceano.pt" num="133" label="_">
+    <left>-/x  S./n  JORGE/n  e/c  PICO/v &lt;/s&gt;&lt;s&gt; TRANSFERES/v &lt;/s&gt;&lt;s&gt; A/x  Agência/n  oceano/n  é/v  líder/n  no/i  Turismo/n ,/x  não/r  só/r  na/i  parte/n  dos/i  hotéis/n  como/c  também/r  nos/p  serviços/n  de/i</left>
+    <kwic> transferes/v</kwic>
+    <right>./x &lt;/s&gt;&lt;s&gt; A/x  nossa/x  frota/n  é/v  nova/j ,/x  as/x  viaturas/n  são/v  todas/x  adaptadas/v  com/i  um/x  sistema/n  inteligente/j  de/i  segurança/n  e/c  protecção/n ./x &lt;/s&gt;&lt;s&gt; Temos/v  uma/x</right>
+  </line>
+  <line refs="scielo.pt" num="134" label="_">
+    <left>que/c ,/x  a/x  percentagem/n  de/i  dependentes/n  que/p ,/x  no/i  mínimo/n ,/x  necessitava/v  de/i  ajuda/n  de/i  pessoa/n  era/v  idêntico/j  para/i  as/x  atividades/n</left>
+    <kwic> transferir-se/v</kwic>
+    <right> da/i  cadeira/n //x cadeirão/n  para/i  a/x  cama/n  (/x 44,0/m %/x )/x  e/c  transferir-se/v  da/i  cama/n  para/i  a/x  cadeira/n //x cadeirão/n  (/x 42,8/m %/x )/x ./x &lt;/s&gt;&lt;s&gt; Relativamente/r  aos/i</right>
+  </line>
+  <line refs="mas.org.pt" num="135" label="_">
+    <left>seu/x  novo/j  mandato/n  sob/i  um/x  novo/j  sistema/n  presidencialista/j ,/x  criado/v  pelo/n  próprio/j ,/x  onde/r  diversos/j  poderes/n  do/i  Parlamento/n  são/v</left>
+    <kwic> transferidos/v</kwic>
+    <right> para/i  o/x  presidente/n ./x &lt;/s&gt;&lt;s&gt; Acumulando/v  o/x  comando/n  de/i  setores/n  de/i  inteligência/n  militar/j ,/x  podefechar/v  o/x  parlamento/n ,/x  extinguindo/v  o/x</right>
+  </line>
+  <line refs="uc.pt" num="136" label="_">
+    <left>,/x  criados/v  o/x  Património/n  Cultural/j ,/x  Instituto/n  Público/j  e/c  a/x  Museus/n  e/c  Monumento/n  de/i  Portugal/n ,/x  Entidade/n  Pública/j  Empresarial/j  e/c</left>
+    <kwic> transferidas/v</kwic>
+    <right> importantes/j  competências/n  públicas/j  neste/i  sector/n  para/i  as/x  Comissões/n  de/i  Coordenação/n  e/c &lt;/s&gt;&lt;s&gt; Desenvolvimento/n  Regional/j  e/c  para/i</right>
+  </line>
+  <line refs="santander.pt" num="137" label="_">
+    <left>global/j  online/r ,/x  quer/c  seja/v  nosso/x  cliente/n  ou/c  não/r ,/x  com/i  crédito/n  imediato/j  na/i  conta/n ,/x  se/p  for/v  cliente/n  Santander/n ./x &lt;/s&gt;&lt;s&gt; Caso/c  não/r  seja/v ,/x</left>
+    <kwic> transferimos/v</kwic>
+    <right> o/x  montante/n  para/i  a/x  conta/n  que/p  nos/p  indicar/v ./x &lt;/s&gt;&lt;s&gt; 💸/x  Qual/p  é/v  o/x  preço/n  médio/j  de/i  uma/x  aula/n  de/i  aulas/n  de/i  música/n  computacional/j  em/i  Silves/v ?/x &lt;/s&gt;&lt;s&gt; ✒️/x</right>
+  </line>
+  <line refs="millenniumbcp.pt" num="138" label="_">
+    <left>relativa/j  a/x  acidentes/n  de/i  trabalho/n ,/x  por/i  parte/n  dos/i  empregadores/n ,/x  incluindo/v  entidades/n  empregadoras/n  públicas/j  que/p  tenham/v</left>
+    <kwic> transferido/v</kwic>
+    <right> a/x  responsabilidade/n  pela/i  reparação/n  de/i  acidentes/n  de/i  trabalho/n  e/c  de/i  trabalhadores/n  independentes/j  ou/c  de/i  serviço/n  doméstico/j</right>
+  </line>
+  <line refs="sapo.pt" num="139" label="_">
+    <left>)/x ,/x  seguida/v  por/i  França/n  (/x 8.528_milhões/m  de/i  euros/n )/x  e/c  Itália/n  (/x 8.293_milhões/m  de/i  euros/n )/x ./x &lt;/s&gt;&lt;s&gt; No/i  total/n ,/x  a/x  Comissão/n  Europeia/j  já/r</left>
+    <kwic> transferiu/v</kwic>
+    <right> 112.858_milhões/m  de/i  euros/n  para/i  os/x  28/m  Estados-membros/n ,/x  sendo/v  que/c  7/m %/x  desse/i  montante/n  foi/v  para/i  Portugal/n ./x &lt;/s&gt;&lt;s&gt; Por/i  sua/x  vez/n ,/x  a/x  taxa/n</right>
+  </line>
+  <line refs="jf-castelo.pt" num="140" label="_">
+    <left>,/x  editado/v  4/m  vez/n (/x es/n )/x &lt;/s&gt;&lt;s&gt; Resultados/n  de/i  Pesquisa/n &lt;/s&gt;&lt;s&gt; Foram/v  encontrados/v  4/m  resultado/n (/x s/n )/x  para/i  a/x  pesquisa/n  &quot;/x Competências/n &quot;/x ./x &lt;/s&gt;&lt;s&gt; &quot;/x Estão/v  a/i</left>
+    <kwic> transferir/v</kwic>
+    <right> responsabilidades/n  sem/i  aferir/v  condições/n .../x  Acreditem/v  não/r  estão/v  de/i  facto/n  reunidas/v  as/x  condições/n  para/i  aceitar/v  esta/x</right>
+  </line>
+  <line refs="app.pt" num="141" label="_">
+    <left>técnicas/j  e/c  organizadas/v  consideradas/v  necessárias/n  às/i  atividades/n  de/i  processamento/n ./x &lt;/s&gt;&lt;s&gt; Os/x  dados/n  recolhidos/v  não/r  são/v</left>
+    <kwic> transferidos/v</kwic>
+    <right> para/i  terceiros/j  sem/i  o/x  consentimento/n  prévio/j  do/i  sócio/n ./x &lt;/s&gt;&lt;s&gt; No/i  entanto/r ,/x  a/x  APP/n  recorre/v  a/x  parceiros/n  externos/j  nomeadamente/r  para/i</right>
+  </line>
+  <line refs="dgsi.pt" num="142" label="_">
+    <left>das/i  partes/n ,/x  não/r  podia/v  a/x  responsabilidade/n  pela/i  execução/n  de/i  obras/n  de/i  conservação/n ,/x  legalmente/r  imposta/v  ao/i  senhorio/n ,/x  ser/v</left>
+    <kwic> transferida/v</kwic>
+    <right> para/i  a/x  esfera/n  jurídica/j  do/i  arrendatário/n ,/x  sob/i  pena/n  de/i  nulidade/n  da/i  atinente/j  cláusula/n ,/x  nos/i  termos/n  do/i  disposto/v  nos/i  artigos/n</right>
+  </line>
+  <line refs="dgsi.pt" num="143" label="_">
+    <left>Regulamento/n ,/x  invocado/v  pelo/i  douto/j  Acórdão/n  recorrido/v ,/x  na/i  medida/n  em/i  que/p  não/r  estamos/v  perante/i  direitos/n  ou/c  bens/n  criados/v  ou/c</left>
+    <kwic> transferidos/v</kwic>
+    <right> fora/r  do/i  âmbito/n  da/i  sucessão/n ,/x  mas/c  dentro/r  da/i  mesma/p ,/x  o/p  que/p  tem/v ,/x  além/r  do/i  mais/r ,/x  apoio/n  na/i  configuração/n  dada/v  pela/i  Recorrida/n  à/i  sua/x</right>
+  </line>
+  <line refs="mapfre.pt" num="144" label="_">
+    <left>outra/x  seguradora/n  é/v  algo/p  que/p  pode/v  necessitar/v  de/i  fazer/v ./x &lt;/s&gt;&lt;s&gt; Saiba/v  em/i  que/p  circunstâncias/n  pode/v  promover/v  esta/x  alteração/n  e/c  como/c</left>
+    <kwic> transferir/v</kwic>
+    <right> o/x  seguro/j  automóvel/n ./x &lt;/s&gt;&lt;s&gt; Quando/r  adquire/v  um/x  carro/n ,/x  é/v  obrigatório/j  que/c  este/p  tenha/v  seguro/j  e/c ,/x .../x &lt;/s&gt;&lt;s&gt; Perante/i  o/x  leque/n  de/i  opções/n  que/p</right>
+  </line>
+  <line refs="ubi.pt" num="145" label="_">
+    <left>,/x  está/v  muito/r  próxima/j  da/i  barragem/n &quot;/x ./x &lt;/s&gt;&lt;s&gt; Quanto/r  aos/i  sete/m  funcionários/n  da/i  autarquia/n  a/i  trabalhar/v  no/i  parque/n  de/i  campismo/n ,/x  serão/v</left>
+    <kwic> transferidos/v</kwic>
+    <right> para/i  as/x  piscinas/n  municipais/j  que/p ,/x  nesta/i  época/n  balnear/j ,/x  serão/v  geridas/v  pela/i  câmara/n ./x &lt;/s&gt;&lt;s&gt; Os/x  trabalhadores/n  sazonais/j  podem/v  ser/v</right>
+  </line>
+  <line refs="ubi.pt" num="146" label="_">
+    <left>,/x  que/p  foram/v  ocupadas/v  por/i  utentes/n  que/p  se/p  encontravam/v  noutras/i  instalações/n  da/i  Misericórdia/n  e/c  que/p  foram/v  os/x  primeiros/n  a/i  ser/v</left>
+    <kwic> transferidos/v</kwic>
+    <right> para/i  o/x  novo/j  edifício/n ./x &lt;/s&gt;&lt;s&gt; Do/i  novo/j  espaço/n  vai/v  partir/v  também/r  o/x  apoio/n  domiciliário/j  prestado/v  em/i  casa/n  de/i  cerca/r  de/i  uma/x  centena/n  de/i</right>
+  </line>
+  <line refs="factorialhr.pt" num="147" label="_">
+    <left>para/i  planear/v  o/x  futuro/n ./x &lt;/s&gt;&lt;s&gt; Tem/v  um/x  funcionário/n  que/p  chega/v  sempre/r  atrasado/v  no/i  turno/n  da/i  manhã/n ?/x &lt;/s&gt;&lt;s&gt; Talvez/r  esteja/v  na/i  hora/n  de/i</left>
+    <kwic> transferi-lo/v</kwic>
+    <right> para/i  a/x  tarde/n  ou/c  ter/v  uma/x  conversa/n  séria/j ./x &lt;/s&gt;&lt;s&gt; Todos/x  os/x  seus/x  funcionários/n  esforçam-se/v  para/i  trocar/v  de/i  turno/n  durante/i  as/x  férias/n ?/x &lt;/s&gt;</right>
+  </line>
+  <line refs="portoenorte.pt" num="148" label="_">
+    <left>gastronomia/n  felgueirense/j )/x ,/x  –/x  Caminhadas/n  ou/c  mini-trails/n  com/i  entrega/n  de/i  merendeiro/n  durante/i  o/x  percurso/n  e/c  guia/n  local/j ,/x  –/x</left>
+    <kwic> Transferes/v</kwic>
+    <right>,/x  –/x  Exposições/n  temáticas/j  (/x endogenia/n  felgueirense/j )/x ,/x  –/x  Parceria/n  com/i  a/x  Quinta/n  de/i  Maderne/n  (/x Enoturismo/n ,/x  agro-alimentar/j ,/x</right>
+  </line>
+  <line refs="circulaseguro.pt" num="149" label="_">
+    <left>do/i  eixo/n  intermédio/j  girará/v  a/x  metade/n  da/i  velocidade/n  da/i  correspondente/n  do/i  eixo/n  secundário/j ,/x  no/i  entanto/r  o/x  binário/n</left>
+    <kwic> transferido/v</kwic>
+    <right> tem/v  seu/x  valor/n  duplicado/v ./x &lt;/s&gt;&lt;s&gt; Espero/v  que/c  tenha/v  percebido/v ,/x  alguma/x  duvida/v  não/r  hesite/v  em/i  questionar/v  nos/i  comentários/n ./x &lt;/s&gt;</right>
+  </line>
+  <line refs="pmconsultores.pt" num="150" label="_">
+    <left>de/i  acordo/n  com/i  o/x  tipo/n  de/i  imposto/n  no/i  país/n  de/i  destino/n  que/p  será/v  encaixado/v  na/i  própria/j  administração/n  tributária/j ./x &lt;/s&gt;&lt;s&gt; Os/x  Estados/n</left>
+    <kwic> transferem/v</kwic>
+    <right> depois/r  a/x  coleta/n  que/p  corresponde/v  a/i  cada/x  um/x ./x &lt;/s&gt;&lt;s&gt; Tudo/p  para/i  pôr/v  travão/n  à/i  fraude/n  em/i  carrossel/n  no/i  mercado/n  europeu/j ./x &lt;/s&gt;&lt;s&gt; Como/p  é/v  que/c</right>
+  </line>
+  <line refs="portugal-linha.pt" num="151" label="_">
+    <left>e/c  mais/r  tarde/r ,/x  como/c  evolução/n  daquela/i  que/p  chamou/v  a/i  si/p  estudantes/n  de/i  outras/x  colônias/n  passando/v  a/i  subdividir-se/v  em/i  secções/n  e/c</left>
+    <kwic> transferindo/v</kwic>
+    <right> sua/x  matriz/n  para/i  um/x  edifício/n  na/i  Avenida/n  Duque/n  D/n  Avila/v ,/x  frente/n  à/i  recolha/n  da/i  Carris/n ,/x  da/i  famosa/j  casa/n  dos/i  Estudantes/n  do/i</right>
+  </line>
+  <line refs="cimaa.pt" num="152" label="_">
+    <left>durante/i  a/x  reconquista/n  cristã/j ./x &lt;/s&gt;&lt;s&gt; Uma/x  segunda/n  refere/v  que/c  a/x  fundação/n  da/i  vila/n  se/p  deveu/v  a/i  uma/x  ordem/n  do/i  rei/v  D./n  Dinis/n  para/i</left>
+    <kwic> transferir/v</kwic>
+    <right> o/x  povoado/n ,/x  por/i  razões/n  de/i  salubridade/n ,/x  do/i  outeiro/n  da/i  vila/n  velha/j  para/i  o/x  outeiro/n  fronteiro/j ./x &lt;/s&gt;&lt;s&gt; Uma/x  terceira/j ,/x  que/p  remonta/v  à/i</right>
+  </line>
+  <line refs="dre.pt" num="153" label="_">
+    <left>'/x ./x &lt;/s&gt;&lt;s&gt; Artigo/n  336.o/m &lt;/s&gt;&lt;s&gt; a/x )/x  1,5/m  pontos/n  percentuais/j  em/i  2020/m ;/x &lt;/s&gt;&lt;s&gt; b/n )/x  2/m  pontos/n  percentuais/j  em/i  2021/m  e/c  anos/n  seguintes/j ./x &lt;/s&gt;&lt;s&gt; 3/m  -/x  Em/i  2020/m ,/x  é/v</left>
+    <kwic> transferido/v</kwic>
+    <right> para/i  o/x  FEFSS/n :/x &lt;/s&gt;&lt;s&gt; a/x )/x  O/x  valor/n  apurado/v  da/i  liquidação/n  de/i  IRC/n ,/x  relativo/j  ao/i  ano/n  de/i  2019/m ,/x  nos/i  termos/n  do/i  n/n ./x o/x  1/m  e/c  da/i  alínea/n  a/i )/x  do/i  n/n ./x o/x  2/m  do/i</right>
+  </line>
+  <line refs="dre.pt" num="154" label="_">
+    <left>necessidade/n  de/i  racionalização/n  do/i  emprego/n  de/i  recursos/n  humanos/j  ou/c  outras/x  necessidades/n  de/i  serviço/n ,/x  o/x  militar/n  pode/v  ser/v</left>
+    <kwic> transferido/v</kwic>
+    <right> de/i  quadro/n  especial/j ,/x  com/i  a/x  sua/x  anuência/n  ou/c  por/i  seu/x  requerimento/n ,/x  desde/i  que/p ,/x  para/i  o/x  efeito/n ,/x  reúna/v  as/x  aptidões/n  e/c</right>
+  </line>
+  <line refs="cgtp.pt" num="155" label="_">
+    <left>da/i  entidade/n  patronal/j  pelas/i  condições/n  infra-estruturais/j  em/i  que/p  o/x  trabalho/n  é/v  prestado/v  é/v ,/x  integralmente/r ,/x</left>
+    <kwic> transferida/v</kwic>
+    <right> para/i  o/x  trabalhador/n ;/x &lt;/s&gt;&lt;s&gt; A/x  entidade/n  responsável/j  pela/i  organização/n  da/i  actividade/n  não/r  tem/v  qualquer/x  responsabilidade/n  quanto/r</right>
+  </line>
+  <line refs="dgsi.pt" num="156" label="_">
+    <left>,/x  agora/r ,/x  uma/x  síntese/n  das/i  hipóteses/n  que/p  podem/v  verificar-se/v :/x  1.a/m  hipótese/n  -/x  O/x  militar/n  dispensado/v  é/v  abatido/v  aos/i  quadros/n  e/c</left>
+    <kwic> transferido/v</kwic>
+    <right> para/i  o/x  ramo/n  das/i  Forças/n  Armadas/v  da/i  sua/x  procedência/n  -/x  artigo/n  75.o/m ,/x  n/n ./x o/x  4/m ,/x  conjugado/v  com/i  o/x  artigo/n  94.o/m ,/x  alínea/n  c/n )/x ./x &lt;/s&gt;&lt;s&gt; Esta/x</right>
+  </line>
+  <line refs="dgsi.pt" num="157" label="_">
+    <left>./x &lt;/s&gt;&lt;s&gt; Conclusão/n  que/p  não/r  é/v  aceite/n  pelo/i  Mmo/n  Juiz/n  &quot;/x a/x  quo/j &quot;/x  já/r  que/c  não/r  é/v  viável/j  deduzir/v  que/c  pela/v  via/n  contratual/j  se/p  pretendeu/v</left>
+    <kwic> transferir/v</kwic>
+    <right> fundos/n  para/i  o/x  Município/n  e/c  que/c  este/p ,/x  por/i  alguma/x  forma/n ,/x  haveria/v  de/i  retribuir/v  financeiramente/r  à/i  concessionária/j  tais/x</right>
+  </line>
+  <line refs="kidits.pt" num="158" label="_">
+    <left>o/x  punho/n  com/i  água/n  e/c  bombeie/v  antes/r  de/i  iniciar/v  a/x  batalha/n  com/i  seus/x  amigos/n ./x &lt;/s&gt;&lt;s&gt; Com/i  cada/x  golpe/n ,/x  seu/x  oponente/n ,/x  uma/x  marca/n  d'água/n  será/v</left>
+    <kwic> transferida/v</kwic>
+    <right>,/x  então/r  você/p  pode/v  saber/v  quem/p  está/v  ganhando/v ./x &lt;/s&gt;&lt;s&gt; Descubra/v  a/x  nova/j  geração/n  de/i  espadas/n  de/i  água/n !/x &lt;/s&gt;&lt;s&gt; Mutant/n  Laboratory/n  Busters/n  você/p</right>
+  </line>
+  <line refs="sapo.pt" num="159" label="_">
+    <left>poder/v  voar/v ./x &lt;/s&gt;&lt;s&gt; Para/i  produzir/v  na/i  aeronave/n  uma/x  força/n  de/i  sentido/n  ascendente/j  é/v  necessário/j  acelerar/v  o/x  ar/n  no/i  sentido/n  contrário/j ,/x</left>
+    <kwic> transferindo/v</kwic>
+    <right> para/i  ela/p  a/x  quantidade/n  de/i  movimento/n  necessária/j ./x &lt;/s&gt;&lt;s&gt; Este/p  é/v  o/x  mesmo/r  princípio/n  que/p  faz/v  com/i  que/p ,/x  estando/v  numa/i  jangada/n  que/p  flutua/v</right>
+  </line>
+  <line refs="apfn.com.pt" num="160" label="_">
+    <left>,/x  no/i  concreto/n  de/i  cada/x  acidente/n ,/x  cada/x  um/x  dirá/v  que/c  a/x  culpa/n  foi/v  do/i  outro/p ./x &lt;/s&gt;&lt;s&gt; Na/i  verdade/n ,/x  habituámo-nos/v  a/i  enjeitar/v  a/x  culpa/n  e/c  a/i</left>
+    <kwic> transferir/v</kwic>
+    <right> a/x  responsabilidade/n  para/i  outrem/p ,/x  mesmo/r  contra/i  a/x  evidência/n  objectiva/j  das/i  provas/n ./x &lt;/s&gt;&lt;s&gt; Em/i  último/j  caso/n ,/x  culpa-se/v  o/x  Estado/n ,/x  o/x</right>
+  </line>
+  <line refs="infopedia.pt" num="161" label="_">
+    <left>por/i  isso/p ,/x  alvo/n  de/i  total/j  destruição/n  e/c  saque/n  à/i  chegada/n  dos/i  invasores/n ./x &lt;/s&gt;&lt;s&gt; Livres/n  dos/i  Vândalos/n  Asdingos/n  em/i  429/m ,/x  quando/r  estes/p  se/p</left>
+    <kwic> transferiram/v</kwic>
+    <right> para/i  o/x  Norte/n  de/i  África/n ,/x  os/x  Suevos/n  construíram/v  um/x  reino/n  que/p  teve/v  o/x  seu/x  período/n  mais/r  brilhante/j  no/i  século/n  V/n ,/x  época/n  de/i</right>
+  </line>
+  <line refs="vitalhealth.pt" num="162" label="_">
+    <left>complexa/j ?/x &lt;/s&gt;&lt;s&gt; Vou/v  à/i  essência/n  dos/i  princípios/n ./x &lt;/s&gt;&lt;s&gt; O/x  SNS/n  é/v  global/j ,/x  universal/j  e/c  tendencialmente/r  gratuito/j ./x &lt;/s&gt;&lt;s&gt; O/x  setor/n  público/j</left>
+    <kwic> transferiu/v</kwic>
+    <right> para/i  o/x  privado/n  algumas/x  responsabilidades/n ,/x  nomeadamente/r  em/i  áreas/n  do/i  Sistema/n  Integrado/v  de/i  Gestão/n  de/i  Inscritos/v  para/i  a/x</right>
+  </line>
+  <line refs="jornalmedico.pt" num="163" label="_">
+    <left>encontra/v  no/i  próprio/j  CIC/n ,/x  a/x  Immunostep/n ,/x  dirigida/v  por/i  Ricardo/n  Jara/n ,/x  participa/v  no/i  projeto/n  luso-espanhol/j  IDIALNET/n  para/i</left>
+    <kwic> transferir/v</kwic>
+    <right> a/x  tecnologia/n  que/p  possa/v  ser/v  desenvolvida/v  ao/i  longo/n  destes/i  dois/m  anos/n ./x &lt;/s&gt;&lt;s&gt; As/x  células/n  das/i  3.000/m  pessoas/n  são/v  analisadas/v  com/i  os/x</right>
+  </line>
+  <line refs="sapo.pt" num="164" label="_">
+    <left>Teixeira/n ./x &lt;/s&gt;&lt;s&gt; -/x  Nunca/r  utilizou/v  contas/n  de/i  passagem/n  nem/c  nunca/r  pediu/v  a/x  ninguém/p  &quot;/x olhe/v ,/x  deixe/v  lá/r  passar/v  esse/x  dinheiro/n  e/c  depois/r</left>
+    <kwic> transfere/v</kwic>
+    <right> para/i  a/x  conta/n  tal/r &quot;/x ?/x &lt;/s&gt;&lt;s&gt; -/x  Aquilo/p  que/p  aqui/r  está/v  em/i  causa/n  são/v  duas/m  versões/n  sobre/i  a/x  existência/n  destes/i  pagamentos/n ,/x  destas/i</right>
+  </line>
+  <line refs="ejaf.pt" num="165" label="_">
+    <left>&lt;s&gt; Caso/c  não/r  abra/v  no/i  Word/n ,/x  deverá/v  clicar/v  com/i  o/x  botão/n  direito/n  do/i  rato/n  e/c  escolher/v  a/x  opção/n  &quot;/x gravar/v  destino/n  como/c &quot;/x  e/c  o/x  ficheiro/n  será/v</left>
+    <kwic> transferido/v</kwic>
+    <right> para/i  o/x  seu/x  computador/n ./x &lt;/s&gt;&lt;s&gt; Poderá/v  depois/r  imprimi-lo/v ./x &lt;/s&gt;&lt;s&gt; Se/c  o/x  documento/n  for/v  um/x  documento/n  Adobe/n ./x pdf/n  abrirá/v  no/i  Acrobat/n  reader/n ,/x</right>
+  </line>
+  <line refs="dgsi.pt" num="166" label="_">
+    <left>do/i  CPC/n ./x &lt;/s&gt;&lt;s&gt; Outrossim/r ,/x  XIV/n ./x &lt;/s&gt;&lt;s&gt; A/x  prova/n  documental/j ,/x  bem/r  como/c  a/x  posição/n  adotada/v  pelos/i  ali/r  Réus/j  que/p  reforçaram/v  que/c  a/x  quantia/n  foi/v</left>
+    <kwic> transferida/v</kwic>
+    <right> na/i  sua/x  totalidade/n  pelo/v  ali/r  Autor/n  para/i  a/x  conta/n  bancária/j  da/i  Ex./n a/i  Sr./n a/i  Agente/n  de/i  Execução/n ,/x  indicada/v  pelo/i  Réu/j  A./n  C./n ,/x  confirma/v</right>
+  </line>
+  <line refs="cdibes.pt" num="167" label="_">
+    <left>usavam/v  os/x  serviços/n  de/i  Francisco/n  Canas/j ,/x  dono/n  de/i  uma/x  loja/n  de/i  medalhas/n  que/p  já/r  fora/v  agência/n  de/i  câmbios/n  na/i  baixa/n  lisboeta/j ,/x  que/p</left>
+    <kwic> transferia/v</kwic>
+    <right> o/x  dinheiro/n  que/p  lhe/p  entregavam/v  em/i  malas/n  para/i  uma/x  conta/n  em/i  seu/x  nome/n  do/i  BPN/n  IFI/n ,/x  de/i  Cabo/n  Verde/j ,/x  voltando/v  a/x  circular/n  para/i</right>
+  </line>
+  <line refs="cdibes.pt" num="168" label="_">
+    <left>,/x  ativos/j  e/c  passivos/j  da/i  instituição/n  objeto/n  de/i  resolução/n ,/x  os/x  acionistas/n  e/c  os/x  credores/n  cujos/p  créditos/n  não/r  tenham/v  sido/v</left>
+    <kwic> transferidos/v</kwic>
+    <right> não/r  podem/v  ficar/v  em/i  pior/j  situação/n  do/i  que/c  a/p  que/p  teriam/v  caso/c  a/x  instituição/n  tivesse/v  sido/v  liquidada/v  ao/i  abrigo/n  de/i  processos/n</right>
+  </line>
+  <line refs="bookiply.pt" num="169" label="_">
+    <left>ou/c  de/i  outra/x  pessoa/n  singular/j  (/x artigo/n  6.o/m ,/x  n/n ./x o/x  1/m ,/x  alínea/n  d/n )/x ,/x  do/i  RGPD/n )/x ,/x  ou/c  •/x  estivermos/v  autorizados/v  ou/c  mesmo/r  obrigados/v  a/i</left>
+    <kwic> transferir/v</kwic>
+    <right> dados/n  com/i  vista/n  à/i  prossecução/n  dos/i  nossos/x  interesses/n  legítimos/j  superiores/j  (/x artigo/n  6.o/m ,/x  n/n ./x o/x  1/m ,/x  alínea/n  f/n )/x ,/x  do/i  RGPD/n )/x ./x &lt;/s&gt;&lt;s&gt; Caso/n</right>
+  </line>
+  <line refs="sapo.pt" num="170" label="_">
+    <left>quatro_milhões/m  resultaram/v  de/i  donativos/n  de/i  60/m  entidades/n ./x &lt;/s&gt;&lt;s&gt; A/i  somar/v  a/i  estas/x  verbas/n  houve/v  várias/x  empresas/n  que/p ,/x  em/i  vez/n  de/i</left>
+    <kwic> transferirem/v</kwic>
+    <right> dinheiro/n ,/x  doaram/v  materiais/j  de/i  construção/n  e/c  foram/v  para/i  o/x  terreno/n  para/i  reabilitar/v  as/x  casas/n ./x &lt;/s&gt;&lt;s&gt; No/i  total/n ,/x  os/x  apoios/n  deverão/v</right>
+  </line>
+  <line refs="uc.pt" num="171" label="_">
+    <left>rendida/v  às/i  novidades/n  e/c  à/i  qualidade/n  dos/i  seus/x  produtos/n ./x &lt;/s&gt;&lt;s&gt; De/i  São/v  Roque/n  e/c  do/i  Loreto/n ,/x  Casimiro/n  Benard/n ,/x  filho/n  de/i  Elie/n ,/x</left>
+    <kwic> transferiu-se/v</kwic>
+    <right> para/i  a/x  rua/n  Garrett/n  e/c  a/x  sua/x  Patisserie/n  Benard/n  continuou/v  a/i  surpreender/v  pelo/i  requinte/n  e/c  bom/j  gosto/n ./x &lt;/s&gt;&lt;s&gt; Um/x  século/n  e/c  meio/n  a/i  adoçar/v</right>
+  </line>
+  <line refs="co.pt" num="172" label="_">
+    <left>no/i  antigo/j  Lar/n  de/i  Idosos/j  e/c  na/i  mais/r  recente/j  estrutura/n  que/p  integra/v ,/x  no/i  rés-do-chão/n ,/x  outras/x  valências/n ./x &lt;/s&gt;&lt;s&gt; Os/x  idosos/j  seriam/v</left>
+    <kwic> transferidos/v</kwic>
+    <right> para/i  o/x  novo/j  bloco/n ,/x  a/i  construir/v  no/i  espaço/n  outrora/r  ocupado/v  pela/i  creche/n ,/x  tendo/v  tal/x  pretensão/n  sido/v  objecto/n  de/i  pedido/n  de/i</right>
+  </line>
+  <line refs="co.pt" num="173" label="_">
+    <left>começar/v  a/i  fechar/v &quot;/x ./x &lt;/s&gt;&lt;s&gt; Aliás/r ,/x  José/n  Paixão/n  garante/v  que/c  as/x  de/i  &quot;/x Mogofores/n  e/c  Ancas/n  encerram/v  já/r  a/i  1/m  de/i  Maio/n ,/x  com/i  os/x  utentes/n  a/i  serem/v</left>
+    <kwic> transferidos/v</kwic>
+    <right> para/i  Sangalhos/n &quot;/x ,/x  apelando/v  novamente/r  à/i  união/n  da/i  população/n  contra/i  as/x  medidas/n  colocadas/v  em/i  prática/n  pelo/i  Ministério/n  da/i</right>
+  </line>
+  <line refs="salesianos.pt" num="174" label="_">
+    <left>é/v  provincial/n  da/i  mesma/p  Província/n ,/x  que/p  compreende/v  todo/x  o/x  norte/n  do/i  México/n  até/r  à/i  fronteira/n  com/i  os/x  Estados/n  Unidos/v ./x &lt;/s&gt;&lt;s&gt; Em/i  1995/m ,/x</left>
+    <kwic> transfere-se/v</kwic>
+    <right> para/i  Espanha/n  onde/r  inicia/v  o/x  doutoramento/n  em/i  Teologia/n  Bíblica/j  e/c  reside/v  em/i  Madri-Carabanchel/n ,/x  onde/r  fica/v  até/i  a/x  obtenção/n  do/i</right>
+  </line>
+  <line refs="selfquestion.pt" num="175" label="_">
+    <left>,/x  com/i  a/x  finalidade/n  de/i  prestar/v  suporte/n  informático/n  e/c //x ou/c  alojamento/n  de/i  dados/n ./x &lt;/s&gt;&lt;s&gt; Em/i  todo/x  o/x  caso/n ,/x  a/x  SelfQuestion/n  Lda./n  não/r</left>
+    <kwic> transfere/v</kwic>
+    <right> os/x  seus/x  dados/n  para/i  países/n  localizados/v  fora/r  da/i  União/n  Europeia/j ./x &lt;/s&gt;&lt;s&gt; Pode/v  exercer/v  os/x  seus/x  direitos/n  de/i  acesso/n ,/x  retificação/n ,/x</right>
+  </line>
+  <line refs="diariodasaude.pt" num="176" label="_">
+    <left>&quot;/x papéis/n  assinados/v  de/i  diretores/n  de/i  serviço/n  a/i  dizerem/v  que/c ,/x  legalmente/r ,/x  aquilo/p  [/x instalações/n  para/i  onde/r  os/x  idosos/j  foram/v</left>
+    <kwic> transferidos/v</kwic>
+    <right>]/x  não/r  é/v  um/x  hospital/n &quot;/x ./x &lt;/s&gt;&lt;s&gt; Os/x  médicos/n  hospitalares/j  de/i  Medicina/n  Interna/j  &quot;/x não/r  podem/v  ser/v  deslocados/v  do/i  sítio/n  onde/r  estão/v  a/i</right>
+  </line>
+  <line refs="viagens-aviao.pt" num="177" label="_">
+    <left>com/i  a/x  exploração/n  de/i  ouro/n ./x &lt;/s&gt;&lt;s&gt; Quando/r  Napoleão/n  com/i  ajuda/n  dos/i  Espanhóis/n  ameaçaram/v  uma/x  invasão/n  a/i  corte/n  Portuguesa/j</left>
+    <kwic> transferiu-se/v</kwic>
+    <right> para/i  o/x  Brasil/n ,/x  que/p  beneficiou/v  muito/r  da/i  da/i  sua/x  presença/n  e/c  passou/v  um/x  período/n  de/i  franco/j  desenvolvimento/n ./x &lt;/s&gt;&lt;s&gt; O/x  Brasil/n  deixou/v  de/i</right>
+  </line>
+  <line refs="sapo.pt" num="178" label="_">
+    <left>da/i  América/n  e/c  o/x  Reino/n  Unido/v  já/r  anunciaram/v  fortes/j  sanções/n  ao/i  regime/n  de/i  Putin/n ./x &lt;/s&gt;&lt;s&gt; A/x  Federação/n  Europeia/j  de/i  Taekwondo/n  decidiu/v</left>
+    <kwic> transferir/v</kwic>
+    <right> o/x  torneio/n  de/i  qualificação/n  para/i  os/x  Jogos/n  Olímpicos/j  Tóquio2020/n  de/i  Milão/n  para/i  Moscovo/n ,/x  entre/i  16/m  e/c  18/m  de/i  abril/n ,/x  devido/v  à/i</right>
+  </line>
+  <line refs="esfb.pt" num="179" label="_">
+    <left>de/i  Belém/n ./x  1963/m  ─/x  Uma/x  parte/n  das/i  instalações/n  da/i  Escola/n  Industrial/j  de/i  Fonseca/n  Benevides/n ,/x  a/i  funcionar/v  em/i  Santos-o-Velho/n ,/x  é/v</left>
+    <kwic> transferida/v</kwic>
+    <right> para/i  o/x  edifício/n  oitocentista/j  entretanto/r  desocupado/v  pela/i  Escola/n  Industrial/j  de/i  Marquês/n  de/i  Pombal/n ./x &lt;/s&gt;&lt;s&gt; A/x  secção/n  de/i  Química/n</right>
+  </line>
+  <line refs="nintendo.pt" num="180" label="_">
+    <left>para/i  dares/n  ao/i  Qbby/n  um/x  aspeto/n  renovado/v ./x &lt;/s&gt;&lt;s&gt; E/c ,/x  claro/j ,/x  se/c  já/r  tiveres/v  BOXBOY/n !/x  ou/c  BOXBOXBOY/n !/x ,/x  todas/x  as/x  tuas/x  roupas/n  serão/v</left>
+    <kwic> transferidas/v</kwic>
+    <right> para/i  este/x  jogo/n ./x &lt;/s&gt;&lt;s&gt; Bónus/n  BOXBOX/n !/x &lt;/s&gt;&lt;s&gt; Se/c  tiveres/v  BOXBOY/n !/x &lt;/s&gt;&lt;s&gt; E/c  BOXBOXBOY/n !/x  na/i  tua/x  Nintendo/n  3DS/m ,/x  poderás/v  desbloquear/v  extras/n  em/i</right>
+  </line>
+  <line refs="cm-lajesdopico.pt" num="181" label="_">
+    <left>das/i  Lajes/n  do/i  Pico/n ,/x  verificando-se/v ,/x  contudo/c ,/x  um/x  atraso/n  no/i  pagamento/n  do/i  TOP/n  UP/n */x ,/x  no/i  montante/n  de/i  319.999,35/m €/x ,/x  o/p  qual/p  é/v</left>
+    <kwic> transferido/v</kwic>
+    <right> pela/i  entidade/n  nacional/j  de/i  gestão/n  de/i  fundos/n  provenientes/j  da/i  União/n  Europeia/j ,/x  não/r  cabendo/v  ao/i  Governo/n  Regional/j ,/x</right>
+  </line>
+  <line refs="diocesedecoimbra.pt" num="182" label="_">
+    <left>./x &lt;/s&gt;&lt;s&gt; O/x  corpo/n ,/x  de/i  facto/n ,/x  e/c  só/r  ele/p ,/x  é/v  capaz/j  de/i  tornar/v  visível/j  o/p  que/p  é/v  invisível/j :/x  o/x  espiritual/n  e/c  o/x  divino/n ./x &lt;/s&gt;&lt;s&gt; Foi/v  criado/v  para/i</left>
+    <kwic> transferir/v</kwic>
+    <right> para/i  a/x  realidade/n  visível/j  do/i  mundo/n  o/x  mistério/n  oculto/j  desde/i  a/x  eternidade/n  em/i  Deus/n ,/x  e/c  assim/r  ser/v  sinal/n  d'Ele/n &quot;/x xi/x ./x &lt;/s&gt;&lt;s&gt; Este/x  sinal/n</right>
+  </line>
+  <line refs="ineti.pt" num="183" label="_">
+    <left>os/x  cursos/n  de/i  artilharia/n  e/c  engenharia/n ,/x  sendo/v  em/i  seguida/n  colocado/v  no/i  regimento/n  aquartelado/v  em/i  Elvas/n  e/c  no/i  ano/n  seguinte/j</left>
+    <kwic> transferido/v</kwic>
+    <right> para/i  o/x  Porto/n ./x &lt;/s&gt;&lt;s&gt; Desde/i  muito/r  novo/j  que/p  manifestou/v  uma/x  especial/j  predilecção/n  pela/i  geologia/n ,/x  ciência/n  até/i  então/r  muito/r  pouco/r</right>
+  </line>
+  <line refs="descontos.pt" num="184" label="_">
+    <left>Almoço/n )/x ,/x  Porto/n  Santo/j  Hotel/n  &amp;/x  Spa/n  4/m */x  (/x Meia/j  Pensão/n )/x ,/x  Vila/n  Baleira/n  Wellness/n  Resort/n  Thalasso/n  Spa/n  4/m */x  (/x Tudo/p  Incluído/v )/x  -/x</left>
+    <kwic> Transferes/v</kwic>
+    <right> Aeroporto/n  //x  Hotel/n  //x  Aeroporto/n  com/i  assistência/n  local/j  -/x  Seguro/v  de/i  Viagem/n  -/x  Taxas/n  de/i  aeroporto/n ,/x  segurança/n  e/c  combustível/j  (/x</right>
+  </line>
+  <line refs="optimeios.pt" num="185" label="_">
+    <left>de/i  Excel/n ./x &lt;/s&gt;&lt;s&gt; Assim/r ,/x  se/p  possuir/v  um/x  ficheiro/n  em/i  Excel/n  com/i  uma/x  listagem/n  dos/i  seus/x  produtos/n  poderá/v  de/i  uma/x  forma/n  rápida/j  e/c  simples/j</left>
+    <kwic> transferir/v</kwic>
+    <right> essa/x  informação/n  para/i  a/x  sua/x  loja/n  online/r ./x &lt;/s&gt;&lt;s&gt; Em/i  baixo/r  apresentamos/v  o/x  resultado/n  final/j  do/i  processo/n  de/i  importação/n :/x &lt;/s&gt;&lt;s&gt; Criação/n  de/i</right>
+  </line>
+  <line refs="itinsight.pt" num="186" label="_">
+    <left>e/c  o/x  capital/n  natural/j &quot;/x ./x &lt;/s&gt;&lt;s&gt; Nesse/i  sentido/n ,/x  a/x  tecnologia/n  representa/v  um/x  papel/n  fundamental/j :/x  &quot;/x ajuda-nos/v  a/i  fazer/v  este/x  trajeto/n  de/i</left>
+    <kwic> transferir/v</kwic>
+    <right> dados/n ,/x  em/i  informação/n ,/x  em/i  conhecimento/n  e/c ,/x  eventualmente/r ,/x  em/i  sabedoria/n &quot;/x ./x &lt;/s&gt;&lt;s&gt; Adicionalmente/r ,/x  alerta/n  para/i  que/p  quando/r  se/p</right>
+  </line>
+  <line refs="mypartybox.pt" num="187" label="_">
+    <left>seja/v  a/x  residência/n  do/i  Consumidor/n ,/x  designadamente/r ,/x  mas/c  não/r  limitado/v  a/i  Alemanha/n  ou/c  Suíça/j ./x &lt;/s&gt;&lt;s&gt; A/x  My/n  Party/n  Box/n  pode/v  igualmente/r</left>
+    <kwic> transferir/v</kwic>
+    <right> dados/n  para/i  países/n  fora/r  da/i  Área/n  Económica/j  Europeia/j  (/x ex./n :/x  outras/x  sociedades/n  My/n  Party/n  Box/n )/x ,/x  incluindo/v  para/i  países/n  com/i</right>
+  </line>
+  <line refs="monumentos.pt" num="188" label="_">
+    <left>padroeiro/n  da/i  Santa/j  Casa/n ,/x  cujo/p  corpo/n  se/p  encontra/v  depositado/v  no/i  jazigo/n  da/i  família/n ;/x  1738/m  -/x  1740/m  -/x  o/x  primitivo/j  hospital/n  é/v</left>
+    <kwic> transferido/v</kwic>
+    <right> para/i  duas/m  salas/n  do/i  piso/n  superior/j  do/i  edifício/n  contíguo/j  à/i  capela/n ;/x  1748/m ,/x  25/m  outubro/n  -/x  falecimento/n  de/i  Pedro/v  Franco/j  Quintino/n</right>
+  </line>
+  <line refs="jornalterraemar.pt" num="189" label="_">
+    <left>e/c  da/i  sua/x  passagem/n  por/i  Viana/n  do/i  Castelo/n ,/x  desconhecida/v  por/i  muitos/p ./x &lt;/s&gt;&lt;s&gt; O/x  escritor/n ,/x  nascido/v  em/i  Freixo/n  de/i  Espaço/n  à/i  Cinta/n ,/x  foi/v</left>
+    <kwic> transferido/v</kwic>
+    <right> para/i  Viana/n  do/i  Castelo/n  como/c  Secretário-Geral/n  do/i  Governo/n  Civil/j ./x &lt;/s&gt;&lt;s&gt; Nesse/i  mesmo/r  ano/n ,/x  filiou-se/v  no/i  Partido/n  Progressista/j ,/x</right>
+  </line>
+  <line refs="sicnoticias.pt" num="190" label="_">
+    <left>de/i  um/x  hospital/n  distrital/j ./x  é/v  responsável/j  por/i  cerca/r  de/i  150/m  utentes/n ,/x  mais/r  frágeis/j  e/c  diferenciados/v ,/x  que/p  vão/v  ter/v  de/i  ser/v</left>
+    <kwic> transferido/v</kwic>
+    <right> para/i  outros/x  hospitais/n ./x &lt;/s&gt;&lt;s&gt; Vai/v  acabar/v  por/i  sobrecarregar/v  outros/x  hospitais/n &quot;/x ,/x  diz/v  o/x  delegado/n  da/i  Ordem/n  dos/i  Médicos/n  da/i  Guarda/n ,/x</right>
+  </line>
+  <line refs="donaclementinavegan.pt" num="191" label="_">
+    <left>dados/n  disponibilizados/v  não/r  serão/v  inseridos/v  em/i  outra/x  base/n  de/i  dados/n  sem/i  que/p  o/x  seu/x  titular/n  expressamente/r  o/p  consinta/v ,/x  nem/c</left>
+    <kwic> transferidos/v</kwic>
+    <right> para/i  outras/x  entidades/n ./x &lt;/s&gt;&lt;s&gt; Segurança/n  do/i  Tratamento/n  de/i  dados/n &lt;/s&gt;&lt;s&gt; Atentos/j  ao/i  facto/n  de/i  que/p  o/x  utilizador/n  está/v  constantemente/r</right>
+  </line>
+  <line refs="pcp.pt" num="192" label="_">
+    <left>face/n  ao/i  orçamento/n  camarário/j ./x &lt;/s&gt;&lt;s&gt; Tal/x  situação/n  resulta/v  também/r  da/i  sucessiva/j  desresponsabilização/n  do/i  Estado/n  que/p  tem/v  vindo/v  a/i</left>
+    <kwic> transferir/v</kwic>
+    <right> para/i  as/x  autarquias/n  a/i  responsabilidade/n  da/i  promoção/n  cultural/j ,/x  que/p ,/x  neste/i  caso/n  concreto/j ,/x  encara/v  a/x  cultura/n  como/c  um/x</right>
+  </line>
+  <line refs="uevora.pt" num="193" label="_">
+    <left>./x &lt;/s&gt;&lt;s&gt; Contudo/c ,/x  deve/v  ter/v  sido/v  antes/r  de/i  mais/r  o/x  amor/n  do/i  músico/n  à/i  terra/n  alentejana/j ,/x  à/i  paisagem/n  que/p  vividamente/r  Florbela/n  Espanca/v</left>
+    <kwic> transfere/v</kwic>
+    <right> para/i  a/x  palavra/n  poética/j ,/x  que/p  o/p  terá/v  compelido/v  à/i  obra/n  da/i  poetisa/n ./x &lt;/s&gt;&lt;s&gt; Parecem/v  apontar/v  nesse/i  sentido/n  os/x  quatro/m  sonetos/n</right>
+  </line>
+  <line refs="rtp.pt" num="194" label="_">
+    <left>é/v  que/c  tem/v  competência/n  para/i  decidir/v ./x &lt;/s&gt;&lt;s&gt; Peter/n  Villax/n  acredita/v  que/c ,/x  antes/r  desta/i  polémica/n ,/x  as/x  hipóteses/n  da/i  agência/n  ser/v</left>
+    <kwic> transferida/v</kwic>
+    <right> para/i  Portugal/n  eram/v  mais/r  elevadas/v  do/i  que/p  são/v  agora/r  e/c  deixa/v  um/x  conselho/n :/x  sugere/v  que/c  se/p  comece/v  a/i  pensar/v  e/c  se/c  dê/v  garantias/n  de/i</right>
+  </line>
+  <line refs="am-lisboa.pt" num="195" label="_">
+    <left>no/i  50/2018/m ,/x  de/i  16/m  de/i  agosto/n )/x :/x  i/v ./x &lt;/s&gt;&lt;s&gt; Decreto-lei/n  n/n ./x o/x  99/2018/m  -/x  Promoção/n  turística/j  interna/n  sub-regional/j  As/x  competências/n  a/i</left>
+    <kwic> transferir/v</kwic>
+    <right> prendem-se/v ,/x  designadamente/r ,/x  com/i  a/x  articulação/n  com/i  as/x  entidades/n  regionais/j  de/i  turismo/n ,/x  com/i  os/x  planos/n  regionais/j  de/i</right>
+  </line>
+  <line refs="tugatech.com.pt" num="196" label="_">
+    <left>se/p  encontra/v  na/i  opção/n  &quot;/x Pagamento/n  de/i  Serviços/n &quot;/x ./x &lt;/s&gt;&lt;s&gt; A/x  opção/n  &quot;/x Transferência/n  bancaria/n &quot;/x  é/v  utilizada/v  quando/r  pretende/v</left>
+    <kwic> transferir/v</kwic>
+    <right> directamente/r  para/i  outro/x  NIB/n //x conta/n ./x &lt;/s&gt;&lt;s&gt; O/p  que/p  esse/x  tópico/n  refere/v  é/v  que/c  as/x  legendas/n  estão/v  a/i  ser/v  traduzidas/v  por/i  um/x  utilizador/n ,/x</right>
+  </line>
+  <line refs="diariodalagoa.pt" num="197" label="_">
+    <left>,/x  Sete/n  Cidades/n ,/x  Fajã/n  de/i  Baixo/j ,/x  Ginetes/n ,/x  Remédios/n  e/c  Santo/j  António/n ./x &lt;/s&gt;&lt;s&gt; No/i  âmbito/n  da/i  delegação/n  de/i  competência/n  a/x  autarquia/n  vai/v</left>
+    <kwic> transferir/v</kwic>
+    <right> este/x  ano/n  1,85_milhões/m  de/i  euros/n  para/i  as/x  24/m  juntas/n  de/i  freguesia/n  do/i  Concelho/n ./x &lt;/s&gt;&lt;s&gt; Ainda/r  não/r  há/v  detalhes/n  sobre/i  no/i  objetivo/n  da/i</right>
+  </line>
+  <line refs="acorianooriental.pt" num="198" label="_">
+    <left>dos/i  '/x dragões/n '/x  entre/i  1998/m  e/c  2001/m ,/x  tendo/v  contribuído/v  para/i  a/x  conquista/n  do/i  pentacampeonato/n ,/x  em/i  1999/m ./x &lt;/s&gt;&lt;s&gt; Esquerdinha/j</left>
+    <kwic> transferiu-se/v</kwic>
+    <right> do/i  FC/n  Porto/n  para/i  os/x  espanhóis/n  do/i  Saragoça/n ,/x  tendo/v  em/i  2003/m  passado/n  pela/i  Académia/n ,/x  antes/r  de/i  rumar/v  ao/i  Goiás/n ,/x  do/i  Brasil/n ./x &lt;/s&gt;&lt;s&gt; São/v</right>
+  </line>
+  <line refs="sapo.pt" num="199" label="_">
+    <left>dos/i  adeptos/n  do/i  Sporting/n ./x &lt;/s&gt;&lt;s&gt; Pela/i  décima/j  vez/n ./x &lt;/s&gt;&lt;s&gt; Já/r  foi/v  do/i  Manchester/n  City/n  e/c  do/i  Tottenham/n ./x &lt;/s&gt;&lt;s&gt; Mas/c  logo/r  regressou/v  ao/i  Sporting/n ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Transferiu-se/v</kwic>
+    <right> depois/r  para/i  o/x  Manchester/n  United/n ,/x  tendo/v  estado/n  em/i  dúvida/n  para/i  a/x  receção/n  ao/i  Benfica/n ./x &lt;/s&gt;&lt;s&gt; Só/r  viajou/v  depois/r  para/i  Old/n  Trafford/n ./x &lt;/s&gt;</right>
+  </line>
+</concordance>
+</export>

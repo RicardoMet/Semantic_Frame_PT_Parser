@@ -1,0 +1,1013 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>preloaded/pttenten23_fl6</corpus>
+  <subcorpus>TLD of Portugal .pt</subcorpus>
+  <query>
+    <subquery operation="Query" size="47767">[lempos_lc=&quot;(avisar)-v&quot;]</subquery>
+    <subquery operation="Random sample" size="200">200</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="dgsi.pt" num="0" label="_">
+    <left>para/i  provimento/n  de/i  três/m  vagas/n  de/i  terceiro/j  oficial/n  da/i  Direcção/n  –/x  Geral/j  de/i  Espectáculos/n  e/c  do/i  Direito/n  de/i  Autor/n ,/x  conforme/r</left>
+    <kwic> aviso/v</kwic>
+    <right> publicado/v  no/i  D.R./n  II/n  Série/n  de/i  8.6.89/m ;/x  15/m  –/x  Entregou/v  então/r  nesse/i  dia/n ,/x  22/m  de/i  Junho/n  de/i  1989/m ,/x  nas/i  instalações/n  da/i  Direcção/n  –/x</right>
+  </line>
+  <line refs="sabiasque.pt" num="1" label="_">
+    <left>do/i  Baile/n  Barulhinho/n  Bom/j ,/x  festa/n  permanente/j  do/i  .../x  DoSol30/n  de/i  abril/n  de/i  2012/m ,/x  15:05/m 30/m  de/i  abril/n  de/i  20120/m  405/m &lt;/s&gt;&lt;s&gt; Notícias/n  -/x  GERE/v</left>
+    <kwic> avisa/v</kwic>
+    <right> sobre/i  a/x  abertura/n  de/i  três/m  novos/j  concursos/n &lt;/s&gt;&lt;s&gt; ID/n  da/i  Oferta/n  589109355/m  N./n o/x  de/i  Vagas/v  1/m  Condições/n  Requeridas/v  Habilitações/n</right>
+  </line>
+  <line refs="star-riders.pt" num="2" label="_">
+    <left>,/x  desobediência/n  ao/i  chefe/n  de/i  fila/n ,/x  adopção/n  de/i  condutas/n  agressivas/j ,/x  falta/n  de/i  uso/n  de/i  equipamento/n  de/i  segurança/n  quando/r</left>
+    <kwic> avisado/v</kwic>
+    <right> para/i  o/x  efeito/n  e/c  procedimento/n  desordeiro/j  de/i  qualquer/x  natureza/n ./x &lt;/s&gt;&lt;s&gt; O/x  associado/n  expulso/j  será/v  notificado/v  por/i  escrito/n ./x &lt;/s&gt;&lt;s&gt; Uma/x</right>
+  </line>
+  <line refs="tuningonline.pt" num="3" label="_">
+    <left>à/i  venda/n  a/i  partir/v  da/i  proxima/j  semana/n ./x &lt;/s&gt;&lt;s&gt; Deixei/v  por/i  algum/x  tempo/n  a/i  venda/n  por/i  motivos/n  pessoais/j ./x &lt;/s&gt;&lt;s&gt; Quem/p  estiver/v  interessado/v</left>
+    <kwic> avise/v</kwic>
+    <right> por/i  pm./n  Vou/v  actualizar/v  o/x  topico/j  inicial/j ./x &lt;/s&gt;&lt;s&gt; Abraços/n ./x &lt;/s&gt;&lt;s&gt; O/x  trigésimo/j  quarto/j  espírito/n  é/v  Furfur/n  ou/c  Furtur/n ./x &lt;/s&gt;&lt;s&gt; É/v  um/x  grande/j  Conde/n ,/x</right>
+  </line>
+  <line refs="truca.pt" num="4" label="_">
+    <left>deste/i  mês/n ,/x  em/i  horário/n  e/c  local/n  que/p  não/r  foi/v  possível/j  precisar/v  com/i  exactidão/n  até/r  ao/i  encerramento/n  desta/i  página/n ./x &lt;/s&gt;&lt;s&gt; Tinha/v</left>
+    <kwic> avisado/v</kwic>
+    <right> num/i  dos/i  primeiros/j  textos/n  de/i  Energias/n  Livres/j  que/p  astrologia/n  era/v  um/x  dos/i  temas/n  que/p  não/r  seria/v  focado/v  nestas/i  páginas/n ./x &lt;/s&gt;&lt;s&gt; Mas/c  a/x</right>
+  </line>
+  <line refs="tv7dias.pt" num="5" label="_">
+    <left>Fredy/n  se/p  vai/v  encontrar/v  com/i  Glória/n  no/i  clube/n  e/c  que/p  tem/v  receio/n  de/i  que/p  Fredy/n  descubra/v  quem/p  ficou/v  com/i  os/x  dois_milhões/m ./x &lt;/s&gt;&lt;s&gt; MIGUEL/n</left>
+    <kwic> avisa/v</kwic>
+    <right> MÓNICA/n  de/i  que/p  o/x  divórcio/n  deles/i  será/v  litigioso/j ./x &lt;/s&gt;&lt;s&gt; LEMOS/v ,/x  GONÇALO/n  e/c  o/x  designer/n  fogem/v  de/i  OTELO/n ,/x  enfiando-se/v  num/i  táxi/n ./x &lt;/s&gt;</right>
+  </line>
+  <line refs="zankyou.pt" num="6" label="_">
+    <left>Portugal/n ./x &lt;/s&gt;&lt;s&gt; Esta/x  os/x  seus/x  pais/n ,/x  de/i  certeza/n ,/x  que/p  não/r  seguiram/v ./x &lt;/s&gt;&lt;s&gt; Por/i  outro/x  lado/n ,/x  você/p  está/v  louca/n  para/i  recorrer/v  a/i  este/x  meio/n  para/i</left>
+    <kwic> avisar/v</kwic>
+    <right> os/x  seus/x  amigos/n  e/c  familiares/n  que/p  vai/v  casar/v ./x &lt;/s&gt;&lt;s&gt; Tal/r  como/c  as/x  palavras/n  em/i  inglês/n  dizem/v ,/x  &quot;/x save/j  the/n  date/v &quot;/x  significa/v  que/c  você/p  está/v  a/i</right>
+  </line>
+  <line refs="publico.pt" num="7" label="_">
+    <left>de/i  Setúbal/n  estejam/v  a/i  ser/v  utilizados/v  pelos/i  seus/x  representantes/n  como/c  moeda/n  de/i  troca/n  para/i  uma/x  luta/n  de/i  poder/n  sindical/j &quot;/x ,/x</left>
+    <kwic> avisa/v</kwic>
+    <right>./x &lt;/s&gt;&lt;s&gt; A/x  ministra/n  do/i  Mar/n  quis/v  deixar/v  uma/x  palavra/n  de/i  conforto/n  &quot;/x aos/i  trabalhadores/n  do/i  porto/n  de/i  Setúbal/n  e/c  às/i  suas/x  famílias/n  que/p</right>
+  </line>
+  <line refs="idealista.pt" num="8" label="_">
+    <left>e/c  surge/v  nas/i  vésperas/n  das/i  eleições/n  europeias/j ,/x  que/p  se/p  realizam/v  no/i  final/n  de/i  Maio/n  -/x  em/i  Portugal/n  são/v  dia/n  25/m ./x  (/x Público/n )/x &lt;/s&gt;&lt;s&gt; Obama/n</left>
+    <kwic> avisa/v</kwic>
+    <right> Rússia/n  para/i  a/x  possível/j  aplicação/n  de/i  sanções/n :/x  O/x  Presidente/n  norte-americano/j ,/x  Barack/n  Obama/n ,/x  acusou/v ,/x  esta/x  quinta-feira/n</right>
+  </line>
+  <line refs="publico.pt" num="9" label="_">
+    <left>poderá/v  estar/v  à/i  beira/n  de/i  provocar/v  uma/x  catástrofe/n  climatérica/j  abrupta/j  e/c  com/i  consequências/n  gravíssimas/j ./x &lt;/s&gt;&lt;s&gt; Hall/n  tenta/v</left>
+    <kwic> avisar/v</kwic>
+    <right> os/x  poderes/n  responsáveis/j ,/x  mas/c  é/v  tarde/r  demais/r ./x &lt;/s&gt;&lt;s&gt; Tornados/n  começam/v  a/i  devastar/v  Los/p  Angeles/n ,/x  neva/v  pela/i  primeira/j  vez/n  em/i  Nova/j</right>
+  </line>
+  <line refs="dn.pt" num="10" label="_">
+    <left>do/i  projeto/n  de/i  arquitetura/n ./x &lt;/s&gt;&lt;s&gt; México/n  vai/v  deter/v  e/c  deportar/v  migrantes/n  que/p  atravessaram/v  da/i  Guatemala/n &lt;/s&gt;&lt;s&gt; O/x  Governo/n  mexicano/j</left>
+    <kwic> avisou/v</kwic>
+    <right> que/c  vai/v  deter/v  e/c  deportar/v  todos/x  os/x  elementos/n  da/i  caravana/n  de/i  migrantes/n  que/p  atravessaram/v ,/x  nas/i  últimas/j  horas/n  e/c  de/i  forma/n</right>
+  </line>
+  <line refs="spn.pt" num="11" label="_">
+    <left>directa/j  do/i  Estado/n ,/x  sejam/v  eles/p  centrais/j  ou/c  desconcentrados/v ,/x  e/c  nos/i  institutos/n  públicos/j ,/x  no/i  dia/n  25/m  de/i  Fevereiro/n  de/i  2020/m &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Aviso/v</kwic>
+    <right> n/n ./x o/x  2688/2020/m  -/x  Diário/n  da/i  República/j  n/n ./x o/x  34/2020/m ,/x  Série/n  II/n  de/i  2020-02-18/m ,/x  do/i  Ministério/n  da/i  Educação/n  –/x  Direcção-Geral/n</right>
+  </line>
+  <line refs="ubi.pt" num="12" label="_">
+    <left>do/i  Estado/n &quot;/x ,/x  a/x  Enatur/n ./x &lt;/s&gt;&lt;s&gt; Recorde-se/v  que/c ,/x  há/v  cerca/r  de/i  dois/m  meses/n ,/x  em/i  declarações/n  ao/i  NC/n ,/x  Jorge/n  Patrão/n  já/r  tinha/v</left>
+    <kwic> avisado/v</kwic>
+    <right> que/c  a/x  privatização/n  da/i  ENATUR/n  iria/v  &quot;/x trazer/v  problemas/n  para/i  as/x  pousadas/n  regionais/j &quot;/x ,/x  isto/p  depois/r  das/i  mudanças/n  na/i  gestão/n</right>
+  </line>
+  <line refs="sapo.pt" num="13" label="_">
+    <left>a/i  atingir/v  os/x  80/m  km/n //x h/n  quando/r  só/r  podem/v  andar/v  a/i  25/m ,/x  escreve/v  hoje/r  o/x  Jornal/n  de/i  Notícias/n ./x &lt;/s&gt;&lt;s&gt; &quot;/x Ou/c  disciplinam/v ,/x  ou/c  somos/v  contra/i &quot;/x ,/x</left>
+    <kwic> avisa/v</kwic>
+    <right> José/n  Manuel/n  Caetano/n ,/x  presidente/n  da/i  Federação/n  Portuguesa/j  de/i  Cicloturismo/n  e/c  Utilizadores/n  de/i  Bicicleta/n  (/x FPCUB/n )/x  ao/i</right>
+  </line>
+  <line refs="sapo.pt" num="14" label="_">
+    <left>,/x  o/x  Hospital/n  de/i  Santa/j  Maria/n ,/x  em/i  Lisboa/n ,/x  apelou/v  a/i  que/c  os/x  doentes/n  não/r  urgentes/j  não/r  se/p  dirijam/v  às/i  urgências/n  daquela/i  unidade/n ,/x</left>
+    <kwic> avisando/v</kwic>
+    <right> que/c  só/r  atenderá/v  os/x  doentes/n  referenciados/v  via/n  CODU/n  ou/c  pela/v  Linha/n  de/i  Saúde/n  24/m ./x &lt;/s&gt;&lt;s&gt; O/x  plano/n  de/i  contingência/n  no/i  maior/j  hospital/n  do/i</right>
+  </line>
+  <line refs="iol.pt" num="15" label="_">
+    <left>./x &lt;/s&gt;&lt;s&gt; É/v  o/x  Artur/n  que/p  ficou/v  de/i  ir/v  ver/v  da/i  mala/n  ao/i  Dolce/n  Vita/n ,/x mas/c  entretanto/r  adoeci/v ,/x não/r  consigo/v  o/x  vosso/x  contacto/n  que/p  era/v  para/i  vos/p</left>
+    <kwic> avisar/v</kwic>
+    <right> que/c  irei/v  lá/r  hoje/r ./x &lt;/s&gt;&lt;s&gt; Abraço/n ./x &lt;/s&gt;&lt;s&gt; VNC/n  significa/v  Virtual/j  Network/n  Computing/n ./x &lt;/s&gt;&lt;s&gt; Este/x  software/n  foi/v  desenvolvido/v  para/i  ser/v  um/x</right>
+  </line>
+  <line refs="dinheirovivo.pt" num="16" label="_">
+    <left>contexto/n ,/x  o/x  SNQTB/n  suspende/v  a/x  manifestação/n  que/p  tinha/v  marcado/v  para/i  dia/n  25/m ,/x  junto/r  à/i  sede/n  do/i  Montepio/n  Geral/j ,/x  em/i  Lisboa/n ,/x  mas/c</left>
+    <kwic> avisa/v</kwic>
+    <right> que/c  poderá/v  &quot;/x retomar/v  esta/x  iniciativa/n ,/x  de/i  acordo/n  com/i  o/x  decurso/n  do/i  processo/n  negocial/j  e/c  caso/c  venha/v  a/i  justificar-se/v &quot;/x ./x &lt;/s&gt;&lt;s&gt; &quot;/x A/x</right>
+  </line>
+  <line refs="iwork.pt" num="17" label="_">
+    <left>de/i  incêndios/n :/x  Colocação/n  de/i  Sensores/n  nas/i  próprias/j  árvores/n ,/x  que/p  detectam/v  a/x  ignição/n  inicial/j  de/i  um/x  incêndio/n  florestal/j  e/c</left>
+    <kwic> avisam/v</kwic>
+    <right> de/i  imediato/n  os/x  bombeiros/n ,/x  permitindo/v  antecipar/v  o/x  combate/n  às/i  chamas/n  e/c  diminuir/v  a/x  área/n  ardida/v ./x &lt;/s&gt;&lt;s&gt; Comparative/n  Trace/v</right>
+  </line>
+  <line refs="portaldacrianca.com.pt" num="18" label="_">
+    <left>fosse/v  mais/r  rápida/j ./x &lt;/s&gt;&lt;s&gt; –/x  Que/p  tartaruga/n !/x &lt;/s&gt;&lt;s&gt; Despacha-te/v  ou/c  vamos/v  perder/v  tudo/p !/x &lt;/s&gt;&lt;s&gt; –/x  Sadako/n ,/x  anda/v  mais/r  devagar/r  por/i  causa/n  do/i  calor/n  –/x</left>
+    <kwic> avisou/v</kwic>
+    <right> a/x  mãe/n ./x &lt;/s&gt;&lt;s&gt; Mas/c  as/x  raparigas/n  já/r  estavam/v  no/i  fim/n  da/i  rua/n ./x &lt;/s&gt;&lt;s&gt; A/x  senhora/n  Sasaki/n  franziu/v  o/x  sobrolho/n ./x &lt;/s&gt;&lt;s&gt; –/x  A/x  Sadako/n  tem/v  sempre/r  tanta/x  pressa/n</right>
+  </line>
+  <line refs="natgeo.pt" num="19" label="_">
+    <left>alimentam/v  o/x  comércio/n  ilícito/j  de/i  heroína/n  no/i  Afeganistão/n ./x &lt;/s&gt;&lt;s&gt; E/c  também/r  foram/v  desenvolvidos/v  sistemas/n  de/i  alerta/n  precoce/j  para/i</left>
+    <kwic> avisar/v</kwic>
+    <right> as/x  comunidades/n  sobre/i  a/x  iminência/n  de/i  desastres/n  naturais/j ./x &lt;/s&gt;&lt;s&gt; Foram/v  instalados/v  poços/n  e/c  sistemas/n  de/i  água/n  em/i  áreas/n  remotas/j  e/c  a/x</right>
+  </line>
+  <line refs="artemix.pt" num="20" label="_">
+    <left>a/x  encomenda/n  e/c  o/x  produto/n  ficará/v  novamente/r  disponível/j  an/n  loja/n ./x &lt;/s&gt;&lt;s&gt; CANCELAMENTO/n  Se/p  quiser/v  cancelar/v  a/x  encomenda/n ,/x  por/i  favor/n</left>
+    <kwic> avise-nos/v</kwic>
+    <right> com/i  24/m  horas/n  de/i  antecedência/n ./x &lt;/s&gt;&lt;s&gt; Iremos/v  devolver/v  o/x  seu/x  dinheiro/n ./x &lt;/s&gt;&lt;s&gt; Todas/x  as/x  encomendas/n  são/v  enviadas/v  por/i  transportadora/n ,/x  ou/c</right>
+  </line>
+  <line refs="sapo.pt" num="21" label="_">
+    <left>e/c  subantártica/j  –/x  poderão/v  ter/v  consequências/n  devastadoras/j  e/c  causar/v  o/x  colapso/n  local/j  e/c  a/x  extinção/n  de/i  algumas/x  populações/n &quot;/x ,/x</left>
+    <kwic> avisam/v</kwic>
+    <right> os/x  biólogos/n ./x &lt;/s&gt;&lt;s&gt; O/x  estudo/n  mostra/v  que/c  o/x  risco/n  de/i  zoonose/n  inversa/j  é/v  mais/r  elevado/v  em/i  áreas/n  próximas/j  das/i  zonas/n  geográficas/j  mais/r</right>
+  </line>
+  <line refs="sicnoticias.pt" num="22" label="_">
+    <left>do/i  FMI/n ./x &lt;/s&gt;&lt;s&gt; O/x  pedido/n  está/v ,/x  neste/i  momento/n ,/x  a/i  ser/v  avaliado/v  pelos/i  ministros/n  das/i  Finanças/n  da/i  Zona/n  Euro/n ,/x  mas/c  a/x  chanceler/n  alemã/j</left>
+    <kwic> avisou/v</kwic>
+    <right> esta/x  terça-feira/n  que/p  não/r  há/v  nada/p  para/i  debater/v  antes/r  do/i  referendo/n ./x &lt;/s&gt;&lt;s&gt; Atenas/n  também/r  quer/v  uma/x  extensão/n  do/i  atual/j  programa/n ,/x</right>
+  </line>
+  <line refs="sicnoticias.pt" num="23" label="_">
+    <left>ou/c  Ligue/v  diretamente/r  para/i  o/x  Consulado/n  Grecia/n  em/i  Stuttgart/n  pelo/i  telefone/n  (/x +49/m )/x  711/m  222/m  98/m  70/m  ou/c  e-mail/n &lt;/s&gt;&lt;s&gt; Jerónimo/n  de/i  Sousa/n</left>
+    <kwic> avisa/v</kwic>
+    <right> que/c  a/x  aprovação/n  do/i  OE/n  2019/m  não/r  está/v  garantida/v &lt;/s&gt;&lt;s&gt; O/x  secretário/n  geral/j  do/i  PCP/n  mantém-se/v  cautoloso/j  em/i  relação/n  ao/i  Orçamento/n  do/i</right>
+  </line>
+  <line refs="patriarcado-lisboa.pt" num="24" label="_">
+    <left>é/v  o/x  fruto/n  e/c  o/x  ambiente/n  da/i  escuta/n  da/i  Palavra/n ./x &lt;/s&gt;&lt;s&gt; É/v  uma/x  experiência/n  constitutiva/j  da/i  seriedade/n  da/i  vida/n  cristã/j ./x &lt;/s&gt;&lt;s&gt; O/x  Santo/j  Padre/n</left>
+    <kwic> avisa-nos/v</kwic>
+    <right> de/i  que/c  um/x  cristão/n  que/p  não/r  reza/v ,/x  não/r  é/v  apenas/r  um/x  cristão/n  medíocre/j ,/x  é/v  um/x  cristão/n  em/i  perigo/n ./x &lt;/s&gt;&lt;s&gt; A/x  oração/n  é/v  um/x  exercício/n  principal/j</right>
+  </line>
+  <line refs="monstersgame.com.pt" num="25" label="_">
+    <left>lobisomens/n  Demorranter/n  e/c  Sauron/n ,/x  que/p  lucraram/v  consideravelmente/r  nos/i  seu/x  ultimos/n  ataques/n  a/x  minha/x  pessoa/n ,/x  gostaria/v  de/i</left>
+    <kwic> avisar/v</kwic>
+    <right> q/n  nao/r  nessecito/j  mais/r  guardar/v  dinheiro/n  e/c  por/i  isso/p ,/x  não/r  terminarei/v  o/x  dia/n  com/i  mais/r  de/i  10/m  moedas/n  de/i  ouro/n  no/i  bolço/v  hehe/v ,/x  ou/c  seja/v</right>
+  </line>
+  <line refs="homify.pt" num="26" label="_">
+    <left>do/i  público/n ,/x  com/i  um/x  simples/j  movimento/n ./x &lt;/s&gt;&lt;s&gt; Se/p  deixar/v  a/x  sua/x  porta/n  aberta/j  estará/v  a/i  deixar/v  a/x  sua/x  casa/n  devassada/v  e/c  pública/j  e/c</left>
+    <kwic> avisamos/v</kwic>
+    <right> já/r ,/x  que/c  não/r  o/p  convém/v  fazer/v !/x &lt;/s&gt;&lt;s&gt; Independentemente/r  do/i  estilo/n  arquitectónico/j  da/i  sua/x  moradia/n  ou/c  apartamento/n ,/x  este/x  elemento/n</right>
+  </line>
+  <line refs="sabado.pt" num="27" label="_">
+    <left>de/i  uso/n  a/i  mais/r  grupos/n ./x &lt;/s&gt;&lt;s&gt; Luís/n  Onofre/n  vai/v  suspender/v  o/x  contrato/n  dos/i  55/m  trabalhadores/n  da/i  fábrica/n  de/i  Oliveira/n  de/i  Azeméis/n ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Avisa/v</kwic>
+    <right> que/c  o/x  setor/n  pode/v  perder/v  as/x  duas/m  coleções/n  deste/i  ano/n  e/c  diz/v  que/c  a/x  China/n  devia/v  &quot;/x compensar/v  o/x  prejuízo/n &quot;/x  causado/v  pela/i  covid-19/m ./x &lt;/s&gt;</right>
+  </line>
+  <line refs="shopmania.pt" num="28" label="_">
+    <left>Compatíveis/j  PGI-520BK/CLI-521BK/CLI-521C/CLI-521M/CLI-521Y/n &quot;/x  são/v  enviadas/v  pelas/i  lojas/n  listadas/j ./x &lt;/s&gt;&lt;s&gt; Por/i  favor/n  nos/p</left>
+    <kwic> avise/v</kwic>
+    <right> se/p  encontrar/v  alguns/x  erros/n ./x &lt;/s&gt;&lt;s&gt; Atenção/n :/x  os/x  preços/n ,/x  os/x  URL/n  e/c  as/x  características/n  de/i  produto/n  para/i  Fellowes/n  Tapete/n  Para/i  Rato/n  C/n //x</right>
+  </line>
+  <line refs="sapo.pt" num="29" label="_">
+    <left>de/i  investigação/n  II/n  Semestral/j  20/m  Musicoterapia/n  didáctica/j  IV/n  Semestral/j  40/m &lt;/s&gt;&lt;s&gt; Greve/n  dos/i  médicos/n ./x &lt;/s&gt;&lt;s&gt; Hospitais/n  estão/v  a/i</left>
+    <kwic> avisar/v</kwic>
+    <right> doentes/n  para/i  não/r  irem/v  às/i  consultas/n &lt;/s&gt;&lt;s&gt; O/x  i/n  sabe/v  que/c  há/v ,/x  pelo/v  menos/r ,/x  um/x  hospital/n  em/i  Lisboa/n ,/x  o/x  hospital/n  de/i  Santa/j  Marta/n ,/x  que/p  está/v  a/i</right>
+  </line>
+  <line refs="revistamilitar.pt" num="30" label="_">
+    <left>possível/j  e/c  em/i  conformidade/n  com/i  as/x  prioridades/n  mais/r  aconselháveis/j  à/i  luz/n  da/i  situação/n  de/i  crise/n  por/i  que/p  passamos/v ./x &quot;/x  E/c</left>
+    <kwic> avisa/v</kwic>
+    <right> que/c  &quot;/x nenhum/p  dos/i  nossos/x  parceiros/n  estará/v  disponível/j  para/i  nos/p  defender/v ,/x  nem/c  sequer/r  para/i  nos/p  apoiar/v ,/x  se/c  não/r  formos/v  nós/p  a/i</right>
+  </line>
+  <line refs="jornaldenegocios.pt" num="31" label="_">
+    <left>razão/n ,/x  podemos/v  estar/v  no/i  euro/n  virando/v  a/x  página/n  da/i  austeridade/n &quot;/x ,/x  concluiu/v  recordando/v  o/x  fracassado/v  vaticínio/n  de/i  quem/p</left>
+    <kwic> avisava/v</kwic>
+    <right> para/i  a/x  chegada/n  do/i  diabo/n ./x &lt;/s&gt;&lt;s&gt; Costa/n  não/r  se/p  esqueceu/v  de/i  destacar/v  o/x  facto/n  de/i  o/x  ministro/n  das/i  Finanças/n ,/x  Mário/n  Centeno/n ,/x  ser/v  agora/r</right>
+  </line>
+  <line refs="gestaodocondominio.pt" num="32" label="_">
+    <left>:/x apresentem/v  queixa/n  nas/i  Autoridades/n ./x &lt;/s&gt;&lt;s&gt; Já/r  reparou/v  naqueles/i  painéis/n  em/i  plástico/n  que/p  os/x  Hipermercados/n  utilizam/v  para/i</left>
+    <kwic> avisar/v</kwic>
+    <right> do/i  piso/n  escorregadio/j ?/x &lt;/s&gt;&lt;s&gt; Se/c  todos/x  os/x  condóminos/n  tivessem/v  segura/j  a/x  cobertura/n  de/i  resp/n ./x  civil/j  nos/i  contratos/n ,/x  estava/v  o/x</right>
+  </line>
+  <line refs="traveltool.pt" num="33" label="_">
+    <left>,/x  então/r  vou/v  dar/v  algumas/x  indicações/n  para/i  novatos/n :/x  1/m )/x  Onde/r  ficamos/v ,/x  as/x  praias/n  eram/v  incríveis/j ./x &lt;/s&gt;&lt;s&gt; Para/i  ir/v  mais/r  ao/i  norte/n  eu/p</left>
+    <kwic> aviso/v</kwic>
+    <right>./x &lt;/s&gt;&lt;s&gt; As/x  praias/n  parecia/v  ser/v  um/x  pouco/p  mais/r  natural/j  e/c  têm/v  muito/r  pouco/x  espaço/n  entre/i  mar/n  e/c  zona/n  relvada/j  áspera/j ,/x  especialmente/r  na/i</right>
+  </line>
+  <line refs="tsf.pt" num="34" label="_">
+    <left>nacional/j  do/i  BE/n ,/x  Catarina/j  Martins/n ,/x  defendeu/v  hoje/r  que/c  em/i  26/m  de/i  maio/n ,/x  dia/n  das/i  eleições/n ,/x  &quot;/x também/r  se/p  decide/v  o/x  salário/n &quot;/x ,/x</left>
+    <kwic> avisando/v</kwic>
+    <right> que/c  quem/p  chegar/v  atrasado/v  às/i  europeias/n ,/x  &quot;/x chega/v  atrasado/v  em/i  outubro/n &quot;/x  para/i  &quot;/x aumentar/v  os/x  direitos/n &quot;/x ./x &lt;/s&gt;&lt;s&gt; No/i  comício/n  da/i</right>
+  </line>
+  <line refs="tsf.pt" num="35" label="_">
+    <left>o/x  desfasamento/n  temporal/j ,/x  surgiram/v  dúvidas/n  sobre/i  se/p  a/x  aplicação/n  do/i  coeficiente/n  (/x que/p  implica/v  que/c  o/x  inquilino/n  seja/v</left>
+    <kwic> avisado/v</kwic>
+    <right> por/i  carta/n  com/i  30/m  dias/n  de/i  antecedência/n )/x  a/i  partir/v  de/i  janeiro/n ,/x  trava/v  mais/r  à/i  frente/n  nova/j  atualização/n ,/x  no/i  caso/n  específico/j</right>
+  </line>
+  <line refs="espf.edu.pt" num="36" label="_">
+    <left>casalinho/n  &quot;/x  que/p  é/v  o/x  símbolo/n  desta/i  colecção/n ,/x  continuam/v  a/i  ser/v  atuais/j  e/c  intemporais/j ,/x  tal/r  como/c  o/x  próprio/j  sentimento/n  do/i  amor/n ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Avisa-se/v</kwic>
+    <right> todos/x  os/x  alunos/n  (/x 11o/m  e/c  12o/m  anos/n )/x  que/p  as/x  inscrições/n  para/i  os/x  Exames/n  Finais/j  Nacionais/j  e/c  Provas/n  de/i  Equivalência/n  à/i  Frequência/n</right>
+  </line>
+  <line refs="metalunderground.pt" num="37" label="_">
+    <left>apagar/v  chamas/n )/x ./x &lt;/s&gt;&lt;s&gt; Ca/c  puta/n  de/i  exagero/n ,/x  aquilo/p  rebentou/v  mesmo/r  à/i  minha/x  frente/n ,/x  pegou/v  fogo/n  em/i  menos/r  de/i  1/m  minuto/n ,/x  eu/p  corri/v  para/i</left>
+    <kwic> avisar/v</kwic>
+    <right> os/x  gajos/n  que/p  tavam/v  nas/i  bifanas/n ,/x  eles/p  vieram/v ,/x  esteve/v  uns/x  2/m  minutos/n  em/i  chamas/n ,/x  um/x  gajo/n  ao/i  telemovel/n ,/x  provavelmente/r  a/i</right>
+  </line>
+  <line refs="guimaraesdigital.pt" num="38" label="_">
+    <left>com/i  as/x  outras/x  duas/m  forças/n  partidárias/j ./x &lt;/s&gt;&lt;s&gt; No/i  entanto/r ,/x  Capela/n  Dias/n  acredita/v  na/i  possibilidade/n  de/i  uma/x  gestão/n  tripartida/v ,/x</left>
+    <kwic> avisando/v</kwic>
+    <right> que/c  a/x  inviabilização/n  deste/i  projecto/n  &quot;/x será/v  da/i  responsabilidade/n  de/i  quem/p  o/p  rejeitar/v &quot;/x ./x &lt;/s&gt;&lt;s&gt; A/x  reunião/n  que/p  vai/v  sentar/v  à/i  mesma/p</right>
+  </line>
+  <line refs="sistemasdeseguranca.pt" num="39" label="_">
+    <left>./x &lt;/s&gt;&lt;s&gt; Ter/v  um/x  alarme/n  residencial/j  tem/v  assim/r  também/r  vantagens/n  quando/r  não/r  está/v  em/i  casa/n ./x &lt;/s&gt;&lt;s&gt; 6/m  –/x  Existem/v  alarmes/n  residenciais/j  que/p  o/p</left>
+    <kwic> avisam/v</kwic>
+    <right> diretamente/r  no/i  telemóvel/n  que/p  o/x  alarme/n  foi/v  acionado/v ./x &lt;/s&gt;&lt;s&gt; Dessa/i  forma/n ,/x  caso/c  esteja/v  (/x ou/c  não/r )/x  em/i  casa/n  durante/i  um/x  assalto/n ,/x</right>
+  </line>
+  <line refs="sapo.pt" num="40" label="_">
+    <left>escola/n ,/x  daqueles/i  que/p  parecem/v  super/j  inofensivos/j  mas/c  que/p  deviam/v  vir/v  com/i  todos/x  os/x  sinais/n  de/i  alerta/n  vermelho/j  possíveis/j ,/x  a/i</left>
+    <kwic> avisar/v</kwic>
+    <right> das/i  pragas/n  de/i  piolhos/n ./x &lt;/s&gt;&lt;s&gt; É/v  que/c  agora/r  com/i  os/x  dois/m  a/i  coisa/n  fica/v  ainda/r  mais/r  difícil/j ,/x  porque/c  se/p  a/x  Beni/n  me/p  apanha/v  os/x  benditos/j</right>
+  </line>
+  <line refs="rtp.pt" num="41" label="_">
+    <left>tornou-se/v  o/x  homem/n  forte/j  da/i  Argélia/n ,/x  após/i  a/x  demissão/n  de/i  Bouteflika/n ./x &lt;/s&gt;&lt;s&gt; Nesse/i  papel/n ,/x  no/i  seu/x  discurso/n  desta/i  quarta-feira/n ,/x</left>
+    <kwic> avisou/v</kwic>
+    <right> explicitamente/r  aqueles/p  que/p  querem/v  fazer/v  crêr/v  que/c  a/x  Argélia/n  já/r  não/r  é/v  um/x  &quot;/x Estado/n  civil/j &quot;/x ,/x  referindo-se/v  a/x  um/m  dos/i  slogans/n  dos/i</right>
+  </line>
+  <line refs="ojogo.pt" num="42" label="_">
+    <left>./x &lt;/s&gt;&lt;s&gt; &quot;/x Há/v  que/c  ter/v  bom-senso/n ./x &lt;/s&gt;&lt;s&gt; Uma/x  coisa/n  é/v  precisar/v  de/i  golos/n  para/i  algum/x  objetivo/n  ou/c  desempate/n  de/i  título/n ./x &lt;/s&gt;&lt;s&gt; Nesse/i  caso/n</left>
+    <kwic> avisa-se/v</kwic>
+    <right> o/x  treinador/n  rival/j ./x &lt;/s&gt;&lt;s&gt; Quando/r  o/x  resultado/n  é/v  irrelevante/j  há/v  que/c  abrandar/v &quot;/x ,/x  acrescentou/v  ainda/r ,/x  dizendo/v  que/c  pediu/v  desculpas/n</right>
+  </line>
+  <line refs="jornalmedico.pt" num="43" label="_">
+    <left>./x &lt;/s&gt;&lt;s&gt; Dizem-me/v  que/c  está/v  a/i  aumentar/v ./x &lt;/s&gt;&lt;s&gt; Não/r  custa/v  imaginar/v  que/c ,/x  com/i  o/x  envelhecimento/n  da/i  população/n ,/x  isto/p  venha/v  a/i  ter/v  impactos/n &quot;/x ,/x</left>
+    <kwic> avisou/v</kwic>
+    <right>./x &lt;/s&gt;&lt;s&gt; A/x  questão/n ,/x  explica/v ,/x  é/v  que/c  para/i  as/x  pessoas/n  &quot;/x que/p  vivem/v  no/i  limiar/n &quot;/x ,/x  qualquer/x  aumento/n  de/i  custos/n ,/x  &quot;/x que/p  até/r  pode/v  nem/c  ser/v  na/i</right>
+  </line>
+  <line refs="wilder.pt" num="44" label="_">
+    <left>,/x  &quot;/x não/r  sabemos/v  exactamente/r  o/p  que/p  estava/v  nos/i  contentores/n ,/x  mas/c  é/v  inevitável/j  que/c  se/p  trate/v  de/i  plásticos/n  e/c  de/i  químicos/n &quot;/x ,/x</left>
+    <kwic> avisa/v</kwic>
+    <right> o/x  biólogo/n ,/x  que/p  acha/n  estranho/j  não/r  terem/v  sido/v  encontrados/v  grandes/j  números/n  de/i  airos/n  afectados/v  na/i  Alemanha/n  ou/c  na/i  Bélgica/n ,/x</right>
+  </line>
+  <line refs="eurogamer.pt" num="45" label="_">
+    <left>&lt;s&gt; Esse/x  novo/j  projecto/n  será/v  uma/x  grande/j  surpresa/n ,/x  fiquem/v  atentos/j  ao/i  seu/x  anúncio/n ,/x  por/i  favor/n ./x &quot;/x &lt;/s&gt;&lt;s&gt; No/i  entanto/r ,/x  o/x  produtor/n  Japonês/j</left>
+    <kwic> avisa/v</kwic>
+    <right> que/c  &quot;/x como/c  membros/n  principais/j  da/i  equipa/n  de/i  Toukiden/n  estão/v  a/i  trabalhar/v  num/i  novo/j  projecto/n ,/x  demorará/v  algum/x  tempo/n  até/i  poder/v</right>
+  </line>
+  <line refs="sapo.pt" num="46" label="_">
+    <left>também/r  porque/c  de/i  jogadores/n  a/i  dirigentes/n ,/x  todos/p  disseram/v  que/c  este/x  europeu/n  era/v  &quot;/x para/i  vencer/v &quot;/x ./x &lt;/s&gt;&lt;s&gt; O/x  selecionador/n  nacional/j</left>
+    <kwic> avisou/v</kwic>
+    <right> que/c  revoluções/n  &quot;/x só/r  em/i  1974/m &quot;/x ,/x  mas/c  mentiu/v :/x  Portugal/n  jogou/v  em/i  4-3-3/m ,/x  trocando/v  Danilo/n  Pereira/n  por/i  William/n  Carvalho/n  e/c  João/n</right>
+  </line>
+  <line refs="viagens-aviao.pt" num="47" label="_">
+    <left>também/r  que/c  o/x  comandante/n  ou/c  os/x  comissários/n  de/i  bordo/n  dêem/v  recados/n  através/r  dos/i  alto-falantes/n  da/i  aeronave/n ./x &lt;/s&gt;&lt;s&gt; Seja/v  para/i</left>
+    <kwic> avisar/v</kwic>
+    <right> que/p  estão/v  passando/v  por/i  uma/x  região/n  turbulenta/j  e/c  todos/p  devem/v  permanecer/v  sentados/v ,/x  ou/c  para/i  anunciar/v  que/c  estão/v  prontos/j</right>
+  </line>
+  <line refs="revistamilitar.pt" num="48" label="_">
+    <left>natural/j  face/n  à/i  escassez/n  de/i  recursos/n ,/x  um/x  problema/n  de/i  ordem/n  interna/j  sem/i  consequências/n  dramáticas/j ,/x  ao/i  mesmo/r  tempo/n  que/p</left>
+    <kwic> avisava/v</kwic>
+    <right> o/x  Reino/n  Unido/v  e/c  os/x  Estados/n  Unidos/v  para/i  não/r  interferirem/v  nos/i  assuntos/n  internos/j  do/i  seu/x  país/n ,/x  e/c  que/p  rejeitava/v  qualquer/x</right>
+  </line>
+  <line refs="sicnoticias.pt" num="49" label="_">
+    <left>são/v  mais/r  que/c  uma/x  centena/n ,/x  numa/i  altura/n  em/i  que/p  os/x  hospitais/n  já/r  não/r  aguentam/v  mais/r  doentes/j  e/c  o/x  combustível/n  se/p  está/v  a/i  esgotar/v ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Avisamos/v</kwic>
+    <right> para/i  imagens/n  violentas/j ./x &lt;/s&gt;&lt;s&gt; Um/x  novo/j  ataque/n  israelita/j  terá/v  destruído/v  um/x  campo/n  de/i  refugiados/n  em/i  Jabalia/n ,/x  no/i  norte/n  da/i  Faixa/n  de/i</right>
+  </line>
+  <line refs="jornaldenegocios.pt" num="50" label="_">
+    <left>./x &lt;/s&gt;&lt;s&gt; No/i  futebol/n  como/r  na/i  vida/n ,/x  a/x  previsibilidade/n  nem/c  sempre/r  é/v  suficientemente/r  valorizada/v ./x &lt;/s&gt;&lt;s&gt; O/x  treinador/n  Fernando/n  Santos/n</left>
+    <kwic> avisava/v</kwic>
+    <right> ontem/r :/x  &quot;/x Já/r  iniciei/v  um/x  Europeu/n  com/i  três/m  empates/n  e/c  ganhei/v ./x &lt;/s&gt;&lt;s&gt; Se/c  quiserem/v  assino/v  por/i  baixo/j ./x &quot;/x  Por/i  isso/p ,/x  quando/r  hoje/r  a/x  equipa/n</right>
+  </line>
+  <line refs="dgsi.pt" num="51" label="_">
+    <left>da/i  parte/n  só/r  constitui/v  justo/j  impedimento/n  se/p  for/v  súbita/j  e/c  tão/r  grave/j  que/c  o/p  impossibilite/v ,/x  em/i  absoluto/n ,/x  de/i  praticar/v  o/x  acto/n ,/x</left>
+    <kwic> avisar/v</kwic>
+    <right> o/x  constituinte/n  ou/c  substabelecer/v  o/x  mandato/n &quot;/x  (/x Cf./n  Ac./n  RG/n  de/i  23/06/2004/m ,/x  Processo/n  1107/04-1/m ,/x  disponível/j  na/i  internet/n ,/x  em/i</right>
+  </line>
+  <line refs="ipg.pt" num="52" label="_">
+    <left>outras/x  palavras-chave/n ./x &lt;/s&gt;&lt;s&gt; Tente/v  palavras-chave/n  mais/r  gerais/j ./x &lt;/s&gt;&lt;s&gt; De/i  acordo/n  com/i  as/x  orientações/n  do/i  projecto/n  e-U/n //x eduroam/v ,/x</left>
+    <kwic> avisam-se/v</kwic>
+    <right> todos/x  os/x  utilizadores/n  da/i  rede/n  sem/i  fios/n  eduroam/v  que/c  a/x  configuração/n  sofrerá/v  alterações/n  a/i  partir/v  de/i  2/m  de/i  Abril/n  de/i  2012/m ./x &lt;/s&gt;</right>
+  </line>
+  <line refs="sabado.pt" num="53" label="_">
+    <left>de/i  pedidos/n  registado/v  nestes/i  dias/n  tem/v ,/x  pontualmente/r ,/x  produzido/v  alguns/x  atrasos/n  nas/i  entregas/n  e/c  estamos/v  a/i  procurar/v</left>
+    <kwic> avisar/v</kwic>
+    <right> todos/x  os/x  clientes/n  afetados/v ./x &quot;/x &lt;/s&gt;&lt;s&gt; AUCHAN/n  A/i  procura/n  é/v  tal/p  que/p  até/r  no/i  site/n  há/v  fila/n  de/i  espera/n ./x &lt;/s&gt;&lt;s&gt; Se/p  tentar/v  navegar/v ,/x  não/r  consegue/v ./x &lt;/s&gt;&lt;s&gt; O/x</right>
+  </line>
+  <line refs="jamarket.pt" num="54" label="_">
+    <left>,/x  basta/v  empurrar/v  os/x  olhos/n  do/i  sapo/n  para/i  dentro/r  e/c  começar/v  a/i  afiar/v ./x &lt;/s&gt;&lt;s&gt; Quando/r  o/x  lápis/n  estiver/v  pronto/j ,/x  os/x  olhos/n  saltam/v  para/i  te/p</left>
+    <kwic> avisar/v</kwic>
+    <right>!/x &lt;/s&gt;&lt;s&gt; O/x  super/j  apara-lápis/n  da/i  Giotto/n  Be-bè/n  foi/v  concebido/v  com/i  o/x  uso/n  das/i  crianças/n  mais/r  pequenas/j  em/i  mente/n ./x &lt;/s&gt;&lt;s&gt; O/x  seu/x  tamanho/n</right>
+  </line>
+  <line refs="sapo.pt" num="55" label="_">
+    <left>anti-inflamatórios/n  antes/r  de/i  uma/x  noite/n  de/i  copos/n &lt;/s&gt;&lt;s&gt; &quot;/x É/v  muito/r  mais/r  fácil/j  e/c  eficaz/j  prevenir/v  uma/x  ressaca/n  do/i  que/c  tratá-la/v &quot;/x ,/x</left>
+    <kwic> avisa/v</kwic>
+    <right> o/x  especialista/n ./x &lt;/s&gt;&lt;s&gt; -/x  Comer/v  coisas/n  gordurosas/j &lt;/s&gt;&lt;s&gt; &quot;/x É/v  curioso/j  como/c  o/x  nosso/x  corpo/n  pede/v  aquilo/p  de/i  que/p  realmente/r  precisa/v &quot;/x ,/x  afirmou/v</right>
+  </line>
+  <line refs="uc.pt" num="56" label="_">
+    <left>,/x  sendo/v  a/x  sua/x  angústia/n  tal/r ,/x  que/p  ele/p  adoece/v ./x &lt;/s&gt;&lt;s&gt; Ao/i  chegar/v  a/i  Tripoli/n  ele/p  está/v  perto/r  da/i  morte/n &amp;/x  O/x  Peregrino/n  vai/v  logo/r</left>
+    <kwic> avisar/v</kwic>
+    <right> a/x  condessa/n  que/p  o/x  príncipe/n  já/r  chegou/v  mas/c  que/p  está/v  a/i  morrer/v  e/c  pede/v  para/i  vê-la/v ./x &lt;/s&gt;&lt;s&gt; Jaufré/n  chega/v  efectivamente/r ,/x  transportado/v</right>
+  </line>
+  <line refs="onedirect.pt" num="57" label="_">
+    <left>de/i  voz/n  capaz/j  de/i  gravar/v  até/i  24/m  canais/n  ao/i  mesmo/p  tempo/n  e/c  armazenar/v  até/i  400/m  horas/n ./x &lt;/s&gt;&lt;s&gt; Também/r  envía/v  um/x  correio/n  electrónico/j  para/i</left>
+    <kwic> avisar/v</kwic>
+    <right> aos/i  usuarios/n  de/i  que/p  têm/v  novas/j  mensagens/n  de/i  voz/n ./x &lt;/s&gt;&lt;s&gt; As/x  mensagens/n  também/r  se/p  podem/v  receber/v  como/c  arquivos/n  anexos/j  e/c  podem/v  ser/v</right>
+  </line>
+  <line refs="multinivel.pt" num="58" label="_">
+    <left>a/x  fraude/n  Options/n  Knight/n  e/c  o/x  KnightPayments/n ,/x  o/x  site/n  usado/v  para/i  receber/v  o/x  dinheiro/n  das/i  suas/x  vítimas/n ./x &lt;/s&gt;&lt;s&gt; Nesse/i  alerta/n  o/x  BdP/n</left>
+    <kwic> avisa/v</kwic>
+    <right> que/c  ambas/x  as/x  entidades/n  não/r  estão/v  autorizadas/v  para/i  receber/v  depósitos/n  ou/c  outros/x  fundos/n  reembolsáveis/j ./x &lt;/s&gt;&lt;s&gt; Se/c  alguém/p  lhe/p</right>
+  </line>
+  <line refs="sicnoticias.pt" num="59" label="_">
+    <left>na/i  região/n  centro/n  do/i  país/n  onde/r  sobrevoou/v  as/x  zonas/n  atingidas/v  por/i  fogos/n  nos/i  últimos/j  dois/m  anos/n ./x &lt;/s&gt;&lt;s&gt; População/n  e/c  investigador/n</left>
+    <kwic> avisam/v</kwic>
+    <right> que/c  há/v  outras/x  estradas/n  em/i  risco/n  em/i  Borba/n &lt;/s&gt;&lt;s&gt; Uma/x  das/i  pedreiras/n ,/x  atualmente/r  sem/i  atividade/n ,/x  situa-se/v  na/i  estrada/n  255/m ,/x  no/i  troço/n</right>
+  </line>
+  <line refs="vespaclubelisboa.pt" num="60" label="_">
+    <left>jony/n ..../x  se/p  pensares/v  em/i  vir/v  cá/r  avisa/v  para/i  combinarmos/v  kker/n  coisa/n  e/c  se/p  precisares/v  (/x  tu/p  ou/c  a/x  &quot;/x comandita/n &quot;/x de/i  casa/n  pa/v  chonar/v</left>
+    <kwic> avisa/v</kwic>
+    <right> (/x afinal/r  de/i  contas/n  ser/v  vespista/n  não/r  é/v  só/r  andar/v  de/i  vespa/n ..../x &lt;/s&gt;&lt;s&gt; No/i  entanto/r ,/x  Aleira/v  está/v  muito/r  satisfeita/v  com/i  a/x  sua/x  aparência/n  e/c</right>
+  </line>
+  <line refs="sapo.pt" num="61" label="_">
+    <left>dos/i  cidadãos/n ,/x  os/x  atuais/j  governantes/n  esqueceram-se/v  de/i  ouvir/v  vozes/n  encantatórias/j ,/x  como/c  Adriano/n  Moreira/n ,/x  que/p  há/v  muito/r</left>
+    <kwic> avisava/v</kwic>
+    <right> que/c  o/x  imprevisto/n  está/v  sempre/r  à/i  espera/n  de/i  uma/x  oportunidade/n  e/c  não/r  souberam/v  antecipar/v  a/x  pandemia/n ./x &lt;/s&gt;&lt;s&gt; Para/i  bem/r  do/i  Ocidente/n ,/x  os/x</right>
+  </line>
+  <line refs="dgsi.pt" num="62" label="_">
+    <left>notificação/n  do/i  tribunal/n  seriam/v  enviadas/v  para/i  aquela/x  morada/n  e/c ,/x  como/c  tal/p ,/x  teria/v  que/c  pedir/v  a/x  alguém/p  da/i  sua/x  confiança/n  para/i  o/x</left>
+    <kwic> avisar/v</kwic>
+    <right> atempadamente/j ./x &quot;/x  Face/n  ao/i  exposto/v ,/x  não/r  merece/v  reparo/n ,/x  também/r  nesta/i  parte/n ,/x  o/x  decidido/v  pelo/i  Tribunal/n  a/i  quo/j ./x  ****/x  IV/n  –/x</right>
+  </line>
+  <line refs="uc.pt" num="63" label="_">
+    <left>)/x ,/x  Luís/n  Raposo/n  diz/v  que/c  Summavielle/n  &quot;/x reconheceu/v  o/x  óbvio/j :/x  que/c  o/x  processo/n  está/v  parado/v &quot;/x ./x  &quot;/x A/x  questão/n  de/i  fundo/n  mantém-se/v  -/x</left>
+    <kwic> avisa/v</kwic>
+    <right> -/x ,/x  e/c  é/v  um/x  problema/n  bicudo/j  para/i  o/x  próximo/j  Governo/n  resolver/v ./x &quot;/x &lt;/s&gt;&lt;s&gt; A/x  lipoaspiração/n  a/i  laser/n  (/x LAL/n )/x  permite/v  hemostase/r ,/x</right>
+  </line>
+  <line refs="xl.pt" num="64" label="_">
+    <left>acima/r  de/i  janeiro/n  e/c  equivale/v  a/i  um/x  terço/n  do/i  valor/n  médio/j  mensal/j  de/i  2022/m ,/x  em/i  R/n $/x  4,5_bilhões/m ./x &lt;/s&gt;&lt;s&gt; Família/n  arrasa/v  Georgina/n  e/c</left>
+    <kwic> avisa/v</kwic>
+    <right> CR7/n :/x  &quot;/x Tens/v  a/x  mulher/n  mais/r  diabólica/j  ao/i  teu/x  lado/n &quot;/x &lt;/s&gt;&lt;s&gt; Georgina/n  e/c  Cristiano/n  Ronaldo/n &lt;/s&gt;&lt;s&gt; &quot;/x Ingratidão/n  e/c  falta/n  de/i  humildade/n &quot;/x ./x &lt;/s&gt;&lt;s&gt; É/v  com/i</right>
+  </line>
+  <line refs="sapo.pt" num="65" label="_">
+    <left>com/i  muitos/p  é/v  uma/x  pêga/n  e/c  não/r  uma/x  garanhona/n ./x &lt;/s&gt;&lt;s&gt; Aliás/r ,/x  as/x  outras/x  mulheres/n  são/v  as/x  primeiras/n  a/i  colocar/v  esse/x  rótulo/n ./x &lt;/s&gt;&lt;s&gt; No/i  entanto/r ,/x</left>
+    <kwic> aviso-te/v</kwic>
+    <right> já/r  que/c  apenas/r  vais/v  aproveitar/v  essa/x  boa/j  vida/n  até/i  aparecer/v  um/x  macho/n  alfa/v  que/c  te/p  dê/v  uma/x  épica/n ,/x  daquelas/i  cujos/p  orgasmos/n</right>
+  </line>
+  <line refs="multas.pt" num="66" label="_">
+    <left>mas/c  diz/v  que/c  a/x  situação/n  não/r  é/v  do/i  seu/x  pelouro/n ./x  2/m )/x  a/x  mata/n  a/i  norte/n  e/c  oeste/n  da/i  Urbanização/n  não/r  é/v  limpa/n  há/v  anos/n ./x &lt;/s&gt;&lt;s&gt; A/x  CMA/n  também/r  já/r  foi/v</left>
+    <kwic> avisada/v</kwic>
+    <right> e/c  diz/v  que/c  o/x  assunto/n  não/r  é/v  da/i  sua/x  responsabilidade/n ./x &lt;/s&gt;&lt;s&gt; O/x  proprietário/n  do/i  terreno/n  anexo/j  fez/v  há/v  algum/x  tempo/n  um/x  corte/n  de/i  árvores/n</right>
+  </line>
+  <line refs="anossavida.pt" num="67" label="_">
+    <left>no/i  Facebook/n  que/p  tinha/v  saudades/n  do/i  meu/x  marido/n  (/x escreveu/v  o/x  nome/n  dele/i !/x )/x  e/c  pôs/v  o/x  post/n  público/j  para/i  eu/p  ver/v ./x &lt;/s&gt;&lt;s&gt; Acabei/v  por/i  ser/v</left>
+    <kwic> avisada/v</kwic>
+    <right>,/x  e/c  quando/r  comentei/v  isso/p  com/i  a/x  minha/x  sogra/n  ela/p  disse/v  que/c  já/r  tinha/v  visto/v  há/v  muito/r  tempo/n ./x &lt;/s&gt;&lt;s&gt; Não/r  me/p  disse/v  nada/p ,/x  mas/c  decidi/v</right>
+  </line>
+  <line refs="arquitectura.pt" num="68" label="_">
+    <left>próprios/j  como/c  ser/v  Humano/j ,/x  não/r  entrem/v  na/i  Universidade/n  de/i  Évora/n  para/i  tirar/v  Arquitectura/n ..../x depois/r ,/x  não/r  digam/v  que/c  não/r</left>
+    <kwic> avisei/v</kwic>
+    <right>...../x &lt;/s&gt;&lt;s&gt; Link/n  to/p  post/j &lt;/s&gt;&lt;s&gt; e/c  já/r  agora/r  é/v  certo/j  e/c  sabido/v  que/c  o/x  &quot;/x aluno/n &quot;/x  que/p  trabalha/v  para/i  o/x  Carrilho/n ,/x  tinha/v  imenso/j  potêncial/j ,/x  podia/v</right>
+  </line>
+  <line refs="sapo.pt" num="69" label="_">
+    <left>que/p  o/x  Banco/n  de/i  Portugal/n  está/v  a/i  violar/v  a/x  lei/n  ao/i  não/r  publicar/v  relatório/n  com/i  informação/n  agregada/v  sobre/i  devedores/n ./x &lt;/s&gt;&lt;s&gt; E/c  Ferro/n  já/r</left>
+    <kwic> avisou/v</kwic>
+    <right> Carlos/n  Costa/n ./x &lt;/s&gt;&lt;s&gt; Aumenta/v  o/x  braço-de-ferro/n  entre/i  o/x  Parlamento/n  e/c  o/x  Banco/n  de/i  Portugal/n ./x &lt;/s&gt;&lt;s&gt; O/x  presidente/n  da/i  Assembleia/n  da/i</right>
+  </line>
+  <line refs="weblogyou.pt" num="70" label="_">
+    <left>poder/v  escrever/v  o/x  nome/n ./x  3/m ./x &lt;/s&gt;&lt;s&gt; Queremos/v  que/c  este/x  campo/n  seja/v  obrigatório/j ,/x  que/p  caso/n  não/r  esteja/v  preenchido/v  não/r  dê/v  para/i  guardar/v  e/c</left>
+    <kwic> avise/v</kwic>
+    <right> o/x  leitor/n ./x &lt;/s&gt;&lt;s&gt; Por/i  isso/p ,/x  colocamos/v  o/x  visto/n  em/i  Pergunta/n  obrigatória/j  e/c  Concluímos/v ./x &lt;/s&gt;&lt;s&gt; Podem/v  ver/v  ali/r  em/i  cima/n  o/x  aspecto/n  geral/j  no/i</right>
+  </line>
+  <line refs="jornalmapa.pt" num="71" label="_">
+    <left>a/i  todas/x  as/x  pessoas/n  que/p  queiram/v  vir/v  aprender/v  ou/c  ensinar/v ./x  &quot;/x Só/r  pedimos/v  uma/x  coisa/n &quot;/x ,/x  diz/v  o/x  Nuno/n  antes/r  de/i  abalar/v ,/x  &quot;/x não/r  nos/p</left>
+    <kwic> avisem/v</kwic>
+    <right> que/c  vêm/v &quot;/x ./x &lt;/s&gt;&lt;s&gt; Horta/n  da/i  Partilha/n &lt;/s&gt;&lt;s&gt; Lá/r  para/i  os/x  lados/n  de/i  Arca/n  d'Água/n ,/x  bem/r  perto/r  do/i  lugar/n  onde/r  o/x  estádio/n  do/i  Salgueiros/n  alagou/v ,/x</right>
+  </line>
+  <line refs="remodelacoes.pt" num="72" label="_">
+    <left>Crescimento/n  da/i  economia/n  contraria/v  &quot;/x discurso/n  negativo/j  e/c  pessimista/j &quot;/x &lt;/s&gt;&lt;s&gt; 2016-11-15/m  17:30/m  -/x  Jornal/n  de/i  Negócios/n &lt;/s&gt;&lt;s&gt; O/x  ministro/n</left>
+    <kwic> avisou/v</kwic>
+    <right> que/c  o/x  crescimento/n  anunciado/v  esta/x  terça-feira/n  pelo/i  INE/n  vai/v  obrigar/v  as/x  instituições/n  e/c  internacionais/j  a/i  reverem/v  as/x  suas/x</right>
+  </line>
+  <line refs="tradestories.pt" num="73" label="_">
+    <left>estado/n ,/x  a/x  maioria/n  sem/i  quaisquer/x  marcas/n ./x &lt;/s&gt;&lt;s&gt; Nos/i  livros/n  que/p  apresentam/v  alguma/x  alteração/n  (/x dobras/n ,/x  vincos/n ,/x  marcas/n ,/x  etc/n )/x ,/x</left>
+    <kwic> aviso/v</kwic>
+    <right> sempre/r  e/c  estará/v  sempre/r  uma/x  foto/n  onde/r  se/p  pode/v  ver/v  o/x  defeito/n ./x &lt;/s&gt;&lt;s&gt; O/x  valor/n  referido/v  nos/i  livros/n  inclui/v  o/x  envio/n  dos/i  mesmos/p  em/i</right>
+  </line>
+  <line refs="madeinportugalmusica.pt" num="74" label="_">
+    <left>as/x  minhas/x  entrevistas/n  Tenho/v  sardas/n  espalhadas/v  como/c  grãos/n  de/i  areia/n  Pedem-me/n  uma/x  canção/n  eu/p  tenho/v  uma/x  mão/n  cheia/j  Por/i  isso/p</left>
+    <kwic> avisa/v</kwic>
+    <right> o/x  lagarto/n  que/p  o/p  esmago/v  com/i  o/x  pé/n  Não/r  há/v  tempo/n  pra/i  rastejos/n  em/i  terra/n  de/i  jacaré/n  Não/r  há/v  tempo/n  pra/i  bocejos/n  quando/r  o/x  dia/n  me/p  chama/v  Eu/p</right>
+  </line>
+  <line refs="xl.pt" num="75" label="_">
+    <left>episódios/n  polémicos/j  da/i  família/n  real/j ./x &lt;/s&gt;&lt;s&gt; Até/i  o/x  ministro/n  inglês/j  da/i  cultura/n ,/x  Oliver/n  Dowden/n ,/x  já/r  pediu/v  para/i  que/c  a/x  Netflix/n</left>
+    <kwic> avise/v</kwic>
+    <right> que/c  se/p  trata/v  de/i  ficção/n ./x &lt;/s&gt;&lt;s&gt; Posso/v  usar/v  duas/m  pedras/n  encantadas/v  no/i  mesmo/p  item/n ?/x &lt;/s&gt;&lt;s&gt; R/n :/x  Não/r ./x &lt;/s&gt;&lt;s&gt; Posts/n  Tagged/n  '/x bau-Brasil/j '/x &lt;/s&gt;&lt;s&gt; Do/i  professor/n</right>
+  </line>
+  <line refs="arac.pt" num="76" label="_">
+    <left>passageiro/n  apresentar/v  sintomas/n  de/i  COVID-19/n ,/x  a/x  tripulação/n  deve/v  proceder/v  em/i  conformidade/n  com/i  o/x  plano/n  de/i  contingência/n  e/c</left>
+    <kwic> avisar/v</kwic>
+    <right> o/x  aeroporto/n  de/i  chegada/n ,/x  para/i  encaminhamento/n  isolado/v  do/i  caso/n  suspeito/j ./x &lt;/s&gt;&lt;s&gt; Para/i  qualquer/x  esclarecimento/n  adicional/j ,/x</right>
+  </line>
+  <line refs="chrome.pt" num="77" label="_">
+    <left>usados/v  –/x  incluindo/v  Google/n  Chrome/n ,/x  Mozilla/n  Firefox/n  e/c  Apple/n  Safari/n  –/x  estão/v  a/i  implementar/v  um/x  interface/n  de/i  utilizador/n  que/p  o/p</left>
+    <kwic> avisará/v</kwic>
+    <right> sobre/i  páginas/n  inseguras/j ,/x  por/i  isso/p  é/v  importante/j  oferecer/v  suporte/n  a/i  HTTPS/n ,/x  tanto/r  para/i  usufruir/v  de/i  segurança/n  como/r  para/i</right>
+  </line>
+  <line refs="sapo.pt" num="78" label="_">
+    <left>desfile/n  na/i  Avenida/n  da/i  Liberdade/n ,/x  em/i  Lisboa/n ./x &lt;/s&gt;&lt;s&gt; Agência/n  Estadual/j  de/i  Notícias/n  |/x  Cotidiano/j  |/x  26/05/2020/m  as/x  20:30/m h/n &lt;/s&gt;&lt;s&gt; &quot;/x Estás/v</left>
+    <kwic> avisado/v</kwic>
+    <right>&quot;/x ,/x  escreveram/v  no/i  muro/n  da/i  casa/n  de/i  Pizzi/n ,/x  entre/i  outras/x  ofensas/n ./x &lt;/s&gt;&lt;s&gt; O/x  clube/n  viria/v  mais/r  tarde/r ,/x  em/i  comunicado/n ,/x  esclarecer/v  que/c</right>
+  </line>
+  <line refs="apft.com.pt" num="79" label="_">
+    <left>abertas/j  e/c  relativamente/r  parecido/v  com/i  o/x  tiro/n  com/i  mira/n  telescopica/j  (/x efeito/n  de/i  tunel/n )/x ./x &lt;/s&gt;&lt;s&gt; Se/p  no/i  dia/n  11/03/m  poderes/n  ir/v  à/i  Trofa/n ,/x</left>
+    <kwic> avisa/v</kwic>
+    <right>,/x  pois/c  pode/v  ser/v  que/c  se/p  arranje/v  uma/x  arma/n  do/i  clube/n  com/i  diopter/v  para/i  experimentares/v ./x &lt;/s&gt;&lt;s&gt; Mas/c  se/c  quiseres/v  atirar/v  com/i  uma/x  de/i  miras/n</right>
+  </line>
+  <line refs="sapo.pt" num="80" label="_">
+    <left>&quot;/x continue/v  a/i  ser/v  um/x  problema/n  para/i  Cabo/n  Verde/j &quot;/x ./x &lt;/s&gt;&lt;s&gt; O/x  próprio/j  gabinete/n  das/i  Nações/n  Unidas/v  dedicado/v  às/i  drogas/n  e/c  ao/i  crime/n  (/x UNODC/n )/x</left>
+    <kwic> avisava/v</kwic>
+    <right> em/i  março/n  deste/i  ano/n  que/c  &quot;/x o/x  tráfico/n  de/i  droga/n  entre/i  a/x  América/n  do/i  Sul/n  e/c  a/x  Europa/n  que/p  passa/v  por/i  África/n  está/v  a/i  crescer/v  e/c  a/x  cocaína/n</right>
+  </line>
+  <line refs="presidencia.pt" num="81" label="_">
+    <left>das/i  funções/n  de/i  Ministro/n  da/i  República/n  para/i  a/x  Região/n  Autónoma/j  dos/i  Açores/n ,/x  desenvolveu/v  uma/x  ação/n  perseverante/j  e/c</left>
+    <kwic> avisada/v</kwic>
+    <right>,/x  serena/j  e/c  determinada/v ,/x  na/i  procura/n  das/i  melhores/j  soluções/n  para/i  que/p  o/x  processo/n  da/i  autonomia/n  regional/j  fosse/v  conduzido/v  no/i</right>
+  </line>
+  <line refs="dn.pt" num="82" label="_">
+    <left>,/x  não/r  é/v  necessário/j  haver/v  concurso/n ./x &lt;/s&gt;&lt;s&gt; Também/r  entre/i  os/x  precários/j  da/i  RTP/n  aguardam/v  más/j  notícias/n ./x &lt;/s&gt;&lt;s&gt; Serão/v  261/m  os/x  trabalhadores/n</left>
+    <kwic> avisados/v</kwic>
+    <right> de/i  que/c  o/x  seu/x  parecer/n  será/v  tendencialmente/r  negativo/j ,/x  mas/c  sem/i  que/p  até/r  aqui/r  haja/v  uma/x  decisão/n  final/j  que/p  permita/v  a/x</right>
+  </line>
+  <line refs="sapo.pt" num="83" label="_">
+    <left>&lt;s&gt; Na/i  exposição/n  de/i  motivos/n  do/i  decreto/n  do/i  estado/n  de/i  emergência/n ,/x  que/p  foi/v  aprovado/v  esta/x  tarde/n  no/i  Parlamento/n ,/x  o/x  chefe/n  de/i  Estado/n</left>
+    <kwic> avisa/v</kwic>
+    <right> que/c  é/v  necessário/j  &quot;/x acautelar/v  os/x  passos/n  a/i  dar/v  no/i  futuro/n  próximo/j &quot;/x ./x &lt;/s&gt;&lt;s&gt; Regra/n  geral/j ,/x  cada/x  vez/n  que/p  aprova/v  regulamentações/n  do/i</right>
+  </line>
+  <line refs="ulisboa.pt" num="84" label="_">
+    <left>escrita/v  de/i  exame/n  final/j  (/x época/n  especial/j )/x  de/i  Macroeconomia/n  II/n ./x &lt;/s&gt;&lt;s&gt; Desejo/n  sucesso/n  a/i  todos/p  que/p  venham/v  realizar/v  esta/x  prova/n ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Aviso-vos/v</kwic>
+    <right> ainda/r  que/c :/x &lt;/s&gt;&lt;s&gt; Esta/x  prova/n  é/v  constituída/v  por/i  duas/m  Partes/n :/x  Parte/n  A/i  (/x perguntas/n  de/i  escolha/n  multipla/n )/x  e/c  Parte/n  B/n  (/x cinco/m  questões/n</right>
+  </line>
+  <line refs="rea.pt" num="85" label="_">
+    <left>em/i  http://www.ex-aequo.web.pt/formacao.html./n  Esperamos/v  poder/v  contar/v  contigo/p !/x &lt;/s&gt;&lt;s&gt; Serve/v  esta/x  mensagem/n  para/i</left>
+    <kwic> avisar/v</kwic>
+    <right> que/c  todas/x  as/x  pessoas/n  inscritas/v  na/i  acção/n  de/i  formação/n  já/r  deverão/v  ter/v  recebido/v  o/x  programa/n  de/i  formação/n  e/c  restantes/j  dados/n</right>
+  </line>
+  <line refs="destak.pt" num="86" label="_">
+    <left>tem/v  o/x  genocídio/n  na/i  sua/x  raíz/n ,/x  ao/i  jeito/n  do/i  nazismo/n ,/x  e/c  envergonharia/v  Bin/n  Laden/n ./x  &quot;/x É/v  muito/r  mais/r  sinistro/j  e/c  perigoso/j &quot;/x ,/x</left>
+    <kwic> avisa-nos/v</kwic>
+    <right> nesta/i  sua/x  terceira/j  obra/n ./x &lt;/s&gt;&lt;s&gt; Para/i  a/x  maioria/n  das/i  pessoas/n  o/x  aparecimento/n  do/i  Daesh/n  foi/v  uma/x  surpresa/n ./x &lt;/s&gt;&lt;s&gt; Mas/c  no/i  livro/n  fica-se/v  com/i  a/x</right>
+  </line>
+  <line refs="portalbusca.pt" num="87" label="_">
+    <left>a/x  ajuda/n  do/i  pai/n ./x  (/x agora/r  quem/p  chorou/v  fui/v  eu/p ,/x  o/x  provocador/n )/x &lt;/s&gt;&lt;s&gt; Está/v  desculpado/v  o/x  poeta/n  provocador/j  Joaquim/n  Vairinhos/n ,/x  e/c  fica/v</left>
+    <kwic> avisado/v</kwic>
+    <right> para/i  que/c  não/r  se/p  demore/v  com/i  as/x  palavras/n  a/i  pedirem-lhe/v  que/c  se/p  soltem/v  através/r  da/i  sua/x  inspiração/n ./x &lt;/s&gt;&lt;s&gt; Cá/r  ficamos/v  à/i  espera/n  de/i  mais/r</right>
+  </line>
+  <line refs="demaeparamae.pt" num="88" label="_">
+    <left>.../x  No/i  comboio/n  vou/v  sempre/r  a/i  dormir/v  Mas/c  apartir/v  de/i  2af/m  vou/v  de/i  férias/n ,/x  2/m  semaninhas/n ,/x  os/x  recursos/n  humanos/j  do/i  meu/x  trabalho/n</left>
+    <kwic> avisaram-me/v</kwic>
+    <right> que/c  ainda/r  tinha/v  férias/n  do/i  ano/n  passado/v  e/c  que/p  os/p  tinha/v  de/i  tirar/v  até/r  ao/i  fim/n  de/i  Março/n ,/x  por/i  isso/p  vou/v  tirar/v  uns/x  dias/n  e/c  ficar/v  de/i  &quot;/x</right>
+  </line>
+  <line refs="viagens-aviao.pt" num="89" label="_">
+    <left>os/x  dado/v  e/c ,/x  novamente/r ,/x  nada/p  de/i  factura/n  nem/c  resposta/n ./x &lt;/s&gt;&lt;s&gt; Irei/v  dar/v  seguimento/n  à/i  queixa/n  para/i  a/x  DGCI/n ,/x  mas/c  não/r  queria/v  deixar/v  de/i</left>
+    <kwic> avisar/v</kwic>
+    <right> outros/x  potenciais/j  clientes/n  do/i  que/p  podem/v  esperar/v  desta/i  empresa/n ./x &lt;/s&gt;&lt;s&gt; Anúncio/n :/x  Estamos/v  a/i  recrutar/v  um/x  part-time/n  para/i  a/x  nossa/x</right>
+  </line>
+  <line refs="pescador.com.pt" num="90" label="_">
+    <left>avariado/v //x degradado/v  ou/c  até/r  entupido/v ./x &lt;/s&gt;&lt;s&gt; Se/p  fôr/v  o/x  caso/n ,/x  pode/v  queimar/v  a/x  junta/n  da/i  cabeça/n  e/c  gripar/v  o/x  motor/n ./x &lt;/s&gt;&lt;s&gt; Eles/p  (/x os/x  motores/n )/x  vão/v</left>
+    <kwic> avisando/v</kwic>
+    <right>.../x  até/r  ao/i  dia/n  que/p .../x  p/n ./x s./n  E/c  esses/x  esquecimentos/n  do/i  óleo/n  não/r  podem/v  acontecer/v  ./x &lt;/s&gt;&lt;s&gt; Quem/p  vai/v  para/i  o/x  mar/n  avia-se/v  em/i  terra/n  ./x &lt;/s&gt;&lt;s&gt; quanto/r</right>
+  </line>
+  <line refs="maisbarcelos.pt" num="91" label="_">
+    <left>horas/n  -/x  Centro/n  Cívico/j  -/x  Actuação/n  do/i  grupo/n  Moto/n  Cavaquinhos/n ,/x  pela/i  Comissão/n  de/i  Festas/n &lt;/s&gt;&lt;s&gt; Zona/n  de/i  Intervenção/n  Florestal/j &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Avisam-se/v</kwic>
+    <right> todos/x  os/x  Produtores/n  ou/c  Proprietários/n  Florestais/j  que/p  no/i  dia/n  23/m  de/i  Fevereiro/n ,/x  pelas/i  20:30/m  horas/n ,/x  realizar-se-á/v  uma/x</right>
+  </line>
+  <line refs="planetaclix.pt" num="92" label="_">
+    <left>desenganem-se/v ./x &lt;/s&gt;&lt;s&gt; Estamos/v  dispostos/v  a/i  ir/v  até/r  à/i  Assembleia/n  da/i  República/n  defender/v  um/x  benefício/n  a/i  que/p  temos/v  pleno/j  direito/n &quot;/x ,/x</left>
+    <kwic> avisou/v</kwic>
+    <right> Luísa/n  Monteiro/j ,/x  membro/n  da/i  comissão/n  de/i  utentes/n  e/c  presidente/n  da/i  Junta/n  de/i  Freguesia/n  de/i  Vila/n  da/i  Ponte/n ./x &lt;/s&gt;&lt;s&gt; A/x  unidade/n  de/i  saúde/n</right>
+  </line>
+  <line refs="dgsi.pt" num="93" label="_">
+    <left>pelos/i  médicos/n  da/i  medicação/n  que/p  a/i  mesma/p  tomava/v  para/i  os/x  problemas/n  cardíacos/j  de/i  que/p  padecia/v ,/x  sendo/v  certo/j  que/c  o/x  hospital/n  foi/v</left>
+    <kwic> avisado/v</kwic>
+    <right> da/i  necessidade/n  da/i  doente/n  tomar/v  a/x  medicação/n ./x  6/m ./x &lt;/s&gt;&lt;s&gt; A/x  medicação/n  em/i  causa/n  era/v  a/x  Varfarina/n ,/x  substância/n  anticoagulante/j ./x  7/m ./x &lt;/s&gt;</right>
+  </line>
+  <line refs="sabado.pt" num="94" label="_">
+    <left>conseguir/v  introduzir/v  um/x  vírus/n  no/i  seu/x  dispositivo/n ./x &lt;/s&gt;&lt;s&gt; Os/x  especialistas/n  pedem/v  que/c  quem/p  entre/v  em/i  contacto/n  com/i  essa/x  mensagem/n</left>
+    <kwic> avise/v</kwic>
+    <right> o/x  utilizador/n  do/i  perfil/n  no/i  qual/p  a/x  mensagem/n  foi/v  publicada/v  para/i  que/c  esta/p  seja/v  apagada/v ./x &lt;/s&gt;&lt;s&gt; Esta/x  mensagem/n  começou/v  a/i  circular/v  nos/i</right>
+  </line>
+  <line refs="wrestling.pt" num="95" label="_">
+    <left>,/x  meu/x ,/x  mas/c  às/i  vezes/n  os/x  batoteiros/n  prosperam/v ./x &lt;/s&gt;&lt;s&gt; Temos/v  alguns/x  recibos/n  para/i  entregar/v  na/i  próxima/j  semana/n ./x &lt;/s&gt;&lt;s&gt; Vocês/p  estão/v  todos/p</left>
+    <kwic> avisados/v</kwic>
+    <right>./x  #/x BangerBros/n &lt;/s&gt;&lt;s&gt; 7/m  Comentários/n &lt;/s&gt;&lt;s&gt; Brawling/n  Brutes/n  num/i  todo/p ,/x  mas/c  esse/x  time/n  são/v  os/x  Banger/n  Bros./n ,/x  a/x  dupla/n  é/v  certamente/r  muito/r  boa/j ,/x</right>
+  </line>
+  <line refs="sweetcare.pt" num="96" label="_">
+    <left>,/x  não/r  são/v  indicados/v  devido/v  à/i  alteração/n  do/i  centro/n  de/i  gravidade/n  da/i  mulher/n ./x &lt;/s&gt;&lt;s&gt; Problemas/n  da/i  gravidez/n &lt;/s&gt;&lt;s&gt; As/x  mulheres/n  devem/v  estar/v</left>
+    <kwic> avisadas/v</kwic>
+    <right> para/i  o/x  eventual/j  aparecimento/n  destes/i  sinais/n  e/c  sintomas/n ,/x  de/i  forma/n  a/i  compreenderem/v  o/x  seu/x  estado/n  de/i  saúde/n ./x &lt;/s&gt;&lt;s&gt; Mamas/n  –/x  aumentam/v</right>
+  </line>
+  <line refs="tuningonline.pt" num="97" label="_">
+    <left>vendido/v  mas/c  depois/r  de/i  o/x  comprador/n  me/p  ter/v  dado/v  a/x  palavra/n  e/c  eu/p  ter/v  organizado/v  tudo/p  para/i  o/x  dia/n  da/i  troca/n  e/c  ele/p  nao/v  aparecer/v  nem/c</left>
+    <kwic> avisar/v</kwic>
+    <right> aqui/r  esta/x  de/i  novo/j  a/x  venda/n ./x &lt;/s&gt;&lt;s&gt; Como/c  tinha/v  prometido/v  aos/i  anterioes/n  interessados/v  aqui/r  esta/p ./x &lt;/s&gt;&lt;s&gt; Abracos/n )/x &lt;/s&gt;&lt;s&gt; o/x  problema/n  é/v  ser/v</right>
+  </line>
+  <line refs="oeirasdigital.pt" num="98" label="_">
+    <left>conhecidos/v  do/i  torcedor/n  mineiro/j :/x  o/x  meia/j  Gérson/n  Magrão/n ,/x  ex-América/j ,/x  e/c  o/x  lateral/j  Diego/n  Renan/n ,/x  revelado/v  pelo/i  Cruzeiro/n ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Aviso/v</kwic>
+    <right> E-REDES/n ./x &lt;/s&gt;&lt;s&gt; Interrupção/n  pontual/j  de/i  energia/n  elétrica/j  em/i  Barcarena/n  este/x  domingo/n &lt;/s&gt;&lt;s&gt; Alan/n  Brazil/n  falou/v  ainda/r  do/i  caso/n  de/i  Jadon/n</right>
+  </line>
+  <line refs="ensinolusofona.pt" num="99" label="_">
+    <left>informação/n  para/i  aumentar/v  a/x  segurança/n  rodoviária/j ./x &lt;/s&gt;&lt;s&gt; Por/i  exemplo/n ,/x  os/x  sistemas/n  de/i  navegação/n  &quot;/x GPS/n &quot;/x  comuns/j  poderão/v  não/r  só/r</left>
+    <kwic> avisar/v</kwic>
+    <right> sobre/i  situações/n  perigosas/j  relacionadas/v  com/i  o/x  estado/n  da/i  estrada/n ,/x  como/c  também/r  definir/v  rotas/n  alternativas/j  tendo/v  em/i</right>
+  </line>
+  <line refs="dre.pt" num="100" label="_">
+    <left>e/c  vazadas/v  portuguesas/j  séc/n ./x &lt;/s&gt;&lt;s&gt; XIX/n //x XX/n  restauros/n ,/x  pequenos/j  defeitos/n ,/x  estofo/n  dos/i  assentos/n  não/r  original/j  Dim/n ./x  -/x  100/m  x/n  55/m  x/n  53/m  cm/n &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Aviso/v</kwic>
+    <right> n/n ./x o/x  20782/2019/m &lt;/s&gt;&lt;s&gt; Sumário/n :/x  Cessação/n  do/i  concurso/n  externo/j  de/i  ingresso/n  da/i  carreira/n  de/i  fiscal/j  municipal/j  com/i  a/x  referência/n  E/c )/x ./x &lt;/s&gt;</right>
+  </line>
+  <line refs="jiji.pt" num="101" label="_">
+    <left>e/c  dar/v  lá/r  um/x  saltinho/n !/x &lt;/s&gt;&lt;s&gt; Beijinhos/n ,/x  Hellen/n  http://instantesimprovaveis.blogspot.pt//j &lt;/s&gt;&lt;s&gt; Ai/n  que/p  bom/j  aspecto/n !/x &lt;/s&gt;&lt;s&gt; Tu/p  bem/r  que/c</left>
+    <kwic> avisaste/v</kwic>
+    <right> para/i  uma/x  pessoa/n  não/r  ver/v  isto/p  com/i  fome/n ./x &lt;/s&gt;&lt;s&gt; Eu/p  por/i  acaso/r  adoro/v  marisco/n  e/c  sempre/r  que/c  me/p  presenteiam/v  com/i  uma/x  fantástica/j</right>
+  </line>
+  <line refs="sapo.pt" num="102" label="_">
+    <left>seu/x  smartphone/n  e/c  quantas/p  vezes/n  o/x  liga/n ./x &lt;/s&gt;&lt;s&gt; Ao/i  longo/n  do/i  dia/n ,/x  a/x  app/n  vai/v  indicando/v  quanto/r  tempo/n  está/v  a/i  passar/v  no/i  seu/x  dispositivo/n  e/c</left>
+    <kwic> avisa-o/v</kwic>
+    <right> quando/r  se/p  aproxima/v  dos/i  limite/n  impostos/v ./x &lt;/s&gt;&lt;s&gt; Na/i  versão/n  gratuita/j  da/i  Moment/n  está/v  incluída/v  a/x  possibilidade/n  de/i  rastreio/n  do/i  uso/n</right>
+  </line>
+  <line refs="sapo.pt" num="103" label="_">
+    <left>DA/i  REGIÃO/n ,/x  SENDO/v  OBRIGATÓRIA/j  A/x  INSCRIÇÃO/n  PRÉVIA/j ,/x  VIA/v  EMAIL/n  OU/c  FAX/n ./x &lt;/s&gt;&lt;s&gt; CASO/c  NÃO/r  SEJA/v  ACEITE/j  A/x  INSCRIÇÃO/n  A/i  ORGANIZAÇÃO/n</left>
+    <kwic> AVISARÁ/v</kwic>
+    <right> DESSE/i  FACTO/n ,/x  DADA/v  A/i  LIMITAÇÃO/n  DE/i  LUGARES/n  DO/i  AUDITÓRIO/n ./x &lt;/s&gt;&lt;s&gt; MANAUS/n  -/x  O/x  Amazonas/n  fecha/v  o/x  ano/n  de/i  2016/m  com/i  menos/r  14_mil_e_17/m</right>
+  </line>
+  <line refs="apostaganha.pt" num="104" label="_">
+    <left>classificação/n ,/x  sendo/v  que/c  um/x  triunfo/n  até/r  poderia/v  levar/v  a/x  equipa/n  ao/i  meio/n  da/i  tabela/n ./x &lt;/s&gt;&lt;s&gt; Contudo/c ,/x  o/x  técnico/j  Ulisses/n  Morais/j  já/r</left>
+    <kwic> avisou/v</kwic>
+    <right> que/c  este/p  não/r  será/v  um/x  confronto/n  fácil/j ,/x  considerando/v  mesmo/r  que/c  será/v  o/x  mais/r  difícil/j  em/i  casa/n  até/r  ao/i  momento/n ./x &lt;/s&gt;&lt;s&gt; Tendo/v  em/i  conta/n  o/p</right>
+  </line>
+  <line refs="artenotempo.pt" num="105" label="_">
+    <left>&quot;/x ,/x  tudo/p  expressões/n  a/i  que/p  os/x  críticos/n  e/c  outras/x  pessoas/n  recorrem/v  para/i  descrever/v  as/x  peças/n ,/x  antes/r  do/i  público/n  as/x  ouvir/v ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Avisam/v</kwic>
+    <right> logo/r  que/c  não/r  vão/v  perceber/v  e/c  eu/p  acho/v  que/c ,/x  pelo/i  contrário/n ,/x  deviam/v  antes/r  dizer/v :/x  &quot;/x isto/p  é/v  algo/p  que/p  basta/v  ouvir/v .../x</right>
+  </line>
+  <line refs="sapo.pt" num="106" label="_">
+    <left>fiz/v  em/i  trabalho/n ./x &lt;/s&gt;&lt;s&gt; Antigamente/r  só/r  folgava/v  de/i  15/m  em/i  15/m  dias/n  e/c  ainda/r  hoje/r  é/v  complicado/v  ter/v  folgas/n ./x &lt;/s&gt;&lt;s&gt; Muitas/x  vezes/n  o/x  comandante/n</left>
+    <kwic> avisa-nos/v</kwic>
+    <right> de/i  véspera/n  que/p  afinal/r  não/r  podemos/v  ir/v  de/i  fim-de-semana/n  porque/c  há/v  uma/x  operação/n  qualquer/p ./x &lt;/s&gt;&lt;s&gt; Não/r  podemos/v  recusar/v  –/x  senão/r</right>
+  </line>
+  <line refs="co.pt" num="107" label="_">
+    <left>o/x  agente/n ,/x  também/r  ele/p  acompanhado/v  por/i  um/x  grupo/n  de/i  amigos/n ./x &lt;/s&gt;&lt;s&gt; O/x  indivíduo/n  estava/v  armado/v  e/c  foi/v  um/x  dos/i  amigos/n  do/i  polícia/n  que/p  o/p</left>
+    <kwic> avisou/v</kwic>
+    <right>./x &lt;/s&gt;&lt;s&gt; O/x  agente/n  tentou/v  desarmá-lo/v  acabando/v  por/i  se/p  envolver/v  numa/i  luta/n  corpo/n  a/i  corpo/n  com/i  o/x  homem/n  que/p  tentou/v  disparar/v  duas/m  vezes/n</right>
+  </line>
+  <line refs="shopmania.pt" num="108" label="_">
+    <left>de/i  produto/n  para/i  D-Link/n  DCS-936L/n  Cámara/n  Wifi/n  para/i  Smartphone/n  são/v  enviadas/v  pelas/i  lojas/n  listadas/j ./x &lt;/s&gt;&lt;s&gt; Por/i  favor/n  nos/p</left>
+    <kwic> avise/v</kwic>
+    <right> se/p  encontrar/v  alguns/x  erros/n ./x &lt;/s&gt;&lt;s&gt; a/x  M/n $/x  não/r  processa/v  nem/c  quem/p :/x  a/x  M/n $/x  não/r  processa/v  nem/c  quem/p  usa/v  windows/n  pirata/j  (/x e/c  isso/p  seria/v  muito/r</right>
+  </line>
+  <line refs="portomoniz.pt" num="109" label="_">
+    <left>do/i  trajeto/n  GPS/n  do/i  percurso/n  que/p  o/x  Município/n  do/i  Porto/n  Moniz/n  preparou/v  para/i  si/p  e/c  não/r  saia/n  da/i  rota/n  prevista/v  para/i  o/x  efeito/n ./x &lt;/s&gt;&lt;s&gt; 4/m -/x</left>
+    <kwic> Avise/v</kwic>
+    <right> sempre/r  a/i  alguém/p  acerca/v  dos/i  seus/x  planos/n ./x &lt;/s&gt;&lt;s&gt; Recomendamos/v  que/c  informe/v  na/i  receção/n  do/i  seu/x  alojamento/n  ou/c  aos/i  seus/x  familiares/n  o/x</right>
+  </line>
+  <line refs="planetaclix.pt" num="110" label="_">
+    <left>,/x  esclarecidas/v ,/x  evangelizadas/v ,/x  quem/p  mais/r  falar/v  em/i  Deus/n  e/c  mais/r  se/p  (/x pre/j )/x ocupar/v  com/i  Deus/n ,/x  menos/r  vale/v ./x &lt;/s&gt;&lt;s&gt; Para/i  populações/n</left>
+    <kwic> avisadas/v</kwic>
+    <right>,/x  ilustradas/v ,/x  esclarecidas/v  e/c  evangelizadas/v ,/x  as/x  pessoas/n  que/p  mais/r  valem/v  são/v  aquelas/p  que/p  vêem/v  nas/i  outras/x  pessoas/n ,/x  a/i</right>
+  </line>
+  <line refs="tsf.pt" num="111" label="_">
+    <left>Bob/n  Dylan/n ./x &lt;/s&gt;&lt;s&gt; Fechar/v &lt;/s&gt;&lt;s&gt; Subscrever/v  newsletter/v &lt;/s&gt;&lt;s&gt; Do/i  ponto/n  de/i  vista/n  lírico/j ,/x  Bob/n  Dylan/n  reconhece/v  marcas/n  dos/i  autores/n  que/p  leu/v ,/x  mas/c</left>
+    <kwic> avisa/v</kwic>
+    <right>:/x  &quot;/x Escrevi/v  sobre/i  todo/x  o/x  tipo/n  de/i  coisas/n  nas/i  minhas/x  canções/n ./x &lt;/s&gt;&lt;s&gt; E/c  não/r  me/p  vou/v  preocupar/v  com/i  isso/p ,/x  com/i  o/p  que/p  significam/v &quot;/x ./x &lt;/s&gt;&lt;s&gt; Para/i  o/x</right>
+  </line>
+  <line refs="dgsi.pt" num="112" label="_">
+    <left>vida/n  boa/j &quot;/x ,/x  &quot;/x Ela/p  não/r  gostava/v  da/i  minha/x  mãe/n  e/c  dos/i  meus/x  irmãos/n  e/c  eu/p  dava-lhe/v  uma/x  vida/n  boa/j &quot;/x ,/x  &quot;/x agora/r  anda/v  metida/v  com/i  bruxos/n ,/x  que/p  a/p</left>
+    <kwic> avisam/v</kwic>
+    <right> que/c  tem/v  coisas/n  nas/i  cadeiras/n  e/c  nas/i  máquinas/n  e/c  ela/p  anda/v  sempre/r  a/i  limpar/v  tudo/p &quot;/x ,/x  &quot;/x até/r  foi/v  à/i  GNR/n  fazer/v  queixa/n  de/i  mim/p &quot;/x ./x  22/m ./x &lt;/s&gt;&lt;s&gt; Tais/x</right>
+  </line>
+  <line refs="gdbpi.pt" num="113" label="_">
+    <left>de/i  motos/n  equipados/v  que/c  mais/r  pareciam/v  vir/v  do/i  Dakar/n ./x &lt;/s&gt;&lt;s&gt; Tipicamente/r  português/j ,/x  não/r  há/v  problemas/n ,/x  só/r  soluções/n ./x &lt;/s&gt;&lt;s&gt; Fomos/v  logo/r</left>
+    <kwic> avisados/v</kwic>
+    <right> de/i  que/p  não/r  haveria/v  bifanas/n  para/i  todos/p ,/x  mas/c  num/i  misto/n  de/i  bifanas/n ,/x  tostas/n  mistas/j ,/x  e/c  batatas/n  fritas/j ,/x  ninguém/p  ficou/v  com/i  fome/n</right>
+  </line>
+  <line refs="oa.pt" num="114" label="_">
+    <left>qualquer/x  movimento/n  a/i  efectuar/v  com/i  reclusos/n ,/x  com/i  ou/c  sem/i  escolta/n ,/x  sua/x  identificação/n  e/c  hora/n  prevista/v ./x  e/c ./x &lt;/s&gt;&lt;s&gt; Da/i  mesma/x  forma/n ,/x  é/v</left>
+    <kwic> avisado/v</kwic>
+    <right> o/x  porteiro/n  de/i  Serviço/n  (/x .../x )/x &lt;/s&gt;&lt;s&gt; Capitulo/v  II/n  Direitos/n  e/c  deveres/n  dos/i  Reclusos/n  Art°/n  100/m  Direitos/n  dos/i  Reclusos/n &lt;/s&gt;&lt;s&gt; 1/m  Alem/v  dos/i</right>
+  </line>
+  <line refs="trc.pt" num="115" label="_">
+    <left>Nomeação/n  efetiva/j  em/i  lugar/n  já/r  provido/v  interinamente/r  -/x  Juíza/n  de/i  Direito/n  Dr./n a/i  Madalena/n  Maria/n  Cordeiro/n  de/i  Almeida/n  Aguiar/v ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Aviso/v</kwic>
+    <right> n/n ./x o/x  5484/2016/m  -/x  Diário/n  da/i  República/j  n/n ./x o/x  82/2016/m ,/x  Série/n  II/n  de/i  2016-04-28/m  Ministério/n  Público/j  -/x  Procuradoria-Geral/n  da/i</right>
+  </line>
+  <line refs="ismt.pt" num="116" label="_">
+    <left>,/x  do/i  Edifício/n  da/i  Rua/n  Bernardo/j  de/i  Albuquerque/n ,/x  das/i  14h/m  às/i  17h/m ./x &lt;/s&gt;&lt;s&gt; Mestrado/n  em/i  Psicologia/n  Clínica/j  -/x  Terapia/n  Conjugal/j  e/c  Sexual/j &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>AVISO/v</kwic>
+    <right> 12/2019/m  Mestrado/n  em/i  Psicologia/n  Clínica/j  Avisam-se/n  os/x  alunos/n  do/i  Curso/n  de/i  Mestrado/n  acima/r  referido/v  que/c  a/x  Unidade/n</right>
+  </line>
+  <line refs="shopmania.pt" num="117" label="_">
+    <left>de/i  produto/n  para/i  Power/n  DC/n  Jack/n  Asus/n  K46/n  K46CA/n  K46C/n  K46CM/n  Original/n  são/v  enviadas/v  pelas/i  lojas/n  listadas/j ./x &lt;/s&gt;&lt;s&gt; Por/i  favor/n  nos/p</left>
+    <kwic> avise/v</kwic>
+    <right> se/p  encontrar/v  alguns/x  erros/n ./x &lt;/s&gt;&lt;s&gt; Generator/n  Rex/n  (/x na/i  nossa/x  nação/n ,/x  Mutante/n  Rex/n )/x  é/v  um/x  desenho/n  focado/v  no/i  capitalismo/n  americano/j</right>
+  </line>
+  <line refs="correiodominho.pt" num="118" label="_">
+    <left>razão/n  à/i  afirmação/n  de/i  que/p  o/x  outono/n  é/v  a/x  natureza/n  a/i  envelhecer/v :/x  o/x  amarelo/n  imperial/j ,/x  o/x  vermelho/n  alaranjado/v  ou/c  o/x  castanho/n</left>
+    <kwic> avisavam/v</kwic>
+    <right> que/c  dentro/r  em/i  breve/r  ficarão/v  despidas/v ,/x  expondo-se/v  ao/i  frio/n  invernal/j ./x &lt;/s&gt;&lt;s&gt; Os/x  seus/x  olhos/n  tristes/j  comtemplavam/v  tal/x  cenário/n</right>
+  </line>
+  <line refs="jornaldenegocios.pt" num="119" label="_">
+    <left>euros/n ./x &lt;/s&gt;&lt;s&gt; Portugal/n  em/i  risco/n  de/i  apagão/n  a/i  partir/v  de/i  1/m  de/i  Janeiro/n &lt;/s&gt;&lt;s&gt; Sem/i  contratos/n  de/i  garantia/n  de/i  potência/n ,/x  o/x  presidente/n  da/i  Endesa/n</left>
+    <kwic> avisa/v</kwic>
+    <right> que/c  não/r  há/v  centrais/n  de/i  apoio/n  para/i  evitar/v  apagões/n ./x &lt;/s&gt;&lt;s&gt; Nuno/n  Ribeiro/n  da/i  Silva/n  diz/v  que/c  a/x  medida/n  do/i  PCP/n  para/i  as/x  tarifas/n  reguladas/v</right>
+  </line>
+  <line refs="jornaldenegocios.pt" num="120" label="_">
+    <left>Angola/n  e/c  diz/v  que/c  não/r  sentiu/v  qualquer/x  impacto/n  nas/i  operações/n  com/i  a/x  tensão/n  política/j  entre/i  Portugal/n  e/c  Angola/j ./x &lt;/s&gt;&lt;s&gt; Mas/c  no/i  futuro/n ,/x</left>
+    <kwic> avisa/v</kwic>
+    <right>,/x  &quot;/x se/p  relacionamento/n  não/r  melhorar/v &quot;/x  novos/j  negócios/n  podem/v  ser/v  prejudicados/v ./x &lt;/s&gt;&lt;s&gt; A/x  Visabeira/n  tem/v  muitos/x  planos/n  na/i  sua/x</right>
+  </line>
+  <line refs="ergo-segurosdeviagem.pt" num="121" label="_">
+    <left>viagem/n ,/x  dirigindo/v  a/x  sua/x  participação/n  para/i  o/x  endereço/n  da/i  ERGO/n  Seguros/j  de/i  Viaje/v ./x &lt;/s&gt;&lt;s&gt; Em/i  caso/n  de/i  cancelamento/n  de/i  viagem/n  deverá/v</left>
+    <kwic> avisar/v</kwic>
+    <right> no/i  momento/n  da/i  ocorrência/n  do/i  mesmo/r  e/c  antes/r  do/i  início/n  da/i  viagem/n ./x &lt;/s&gt;&lt;s&gt; Toda/x  a/x  informação/n  que/p  lhe/p  solicitemos/v  poderá/v  ser/v  enviada/v  à/i</right>
+  </line>
+  <line refs="sapo.pt" num="122" label="_">
+    <left>possibilidades/n  de/i  culpa/n ./x &lt;/s&gt;&lt;s&gt; Assim/r  parecia/v  ler/v  no/i  olhar/v  dela/i ./x &lt;/s&gt;&lt;s&gt; Mas/c  nada/p  falou/v ./x &lt;/s&gt;&lt;s&gt; Estava/v  cansada/v ./x &lt;/s&gt;&lt;s&gt; Outra/x  pessoa/n  entra/v  na/i  sala/n  -/x  e/c</left>
+    <kwic> avisa/v</kwic>
+    <right>./x &lt;/s&gt;&lt;s&gt; Ele/p  está/v  aí/r ./x &lt;/s&gt;&lt;s&gt; Quer/v  falar/v  com/i  ela/p ./x &lt;/s&gt;&lt;s&gt; Informamos/v  que/c  dependeria/v  dela/i ./x &lt;/s&gt;&lt;s&gt; Se/p  aceita/v  falar/v  ou/c  não/r ./x &lt;/s&gt;&lt;s&gt; Ela/p  terá/v  que/c  dar/v  queixa/n  para/i  que/c</right>
+  </line>
+  <line refs="eas.pt" num="123" label="_">
+    <left>,/x  entre/i  outros/p ./x &lt;/s&gt;&lt;s&gt; Conheça/v ,/x  nos/i  links/n  abaixo/r ,/x  algumas/x  iniciativas/n  da/i  USP/n  para/i  promover/v  a/x  interação/n  com/i  a/x  comunidade/n :/x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Aviso/v</kwic>
+    <right> n/n ./x o/x  2970/2014/m &lt;/s&gt;&lt;s&gt; Procedimento/n  concursal/j  comum/j  de/i  recrutamento/n  para/i  ocupação/n  de/i  postos/n  de/i  trabalho/n  previstos/v  no/i  mapa/n  de/i</right>
+  </line>
+  <line refs="ourem.pt" num="124" label="_">
+    <left>ou/c  pelos/i  contactos/n  seguintes/j :/x  249/m  540/m  900/m  (/x marque/v  a/x  extensão/n  6512/m )/x  ou/c  EMAIL/n ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>AVISO/v</kwic>
+    <right> DGS/n  –/x  ALERTA/n  AMARELO/j  (/x PARA/i  CALOR/n )/x  21-25/m  de/i  agosto/n &lt;/s&gt;&lt;s&gt; 21/m  Agosto/n ,/x  2023/m &lt;/s&gt;&lt;s&gt; O/x  Departamento/n  de/i  Saúde/n  Pública/j  da/i  ARSLVT/n  ativou/v  o/x</right>
+  </line>
+  <line refs="sapo.pt" num="125" label="_">
+    <left>e/c  &quot;/x não/r  é/v  possível/j  ser/v  reproduzida/v  por/i  muito/r  mais/r  tempo/n &quot;/x ,/x  porque/c  senão/r  &quot;/x vai/v  colocar-se/v  em/i  risco/n  a/i  saúde/n  dos/i  doentes/n &quot;/x ,/x</left>
+    <kwic> avisa/v</kwic>
+    <right> o/x  Sindicato/n ./x &lt;/s&gt;&lt;s&gt; &quot;/x Não/r  é/v  possível/j  fazer/v  um/x  SNS/n  sem/i  ter/v  médicos/n ./x &lt;/s&gt;&lt;s&gt; Têm/v  demonstrado/v  uma/x  enorme/j  resiliência/n ./x &lt;/s&gt;&lt;s&gt; Muitos/p  deles/i  com/i</right>
+  </line>
+  <line refs="asbeiras.pt" num="126" label="_">
+    <left>aos/i  anteriores/j  presidentes/n  do/i  conselho/n  diretivo/j ,/x  secretários-gerais/n  e/c  funcionários/n ./x &lt;/s&gt;&lt;s&gt; O/x  presidente/n  da/i  ANMP/n  já/r  tinha/v</left>
+    <kwic> avisado/v</kwic>
+    <right> na/i  sexta-feira/n ,/x  em/i  Viseu/n ,/x  que/c  muitas/x  Câmaras/n  podem/v  paralisar/v ,/x  caso/c  o/p  FAM/n  não/r  entre/v  rapidamente/r  em/i  funcionamento/n ./x &lt;/s&gt;</right>
+  </line>
+  <line refs="tuningonline.pt" num="127" label="_">
+    <left>qualquer/x  interesse/n  nesta/i  área/n ,/x  do/i  comércio/n ./x &lt;/s&gt;&lt;s&gt; Não/r  vá/v  por/i  aí/r ./x &lt;/s&gt;&lt;s&gt; Se/p  tenta/v  conduzir/v  um/x  teor/n  de/i  uma/x  conversa/n  nesse/i  sentido/n ,/x</left>
+    <kwic> aviso-lhe/v</kwic>
+    <right> que/c  é/v  perca/n  de/i  tempo/n ./x &lt;/s&gt;&lt;s&gt; Siga/v  o/x  conselho/n  e/c  encomende/v  um/x  ensaio/n  a/i  uma/x  entidade/n  imparcial/j ./x &lt;/s&gt;&lt;s&gt; Quando/r  estiver/v  menos/r  ocupado/v ,/x</right>
+  </line>
+  <line refs="ordemdosmedicos.pt" num="128" label="_">
+    <left>,/x  de/i  14/m  de/i  março/n ,/x  que/p  estabelece/v  a/x  comparticipação/n  do/i  Estado/n  nas/i  tecnologias/n  de/i  saúde/n  relativas/j  a/i  prematuros/j  extremos/n &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Aviso/v</kwic>
+    <right> n/n ./x o/x  3402/2019/m  –/x  Diário/j  da/i  República/j  n/n ./x o/x  44/2019/m ,/x  Série/n  II/n  de/i  2019-03-04/m  Saúde/n  –/x  Administração/n  Central/j  do/i  Sistema/n  de/i</right>
+  </line>
+  <line refs="jornaldenegocios.pt" num="129" label="_">
+    <left>o/x  padrão/n  de/i  excelência/n  em/i  sua/x  instituição/n  médica/j ./x &lt;/s&gt;&lt;s&gt; Enviar/v  o/x  artigo/n :/x  Custos/n  de/i  duas/m  guerras/n  serão/v  &quot;/x muito/r  elevados/v &quot;/x ,/x</left>
+    <kwic> avisa/v</kwic>
+    <right> Marcelo/n &lt;/s&gt;&lt;s&gt; O/x  meu/x  email/n &lt;/s&gt;&lt;s&gt; Em/i  nome/n  da/i  Funerária/n  Renascer/v  em/i  Cristo/n  postamos/v  10/m  Passagens/n  bíblicas/j  consoladoras/j  sobre/i  a/x  morte/n &lt;/s&gt;</right>
+  </line>
+  <line refs="sapo.pt" num="130" label="_">
+    <left>e/c  mesma/p  veio/v  parar/v  as/x  minhas/x  mãos/n  toda/x  molhada/n ./x &lt;/s&gt;&lt;s&gt; A/i  mim/p  também/r  já/r  me/p  aconteceu/v  de/i  extraviarem/v  a/x  mala/n ./x &lt;/s&gt;&lt;s&gt; Fiz/v  reclamação/n ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Avisei/v</kwic>
+    <right> que/c  tinha/v  roupas/n ,/x  malas/n ,/x  sapatos/n  e/c  um/x  ipod/n  com/i  avaliação/n  superior/j  a/i  1500/m  euros/n ./x &lt;/s&gt;&lt;s&gt; Passado/v  três/m  dias/n  já/r  tinha/v  a/x  mala/n  em/i  minha/x</right>
+  </line>
+  <line refs="dn.pt" num="131" label="_">
+    <left>do/i  que/p  3890_milhões/m  de/i  euros/n  em/i  empréstimos/n  com/i  dinheiro/n  dos/i  contribuintes/n  no/i  âmbito/n  do/i  atual/j  contrato/n  de/i  resolução/n ,/x</left>
+    <kwic> avisa/v</kwic>
+    <right> o/x  Conselho/n  das/i  Finanças/n  Públicas/j  (/x CFP/n )/x  que/p ,/x  pela/i  primeira/j  vez/n ,/x  admite/v  que/c  o/x  banco/n  poderá/v  precisar/v  de/i  &quot;/x fundos/n</right>
+  </line>
+  <line refs="dgsi.pt" num="132" label="_">
+    <left>levar/v  o/x  ofendido/n  até/i  uma/x  máquina/n  Multibanco/n ,/x  para/i  que/c  este/p  levantasse/v  e/c  lhes/p  entregasse/v  mais/r  dinheiro/n ./x &lt;/s&gt;&lt;s&gt; Então/r ,/x  sempre/r</left>
+    <kwic> avisando/v</kwic>
+    <right> o/x  .../x  que/p  lhes/p  devia/v  obedecer/v ,/x  caso/c  contrário/n  sofreria/v  as/x  consequências/n  assim/r  como/c  os/x  seus/x  filhos/n ,/x  os/x  arguidos/n</right>
+  </line>
+  <line refs="blitz.pt" num="133" label="_">
+    <left>nomes/n  de/i  topo/n ,/x  como/c  os/x  Metallica/n ,/x  Johnny/n  Cash/n  ou/c  Pearl/n  Jam/n ,/x  e/c  outros/p  bem/r  conhecidos/v  como/r  Norah/n  Jones/n  e/c  os/x  Cibo/n  Matto/n ./x &lt;/s&gt;&lt;s&gt; Ele/p</left>
+    <kwic> avisou/v</kwic>
+    <right>,/x  o/x  fã/n  é/v  que/c  não/r  respeitou/v ./x &lt;/s&gt;&lt;s&gt; A/x  justificação/n  de/i  Tom/n  Morello/n  para/i  incidente/n  com/i  telemóvel/n &lt;/s&gt;&lt;s&gt; Guitarrista/n  respondeu/v  a/x  fãs/n  nas/i</right>
+  </line>
+  <line refs="dodot.pt" num="134" label="_">
+    <left>enchendo/v  Ã/n  medida/n  que/p  se/p  vai/v  colocando/v  mais/r  líquido/j  nele/n ./x &lt;/s&gt;&lt;s&gt; A/x  bexiga/n  (/x o/x  balão/n )/x  tem/v  &quot;/x uma/x  torneira/n &quot;/x  que/p  se/p  chama/v  uretra/n  e/c  que/p</left>
+    <kwic> avisa/v</kwic>
+    <right> o/x  nosso/x  cérebro/n  (/x através/r  do/i  Sistema/n  Nervoso/j  Central/n )/x  quando/r  o/x  balão/n  está/v  cheio/j  e/c  o/p  devemos/v  esvaziar/v ./x &lt;/s&gt;&lt;s&gt; Normalmente/r ,/x  nós/p</right>
+  </line>
+  <line refs="lovino.pt" num="135" label="_">
+    <left>a/x  conta/n  VIP/n ./x &lt;/s&gt;&lt;s&gt; Pensei/v  que/c  podia/v  experimentar/v  sem/i  pagar/v  durante/i  um/x  mês/n ,/x  mas/c  depois/r  tiraram-me/v  dinheiro/n  da/i  conta/n  sem/i</left>
+    <kwic> avisar/v</kwic>
+    <right>./x &lt;/s&gt;&lt;s&gt; Contactei-os/v ,/x  e/c  indicaram-me/v  que/c  nas/i  condições/n  tinha/v  a/i  avisar/v  que/c  se/p  queria/v  cancelar/v  a/x  conta/n  VIP/n  tinha/v  que/c  avisar/v  com/i</right>
+  </line>
+  <line refs="sapo.pt" num="136" label="_">
+    <left>,/x  mais/r  equipamentos/n  de/i  proteção/n  individual/j  e/c  um/x  cuidado/n  muito/r  grande/j  na/i  forma/n  como/c  se/p  circula/v  nos/i  locais/n  de/i  trabalho/n  –/x ,/x</left>
+    <kwic> avisou/v</kwic>
+    <right> o/x  ministro/n  da/i  Economia/n ,/x  mas/c  os/x  primeiros/j  sinais/n  neste/i  sentido/n  começam/v  a/i  ser/v  dados/n ./x &lt;/s&gt;&lt;s&gt; E/c  enquanto/r  o/x  país/n  vai/v  ensaiando/v  que/c</right>
+  </line>
+  <line refs="sapo.pt" num="137" label="_">
+    <left>têm/v  de/i  continuar/v  a/i  investir/v  e/c  a/i  desenvolver/v  as/x  políticas/n  adequadas/v  para/i  que/c  a/x  inovação/n  possa/v  prosperar/v &quot;/x ,/x</left>
+    <kwic> avisa/v</kwic>
+    <right> Carlos/n  Moedas/n ,/x  comissário/n  responsável/j  pela/i  Investigação/n ,/x  Ciência/n  e/c  Inovação/n ,/x  citado/v  em/i  comunicado/n ./x &lt;/s&gt;&lt;s&gt; A/x  União/n</right>
+  </line>
+  <line refs="nos.pt" num="138" label="_">
+    <left>também/r  apresentar/v  uma/x  reclamação/n  para/i  ver/v  se/c  eles/p  se/p  apressam/v  a/i  resolver/v  o/x  problema/n ./x &lt;/s&gt;&lt;s&gt; Caso/c  veja/v  a/x  sua/x  situação/n  resolvida/v</left>
+    <kwic> avise/v</kwic>
+    <right> me/p  por/i  aqui/r ,/x  farei/v  o/p  mesmo/r  quando/r  me/p  resolverem/v  o/x  problema/n ./x &lt;/s&gt;&lt;s&gt; Boa/j  tarde/n ./x &lt;/s&gt;&lt;s&gt; Tenho/v  o/x  mesmo/r  problema/n ,/x  reparei/v  quando/r  no/i  meu/x</right>
+  </line>
+  <line refs="sapo.pt" num="139" label="_">
+    <left>uns/x  anos/n ,/x  no/i  dia/n  14/m  de/i  fevereiro/n ,/x  fui/v  ao/i  oftalmologista/n  fazer/v  exames/n  de/i  rotina/n  e/c  depois/r  ia/v  jantar/v  com/i  o/x  meu/x  marido/n ./x &lt;/s&gt;&lt;s&gt; Não/r  me/p</left>
+    <kwic> avisaram/v</kwic>
+    <right> que/c  iam/v  dilatar/v  a/x  pupila/n  e/c  que/p  depois/r  eu/p  não/r  conseguiria/v  ver/v  para/i  conduzir/v ./x &lt;/s&gt;&lt;s&gt; Lembrei-me/v  de/i  uma/x  amiga/n  que/p  trabalhava/v  por/i</right>
+  </line>
+  <line refs="androidgeek.pt" num="140" label="_">
+    <left>ou/c  lembrar-nos/v  de/i  coisas/n ,/x  algo/p  muito/r  útil/j  quando/r  estou/v  a/i  cozinhar/v  alguma/x  coisa/n ,/x  peço/v  ao/i  Google/n  Assistant/n  para/i  me/p</left>
+    <kwic> avisar/v</kwic>
+    <right> daí/i  a/x  10m/m  &quot;/x Hey/n  Google/n ,/x  Set/n  timer/n  10/m  minutes/v &quot;/x ./x &lt;/s&gt;&lt;s&gt; Google/n  Assistant/n  já/r  me/p  acompanha/v  há/v  algum/x  tempo/n ,/x  na/i  verdade/n  tenho/v  um/x  destes/i</right>
+  </line>
+  <line refs="cm-lisboa.pt" num="141" label="_">
+    <left>outros/x  elementos/n ,/x  um/x  número/n  total/j  de/i  88/m  lotes/n ,/x  dos/i  quais/p  87/m  destinados/v  a/i  habitação/n  e/c  1/m  a/i  equipamento/n  privado/v ,/x  conforme/r</left>
+    <kwic> Aviso/v</kwic>
+    <right> n/n ./x o/x  61/2009/m ,/x  publicado/v  no/i  Boletim/n  Municipal/j  n/n ./x o/x  818/m ,/x  de/i  22/m  de/i  outubro/n  de/i  2009/m ,/x  retificado/v  nos/i  termos/n  do/i  Aviso/n  n/n ./x o/x</right>
+  </line>
+  <line refs="paulus.pt" num="142" label="_">
+    <left>do/i  santuário/n ,/x  o/x  Pe/n  Carlos/n  Cabecinhas/n  informou/v  que/c  irão/v  ser/v  acompanhados/v  o/x  melhor/r  possível/j ,/x  mas/c  aproveitou/v  para/i</left>
+    <kwic> avisar/v</kwic>
+    <right> que/c  durante/i  toda/x  a/x  noite/n  haverá/v  uma/x  vigília/n  de/i  oração/n  a/i  decorrer/v  no/i  recinto/n ./x  &quot;/x Aos/i  que/p  ficam/v  no/i  recinto/n ,/x  é/v  feito/v  o/x  desafio/n</right>
+  </line>
+  <line refs="pbo.pt" num="143" label="_">
+    <left>de/i  avaliação/n ./x &lt;/s&gt;&lt;s&gt; FMI/n  avisa/v :/x  desigualdades/n  levam/v  a/x  mais/r  instabilidade/n  social/j &lt;/s&gt;&lt;s&gt; O/x  Fundo/n  Monetário/j  Internacional/j</left>
+    <kwic> avisa/v</kwic>
+    <right> para/i  o/x  impacto/n  da/i  pandemia/n  nas/i  populações/n  que/p  já/r  são/v  mais/r  vulneráveis/j  e/c  pede/v  aos/i  países/n  que/p  tomem/v  medidas/n ./x &lt;/s&gt;&lt;s&gt; É/v  preciso/j  mais/r</right>
+  </line>
+  <line refs="dgsi.pt" num="144" label="_">
+    <left>o/x  técnico/n  social/j  e/c  comunicar-lhe/v  as/x  informações/n  ou/c  documentos/n  que/p  o/p  habilitem/v  ao/i  controlo/n  das/i  obrigações/n  impostas/v ;/x  k/n ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Avisar/v</kwic>
+    <right> o/x  técnico/n  social/j  de/i  qualquer/x  mudança/n  de/i  residência/n  e/c  de/i  qualquer/x  deslocação/n  cuja/p  duração/n  exceda/v  15/m  dias/n  e/c  informar/v  do/i</right>
+  </line>
+  <line refs="radis.pt" num="145" label="_">
+    <left>preparação/n ./x  2/m ./x &lt;/s&gt;&lt;s&gt; Trazer/v  os/x  exames/n  anteriores/j  (/x principalmente/r  da/i  ecografia/n  que/p  demonstrou/v  a/x  lesão/n  a/i  ser/v  biopsiada/j )/x ./x  3/m ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Avisar/v</kwic>
+    <right> na/i  marcação/n  se/p  toma/v  alguma/x  medicação/n  anti-coagulante/n  //x  anti-agregante/j  plaquetária/n  (/x pode/v  ser/v  necessária/j  a/x  sua/x</right>
+  </line>
+  <line refs="clubdtr.pt" num="146" label="_">
+    <left>me/p  á/v  mota/n ./x &lt;/s&gt;&lt;s&gt; Um/x  susto/n  que/p  me/p  abriu/v  os/x  olhos/n ,/x acontece/v !/x &lt;/s&gt;&lt;s&gt; Fora/r  do/i  contexto/n :/x A/x  velha/n  foi/v  embirrar/v  que/c  a/x  culpa/n  foi/v  nossa/x  porque/c  nao/r</left>
+    <kwic> avisamos/v</kwic>
+    <right>,/x LOL/n ,/x ela/p  e/c  que/c  tinah/x  de/i  parar/v ,/x ir/v  para/i  o/x  meio/n  da/i  estrada/n ,/x ver/v  pelos/n  retrovisores/j  e/c  sinalizar/v ./x ./x &lt;/s&gt;&lt;s&gt; Nos/p  fizemos/v  tudo/p  de/i  acordo/n</right>
+  </line>
+  <line refs="sapo.pt" num="147" label="_">
+    <left>ainda/r  vai/v  piorar/v ,/x  e/c  as/x  rajadas/n  de/i  vento/n  podem/v  atingir/v  os/x  110/m  km/n //x h/n ./x &lt;/s&gt;&lt;s&gt; Mau/j  tempo/n  já/r  se/p  sente/v  no/i  Norte/n  e/c  Centro/n ./x &lt;/s&gt;&lt;s&gt; A/x  Proteção/n  Civil/j</left>
+    <kwic> avisa/v</kwic>
+    <right> que/c  se/p  deve/v  evitar/v  deslocações/n  desnecessárias/j ./x &lt;/s&gt;&lt;s&gt; Já/r  se/p  sente/v  mais/r  vento/n  e/c  chuva/n ,/x  mas/c  o/x  pior/r  ainda/r  está/v  para/i  vir/v ./x &lt;/s&gt;&lt;s&gt; A/x</right>
+  </line>
+  <line refs="cype.pt" num="148" label="_">
+    <left>a/x  opção/n  Calcular/v  a/x  simulação/n  de/i  incêndio/n  do/i  menu/n  FDS/n  (/x embora/c  não/r  seja/v  definido/v  qualquer/x  outro/x  parâmetro/n )/x  e/c  o/x  programa/n</left>
+    <kwic> avisará/v</kwic>
+    <right> da/i  falta/n  dos/i  dados/n  necessários/j :/x  definição/n  de/i  hipóteses/n  de/i  incêndio/n ,/x  selecção/n  de/i  compartimentos/n  do/i  edifício/n  a/i  incluir/v</right>
+  </line>
+  <line refs="ubi.pt" num="149" label="_">
+    <left>afirma-se/v  disponível/j  para/i  uma/x  quinta/j  organização/n ,/x  &quot;/x até/r  porque/c  o/x  mecanismo/n  já/r  está/v  todo/x  montado/n &quot;/x ./x &lt;/s&gt;&lt;s&gt; De/i  qualquer/x  modo/n ,/x</left>
+    <kwic> avisa/v</kwic>
+    <right>,/x  &quot;/x a/i  realizar-se/v  no/i  mesmo/p  sítio/n ,/x  terá/v  que/c  começar/v  a/i  ser/v  organizada/v  com/i ,/x  pelo/i  menos/r ,/x  meio/j  ano/n  de/i  antecedência/n &quot;/x &lt;/s&gt;&lt;s&gt; Colectivo/n</right>
+  </line>
+  <line refs="terraruiva.pt" num="150" label="_">
+    <left>:/x  Odemira/n  –/x  2/m  Lagos/n  –/x  2/m  Olhão/n  –/x  4/m  Castro/n  Marim/n  –/x  1/m  O/x  aviso/n  no/i  14357/19/m ,/x  foi/v  publicado/v  no/i  dia/n  16/m  de/i  Setembro/n ,/x  no/i  D.R./n  2a/m  Série/n</left>
+    <kwic> aviso/v</kwic>
+    <right> ICNF/n  Os/x  interessados/n  têm/v  um/x  período/n  de/i  10/m  dias/n  úteis/j  para/i  concorrer/v ./x &lt;/s&gt;&lt;s&gt; Uma/x  fotografia/n  é/v  um/x  documento/n ./x &lt;/s&gt;&lt;s&gt; Os/x  documentos/n  foram/v</right>
+  </line>
+  <line refs="sapo.pt" num="151" label="_">
+    <left>sobre/i  contratos/n  de/i  crédito/n ./x &lt;/s&gt;&lt;s&gt; https://www.facebook.com/profile.php?id=100074642896435/m &lt;/s&gt;&lt;s&gt; O/x  Banco/n  de/i  Portugal/n</left>
+    <kwic> avisa/v</kwic>
+    <right> ainda/r  que/c  as/x  listas/n  das/i  entidades/n  autorizadas/v  a/i  conceder/v  crédito/n  e/c  a/i  atuar/v  como/c  intermediários/n  de/i  crédito/n  e/c  consultor/n</right>
+  </line>
+  <line refs="ulisboa.pt" num="152" label="_">
+    <left>esclarecimento/n  pode/v  ser/v  agendada/v  dia/n  23/m  de/i  julho/n  pelas/i  12h00/m ./x &lt;/s&gt;&lt;s&gt; Agradece-se/v  aos/i  interessados/n  que/p  mandem/v  um/x  mail/n  a/i</left>
+    <kwic> avisar/v</kwic>
+    <right> da/i  sua/x  intenção/n ./x &lt;/s&gt;&lt;s&gt; É/v  também/r  possível/j  resolver-se/v  a/x  reunião/n  telefonicamente/r ./x &lt;/s&gt;&lt;s&gt; Sofia/n  Bento/j &lt;/s&gt;&lt;s&gt; Comissão/n  de/i  Educação/n  debate/n</right>
+  </line>
+  <line refs="sulinformacao.pt" num="153" label="_">
+    <left>Carlos/n  Rolo/n ./x &lt;/s&gt;&lt;s&gt; José/n  Carlos/n  Rolo/n  com/i  Heber/n  Marques/v ,/x  dos/i  HMB/n &lt;/s&gt;&lt;s&gt; Para/i  isso/p ,/x  os/x  agentes/n  económicos/j  locais/j  também/r  têm/v  de/i  ajudar/v ,/x</left>
+    <kwic> avisou/v</kwic>
+    <right> o/x  presidente/n  da/i  Câmara/n  de/i  Albufeira/n ./x  &quot;/x O/x  esforço/n  não/r  pode/v  ser/v  apenas/r  de/i  um/x  lado/n ,/x  senão/r  a/x  corda/j  parte/n ./x &lt;/s&gt;&lt;s&gt; Tem/v  de/i  ser/v  dos/i  dois/m</right>
+  </line>
+  <line refs="gofordmagazine.pt" num="154" label="_">
+    <left>deteta/v  através/r  de/i  geolocalização/n ,/x  que/p  no/i  dia/n  da/i  sua/x  viagem/n  e/c  ao/i  sair/v  de/i  casa/n ,/x  se/c  não/r  se/p  esquece/v  de/i  nada/p ,/x  salientando/v  e/c</left>
+    <kwic> avisando/v</kwic>
+    <right> que/c  deixou/v  algo/p  para/i  trás/x !/x &lt;/s&gt;&lt;s&gt; O/x  Airbnb/n  das/i  crianças/n &lt;/s&gt;&lt;s&gt; Lisboa/n ,/x  Porto/n ,/x  Barcelona/n ,/x  Kerala/n ,/x  Islândia/n ,/x  Amesterdão/n ,/x  Cádis/n ..../x</right>
+  </line>
+  <line refs="doutorfinancas.pt" num="155" label="_">
+    <left>soluções/n  para/i  diversas/j  situações/n ./x &lt;/s&gt;&lt;s&gt; Então/r ,/x  neste/i  caso/n ,/x  a/x  lei/n  estabelece/v  que/c  existem/v  prazos/n  mínimos/j  para/i  um/x  empregador/n</left>
+    <kwic> avisar/v</kwic>
+    <right> os/x  trabalhadores/n  desta/i  alteração/n ,/x  sendo/v  estes/x  os/x  seguintes/j :/x &lt;/s&gt;&lt;s&gt; 8/m  dias/n  de/i  antecedência/n :/x  Este/x  prazo/n  aplica-se/v  quando/r  vai/v</right>
+  </line>
+  <line refs="rtp.pt" num="156" label="_">
+    <left>Défice/n  Excessivo/j ,/x  a/x  Comissão/n  Europeia/j  não/r  deixa/v  de/i  apresentar/v  as/x  suas/x  recomendações/n  para/i  os/x  próximos/j  anos/n ./x &lt;/s&gt;&lt;s&gt; Bruxelas/n</left>
+    <kwic> avisa/v</kwic>
+    <right> que/c  Portugal/n  deve/v  assegurar/v  que/c  mantém/v  a/x  trajetória/n  de/i  correção/n  do/i  défice/n  e/c  para/i  o/x  respeito/n  do/i  Pacto/n  de/i  Estabilidade/n  e/c</right>
+  </line>
+  <line refs="rtp.pt" num="157" label="_">
+    <left>impedem/v  Henrique/n  de/i  se/p  aproximar/v  de/i  Gonçalo/n  e/c  Luísa/n  manda/v  o/x  marido/n  visitar/v  o/x  convalescente/n  Marques/v  Vila/n ./x &lt;/s&gt;&lt;s&gt; Cristina/n</left>
+    <kwic> avisa/v</kwic>
+    <right> Pedro/v  que/c  Joana/n  fugiu/v  para/i  ir/v  atrás/r  de/i  Manuel/n ./x &lt;/s&gt;&lt;s&gt; Manuel/n  é/v  detido/v ./x &lt;/s&gt;&lt;s&gt; Bruno/j  fica/v  a/i  saber/v  que/c  Camacho/j  e/c  Inês/n  se/p  envolveram/v  e/c  vai/v</right>
+  </line>
+  <line refs="apagina.pt" num="158" label="_">
+    <left>tenderá/v  a/i  ser/v  privatizada/v  à/i  custa/n  da/i  troca/n  de/i  soldados/n  por/i  mercenários/n  contratados/v  por/i  empresas/n  privadas/v ./x &lt;/s&gt;&lt;s&gt; Bush/n  já/r</left>
+    <kwic> avisou/v</kwic>
+    <right> que/c  ouvirá/v  as/x  opiniões/n  do/i  comandante/n  das/i  forças/n  americanas/j  no/i  Iraque/n ,/x  o/x  general/j  David/n  Petraeus/n ,/x  e/c  do/i  embaixador/n  dos/i</right>
+  </line>
+  <line refs="zerozero.pt" num="159" label="_">
+    <left>Dála/n  !/x &lt;/s&gt;&lt;s&gt; Jorge/n  Ferreira/n  se/c  não/r  desce/v  de/i  divisão/n  com/i  esta/x  falta/n  de/i  critério/n  e/c  ao/i  tentar/v  marcar/v  um/x  livre/j  indireto/j  antes/r  de/i  ser/v</left>
+    <kwic> avisado/v</kwic>
+    <right> para/i  repetir/v  o/x  livre/j ,/x  mostra/v  como/c  este/x  árbitro/n  é/v  amador/j  e/c  fisicamente/r  é/v  patético/j  para/i  o/x  que/c  um/x  árbitro/n  tem/v  de/i  ser/v  em/i  campo/n !/x &lt;/s&gt;</right>
+  </line>
+  <line refs="shopmania.pt" num="160" label="_">
+    <left>Pro/j  Fiber/n  Reconstruct/n  champô/n  para/i  cabelos/n  danificados/v  250/m  ml/n  são/v  enviadas/v  pelas/i  lojas/n  listadas/j ./x &lt;/s&gt;&lt;s&gt; Por/i  favor/n  nos/p</left>
+    <kwic> avise/v</kwic>
+    <right> se/p  encontrar/v  alguns/x  erros/n ./x &lt;/s&gt;&lt;s&gt; Laranja/n ,/x  tangerina/n  e/c  uva/n  deverão/v  conter/v ,/x  obrigatoriamente/r ,/x  no/i  mínimo/n ,/x  dez/m  por/i  cento/n  em/i</right>
+  </line>
+  <line refs="seleccoes.pt" num="161" label="_">
+    <left>./x &lt;/s&gt;&lt;s&gt; Mostra/v  a/p  ci/v -/x  catriz/n ./x &lt;/s&gt;&lt;s&gt; Pede/v  para/i  tocarem/v ,/x  sem/i  re/n -/x  ceio/v ./x &lt;/s&gt;&lt;s&gt; Antes/r  do/i  concerto/n ,/x  é/v  um/x  amigo/n  de/i  casa/n ./x  &quot;/x No/i  palco/n ,/x  um/x  artista/n &quot;/x ,/x</left>
+    <kwic> avisa/v</kwic>
+    <right>./x &lt;/s&gt;&lt;s&gt; Um/x  artista/n  que/p  já/r  não/r  atira/v  o/x  microfone/n  de/i  uma/x  mão/n  para/i  a/x  outra/p ./x &lt;/s&gt;&lt;s&gt; &quot;/x Com/i  o/x  objetivo/n  de/i  garantir/v  que/c  a/x  mudança/n  para/i  a/x  GPLv3/n  seja/v</right>
+  </line>
+  <line refs="jornaldenegocios.pt" num="162" label="_">
+    <left>muito/r  dependentes/j  do/i  preço/n  da/i  matéria/n  prima/j  ./x &lt;/s&gt;&lt;s&gt; forte/j  baixa/n  das/i  matérias/n  primas/j  ?/x ?/x ?/x  não/r  sabes/v  o/p  que/p  dizes/v &lt;/s&gt;&lt;s&gt; A/x  NAVIGATOR/n  já/r</left>
+    <kwic> avisou/v</kwic>
+    <right> os/x  clientes/n  de/i  aumento/n  de/i  12/m %/x  em/i  alguns/x  artigos/n  para/i  o/x  próximo/j  mês/n  e/c  com/i  a/x  escasses/n  de/i  matéria/n  prima/j  que/p  existe/v  mesmo/r  que/c  o/x</right>
+  </line>
+  <line refs="dn.pt" num="163" label="_">
+    <left>:/x  o/x  MP/n  e/c  a/x  PJ/n  sabiam/v  há/v  vários/x  meses/n  que/p  estava/v  a/i  ser/v  preparado/v  um/x  assalto/n  a/i  instalações/n  militares/j  naquela/i  região/n  e/c  ninguém/p</left>
+    <kwic> avisou/v</kwic>
+    <right> as/x  Forças/n  Armadas/v ./x &lt;/s&gt;&lt;s&gt; Este/x  assunto/n  seria/v  esclarecido/v  quer/c  pela/v  ex-PGR/v ,/x  Joana/n  Marques/v  Vidal/n ,/x  quer/v  pelo/i  diretor/n  da/i  PJ/n ,/x  Luís/n</right>
+  </line>
+  <line refs="sapo.pt" num="164" label="_">
+    <left>./x &lt;/s&gt;&lt;s&gt; &quot;/x Os/x  Estados/n  Unidos/v  conhecem/v  muito/r  bem/r  as/x  nossas/x  capacidades/n  militares/j &quot;/x  e/c  &quot;/x sabem/v  que/c  são/v  impossíveis/j  de/i  derrotar/v &quot;/x ,/x</left>
+    <kwic> avisou/v</kwic>
+    <right> Raissi/n ,/x  na/i  entrevista/n  ao/i  canal/n  do/i  Qatar/n ./x &lt;/s&gt;&lt;s&gt; O/p  Irão/v  é/v  um/x  firme/j  apoiante/n  do/i  Hamas/n ,/x  que/p  está/v  em/i  guerra/n  com/i  Israel/n  desde/i  07/m  de/i</right>
+  </line>
+  <line refs="sapo.pt" num="165" label="_">
+    <left>desequilíbrios/n  externos/j &lt;/s&gt;&lt;s&gt; Portugal/n  corrigiu/v  o/x  défice/n  da/i  balança/n  corrente/j ,/x  mas/c  esta/x  conquista/n  ainda/r  não/r  é/v  estrutural/j ,/x</left>
+    <kwic> avisam/v</kwic>
+    <right> os/x  economistas/n ./x &lt;/s&gt;&lt;s&gt; A/x  principal/j  razão/n  pela/i  qual/p  a/x  balança/n  corrente/j  é/v  neste/i  momento/n  positiva/j  é/v  porque/c  o/x  PIB/n  está/v  a/i  funcionar/v</right>
+  </line>
+  <line refs="tuningonline.pt" num="166" label="_">
+    <left>de/i  Suspensão/n  novos/j  -4/m  amortecedores/n  Monroe/n  -/x IPO/n  até/i  2010/m  assim/r  que/c  me/p  lembre/v  é/v  tudo/p .../x  se/p  me/p  lembrar/v  de/i  mais/r  alguma/x  coisa/n</left>
+    <kwic> aviso/v</kwic>
+    <right> pontos/n  negativos/j :/x  -/x com/i  o/x  sistema/n  de/i  travagem/n  quase/r  todo/x  novo/j  penso/v  que/c  pra/i  ficar/v  a/i  100/m %/x  teria/v  de/i  montar/v  a/x  bomba/n  central/j</right>
+  </line>
+  <line refs="trc.pt" num="167" label="_">
+    <left>n/n ./x o/x  70/m ,/x  Série/n  II/n  de/i  2008-04-09/m  Tribunal/n  da/i  Relação/n  de/i  Coimbra/n  Lista/n  de/i  antiguidade/n  reportada/v  a/i  31/m  de/i  Dezembro/n  de/i  2007/m &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Aviso/v</kwic>
+    <right> n/n ./x o/x  10656/2008/m ,/x  D.R./n  n/n ./x o/x  68/m ,/x  Série/n  II/n  de/i  2008-04-07/m  Ministério/n  da/i  Justiça/n  -/x  Direcção-Geral/n  da/i  Administração/n  da/i</right>
+  </line>
+  <line refs="fea.pt" num="168" label="_">
+    <left>dias/n  por/i  semana/n  (/x nos/i  horários/n  indicados/v )/x ;/x  -/x  Elevado/v  sentido/n  de/i  responsabilidade/n  (/x se/c  não/r  puderem/v  comparecer/v ,/x  devem/v</left>
+    <kwic> avisar/v</kwic>
+    <right> o/x  mais/r  cedo/r  possível/j ,/x  já/r  que/c  é/v  uma/x  função/n  que/p  não/r  pode/v  ficar/v  em/i  branco/n )/x ./x &lt;/s&gt;&lt;s&gt; Horários/n :/x  De/i  2a/m  a/i  6a/m  feira/n ,/x  entre/i  as/x  ,/x  entre/i  as/x  10h30/m</right>
+  </line>
+  <line refs="dgsi.pt" num="169" label="_">
+    <left>,/x  em/i  2010/m  era/v  já/r  muito/r  frequente/j  os/x  furtos/n  de/i  cobre/n ,/x  pelo/n  que/p  desde/i  logo/r ,/x  o/x  arguido/v  sucateiro/n  de/i  profissão/n  teria/v  de/i  estar/v</left>
+    <kwic> avisado/v</kwic>
+    <right> para/i  o/x  facto/n ./x &lt;/s&gt;&lt;s&gt; Por/i  outro/x  lado/n ,/x  o/x  mesmo/r  foi/v  perentório/j  ao/i  referir/v  que/c  nunca/r  perguntou/v  aos/i  restantes/j  arguidos/n  da/i</right>
+  </line>
+  <line refs="blitz.pt" num="170" label="_">
+    <left>manual/n  conhecido/v :/x  o/x  da/i  banda/n  capaz/j  de/i  gerar/v  uma/x  empatia/n  '/x universal/j '/x  com/i  grandes/j  refrões/n  e/c  mensagens/n  '/x abertas/n '/x  -/x  esta/x ,/x</left>
+    <kwic> avisou/v</kwic>
+    <right> Booth/n ,/x  sobre/i  os/x  muros/n  de/i  Trump/n  e/c  o/x  &quot;/x amor/n  universal/j &quot;/x ./x &lt;/s&gt;&lt;s&gt; Sem/i  deixar/v  o/x  alinhamento/n  demasiadamente/j  refém/n  de/i  canções/n  recentes/j</right>
+  </line>
+  <line refs="truca.pt" num="171" label="_">
+    <left>dígitos/j  possível/j  e/c  eles/p  lixaram/v  tudo/p &quot;/x ./x &lt;/s&gt;&lt;s&gt; A/x  geração/n  seguinte/j  de/i  programadores/n  também/r  forneceu/v  o/x  seu/x  lote/n  de/i  pessoas/n</left>
+    <kwic> avisadas/v</kwic>
+    <right>./x &lt;/s&gt;&lt;s&gt; Peter/n  de/i  Jader/n ,/x  um/x  canadiano/n  que/p  entrou/v  para/i  a/x  IBM/n  em/i  1977/m ,/x  estava/v  no/i  projecto/n  dos/i  Sistemas/n  370/m  e/c  informou/v  o/x  &quot;/x manager/n &quot;/x</right>
+  </line>
+  <line refs="shopmania.pt" num="172" label="_">
+    <left>para/i  Bicicleta/n  indoor/j  Evo/n  S2000/n  Tecnovita/n :/x  Equipada/v  com/i  monitor/n  LCD/n  são/v  enviadas/v  pelas/i  lojas/n  listadas/j ./x &lt;/s&gt;&lt;s&gt; Por/i  favor/n  nos/p</left>
+    <kwic> avise/v</kwic>
+    <right> se/p  encontrar/v  alguns/x  erros/n ./x &lt;/s&gt;&lt;s&gt; Bca/n  Calcados/v  Ltda/n  04710735000160/m &lt;/s&gt;&lt;s&gt; 206/m  -/x  SOCIEDADE/n  POR/i  COTAS/n  DE/i  RESPONS/n ./x &lt;/s&gt;&lt;s&gt; LIMITADA-EMPRESA/n</right>
+  </line>
+  <line refs="sapo.pt" num="173" label="_">
+    <left>,/x  o/x  presidente/n  da/i  câmara/n  de/i  Londres/n  também/r  já/r  reagiu/v  e/c ,/x  à/i  semelhança/n  de/i  May/n ,/x  fez/v  votos/n  para/i  que/p  os/x  feridos/n  recuperem/v ,/x  e/c</left>
+    <kwic> avisou/v</kwic>
+    <right> que/c  amanhã/r  os/x  três/m  museus/n  daquela/i  zona/n  -/x  Museu/n  de/i  História/n  Natural/j ,/x  Museu/n  da/i  Ciencia/n  e/c  Museu/n  Victoria/n  &amp;/x  Albert/n  -/x  irão/v</right>
+  </line>
+  <line refs="pneus-online.pt" num="174" label="_">
+    <left>começam/v  a/i  girar/v  mais/r  depressa/r  do/i  que/c  o/x  normal/j ,/x  o/x  computador/n  de/i  bordo/n  interpreta/v  tal/r  como/c  um/x  sinal/n  de/i  baixa/n  inflação/n  e/c</left>
+    <kwic> avisa/v</kwic>
+    <right> o/x  condutor/n ./x &lt;/s&gt;&lt;s&gt; O/x  iTPMS/n  deve/v  ser/v  reiniciado/v  depois/r  de/i  uma/x  inflação/n  devida/v  e/c  de/i  uma/x  rotação/n  dos/i  pneus/n  de/i  rotina/n  e/c  leva/v  entre/i  20/m  a/i</right>
+  </line>
+  <line refs="sapo.pt" num="175" label="_">
+    <left>isolado/v  desaparece/v  entre/i  as/x  árvores/n ./x &lt;/s&gt;&lt;s&gt; Vira/v  o/x  avião/n  sobre/i  a/x  asa/n  esquerda/j  e/c  olha/n  para/i  baixo/j ./x  &quot;/x Vou/v  fazer/v  só/r  uma/x  passagem/n &quot;/x ,/x</left>
+    <kwic> avisa/v</kwic>
+    <right>,/x  apertando/v  mais/r  a/x  curva/n  e/c  fixando/v  os/x  olhos/n  no/i  solo/n ./x  &quot;/x Se/c  me/p  virem/v  aqui/r  às/i  voltas/n ,/x  alguns/x  moradores/n  destas/i  casas/n  saem/v  para/i</right>
+  </line>
+  <line refs="monstersgame.com.pt" num="176" label="_">
+    <left>QUE/p  LUTA/n  PELAS/i  MESMAS/x  CAUSAS/n !/x !/x &lt;/s&gt;&lt;s&gt; RAGRAS/n  DO/i  CLÃ/n  SER/v  UM/x  JOGADOR/n  ATIVO/j  (/x  caso/n  tenha/v  que/c  ficar/v  um/x  tempo/n  afastado/v  do/i  jogo/n</left>
+    <kwic> avise/v</kwic>
+    <right> um/x  dos/i  ADM/n  )/x !/x !/x !/x &lt;/s&gt;&lt;s&gt; NÃO/r  ATACAR/v  VERBAL/j  MENTE/n  OUTROS/x  MEMBROS/n  DO/i  CLÃ/n  (/x  o/x  membro/n  que/p  nao/v  respeitar/v  essa/x  regra/n  serra/v  banido/v  do/i  cla/n )/x  !/x</right>
+  </line>
+  <line refs="dgsi.pt" num="177" label="_">
+    <left>que/c  foi/v  lá/r  (/x estaleiro/n )/x  a/x  polícia/n  e/c  apreendeu/v  duas/m  cubas/n  de/i  inox/n ./x &lt;/s&gt;&lt;s&gt; F./n ......../x  queixa-se/v  ao/i  N./n ......../x  que/p  ele/p  podia/v  ter/v</left>
+    <kwic> avisado/v</kwic>
+    <right> que/p  estava/v  a/i  decorrer/v  a/x  rusga/n ./x &lt;/s&gt;&lt;s&gt; N./n ......../x  diz/v  que/c  não/r  estava/v  lá/r  e/c  que/p  &quot;/x bem/r  sabia/v  eu/p  que/c  aquilo/p  é/v  (/x roubado/v ?/x )/x  não/r  é/v ?/x ,/x  recebo/v ,/x</right>
+  </line>
+  <line refs="dgsi.pt" num="178" label="_">
+    <left>)/x  e/c  ainda/r  que/c  não/r  há/v  factos/n  que/p  provem/v  que/c  a/x  cirurgia/n  é/v  tão/r  grave/j  que/p  impossibilitasse/v  o/x  subscritor/n  de/i  praticar/v  o/x  acto/n  ou/c</left>
+    <kwic> avisar/v</kwic>
+    <right> o/x  cliente/n ./x  17/m ./x -/x  Perguntamo-nos/n :/x  com/i  uma/x  cirurgia/n  oral/j  seria/v  possível/j  praticar/v  o/x  acto/n ,/x  realizando/v  a/x  inquirição/n  de/i</right>
+  </line>
+  <line refs="dgsi.pt" num="179" label="_">
+    <left>uma/x  solução/n  –/x  por/i  ex./n  quem/p  a/p  levava/v  ao/i  dentista/n  era/v  o/x  progenitor/n  com/i  quem/p  estivesse/v  nesse/i  dia/n  e/c  se/p  fosse/v  o/x  pai/n ,/x  ela/p  própria/j  o/p</left>
+    <kwic> avisaria/v</kwic>
+    <right> de/i  tal/x  facto/n ;/x  na/i  semana/n  em/i  que/c  ficasse/v  com/i  o/x  pai/n ,/x  podia/v  ir/v  de/i  autocarro/n  para/i  a/x  escola/n ./x &lt;/s&gt;&lt;s&gt; E/c  quando/r  o/x  juiz/n  lhe/p  refere/v  que/c  a/x  sua/x</right>
+  </line>
+  <line refs="sabado.pt" num="180" label="_">
+    <left>pela/i  sua/x  simplicidade/n  e/c  entusiasmo/n ,/x  mas/c  também/r  criou/v  oposições/n  na/i  Igreja/n ./x &lt;/s&gt;&lt;s&gt; Quando/r  o/x  Papa/n  Francisco/j  tentou/v</left>
+    <kwic> avisá-lo/v</kwic>
+    <right> que/c  seria/v  o/x  seu/x  sucessor/n ,/x  não/r  conseguiu/v :/x  Ratzinger/n  estava/v  a/i  ver/v  televisão/n ./x &lt;/s&gt;&lt;s&gt; Tinha/v  abdicado/v  um/x  mês/n  antes/r  -/x  nunca/r  se/p</right>
+  </line>
+  <line refs="sapo.pt" num="181" label="_">
+    <left>de/i  ataques/n  terroristas/j  na/i  Nigéria/n ,/x  especificamente/r  em/i  Abuja/n &quot;/x ,/x  alertou/v  a/x  embaixada/n  dos/i  Estados/n  Unidos/v  em/i  Abuja/n ,/x</left>
+    <kwic> avisando/v</kwic>
+    <right> que/c  os/x  seus/x  serviços/n  na/i  capital/n  nigeriana/j  seriam/v  reduzidos/v  &quot;/x até/i  nova/j  aviso/n &quot;/x ./x &lt;/s&gt;&lt;s&gt; O/x  Ministério/n  dos/i  Negócios/n  Estrangeiros/j</right>
+  </line>
+  <line refs="sapo.pt" num="182" label="_">
+    <left>que/c  vai/v  ganhar/v  as/x  eleições/n  europeias/j ,/x  anuncia/v  que/c  será/v  recandidato/v  nas/p  diretas/n  que/p  se/p  seguirão/v  a/i  estas/x  eleições/n ,/x  mas/c</left>
+    <kwic> avisa/v</kwic>
+    <right> desde/i  logo/r  que/c  assumiu/v  a/x  presidência/n  do/i  PSD/n  para/i  ganhar/v  o/x  país/n  e/c  não/r  para/i  se/p  candidatar/v  a/i  outras/x  eleições/n ./x &lt;/s&gt;&lt;s&gt; O/x  seu/x  foco/n ,/x ,/x</right>
+  </line>
+  <line refs="dn.pt" num="183" label="_">
+    <left>,/x  no/i  início/n  do/i  mês/n ,/x  a/x  empresa/n  já/r  estava/v  a/i  avisar/v  os/x  clientes/n  de/i  que/p  as/x  encomendas/n  feitas/v  estavam/v  a/i  superar/v  as/x  capacidades/n ,/x</left>
+    <kwic> avisando/v</kwic>
+    <right> sobre/i  possíveis/j  atrasos/n  nas/i  entregas/n  da/i  Whole/n  Foods/n  (/x cadeia/n  de/i  supermercados/n  comprada/v  pela/i  Amazon/n )/x  e/c  outros/x  serviços/n</right>
+  </line>
+  <line refs="coisasdaweb.pt" num="184" label="_">
+    <left>de/i  desporto/n  e/c  lazer/n ./x &lt;/s&gt;&lt;s&gt; O/x  endereço/n  é/v  http://www.e-coisas.com/cweb//v &lt;/s&gt;&lt;s&gt; Em/i  condições/n  normais/j ,/x  os/x  nossos/x  clientes/n  são/v</left>
+    <kwic> avisados/v</kwic>
+    <right> pelos/i  meios/n  habituais/j ./x &lt;/s&gt;&lt;s&gt; A/x  Equipa/n  Coisas/n  da/i  Web/n &lt;/s&gt;&lt;s&gt; Contactos/n &lt;/s&gt;&lt;s&gt; O/x  Vilanovense/n  Futebol/n  Clube/n ,/x  através/r  da/i  sua/x  Comissão/n</right>
+  </line>
+  <line refs="sapo.pt" num="185" label="_">
+    <left>de/i  que/p  nós/p  não/r  dispomos/v ./x &lt;/s&gt;&lt;s&gt; De/i  acordo/n  com/i  a/x  informação/n  que/p  é/v  pública/j ,/x  eu/p  não/r  seria/v  tão/r  categórico/j  nessa/i  afirmação/n &quot;/x ,/x</left>
+    <kwic> avisava/v</kwic>
+    <right> na/i  altura/n  Passos/n  Coelho/n ./x &lt;/s&gt;&lt;s&gt; Agora/r ,/x  mais/r  do/i  que/c  antever/v  um/x  eventual/j  fracasso/n  da/i  geringonça/n  no/i  cumprimento/n  das/i  metas/n  do/i</right>
+  </line>
+  <line refs="tuningonline.pt" num="186" label="_">
+    <left>?/x  quanto/r  aos/i  cavalos/n ,/x  pois/c ,/x  os/x  fogareiros/n  são/v  bastante/r  conhecidos/v  pois/c  esses/x  numeros/n ,/x  dou-te/v  os/x  parabens/n  mas/c  tambem/r  te/p</left>
+    <kwic> aviso/v</kwic>
+    <right> que/c  não/r  te/p  servem/v  de/i  nada/p ,/x  a/i  menos/r  que/c  só/r  o/p  uses/v  para/i  picos/n ,/x  que/p  ate/v  disseste/v  que/c  não/r  fazias/v .../x  logo/r ,/x  é/v  melhor/j  calares-te/v</right>
+  </line>
+  <line refs="ulisboa.pt" num="187" label="_">
+    <left>./x &lt;/s&gt;&lt;s&gt; Canal/n :/x  Desigualdades/n  e/c  Políticas/n  Públicas/j  -/x  Autor/n :/x  CARLOS/n  ALBERTO/n  FARINHA/n  RODRIGUES/v  -/x  Modificado/v  em/i  31-05-2010/m  -/x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Avisam-se/v</kwic>
+    <right> todos/x  os/x  alunos/n  de/i  Desigualdades/n  e/c  Políticas/n  Públicas/j  que/c  a/x  próxima/j  aula/n  será/v  no/i  dia/n  15/03/2010/m ,/x  no/i  período/n</right>
+  </line>
+  <line refs="coisasdefilhos.pt" num="188" label="_">
+    <left>traumatizada/v  por/i  isso/p ,/x  sendo/v  o/x  nome/n  chamado/v  com/i  carinho/n ./x &lt;/s&gt;&lt;s&gt; Mas/c  vou/v  ficar/v  atenta/j  e/c ,/x  se/c  algum/x  dia/n  levar/v  uma/x  &quot;/x sarabanda/n &quot;/x  eu/p</left>
+    <kwic> aviso/v</kwic>
+    <right>,/x  fica/v  prometido/v  :/x )/x ./x &lt;/s&gt;&lt;s&gt; Esperança/v  Ele/p  que/c  aqui/r  chegará/v ,/x  que/p  voltará/v  E/c  levará/v  um/x  sonho/n ,/x  levará/v  realidade/n  Coração/n  de/i  um/x  homem/n</right>
+  </line>
+  <line refs="sapo.pt" num="189" label="_">
+    <left>em/i  2/m  quartos/n ./x &lt;/s&gt;&lt;s&gt; Se/p  reparar/v ,/x  praticamente/r  todas/x  as/x  bulas/n  de/i  qualquer/x  medicamento/n  sujeito/j  a/i  recita/v  médica/j  ou/c  de/i  venda/n  livre/j</left>
+    <kwic> avisam/v</kwic>
+    <right> que/c  as/x  mulheres/n  grávidas/j  não/r  devem/v  usar/v  qualquer/x  medicamento/n  sem/i  conselho/n  médico/j ./x &lt;/s&gt;&lt;s&gt; Será/v  o/x  paracetamol/n  na/i  gravidez/n  uma/x</right>
+  </line>
+  <line refs="compete2030.gov.pt" num="190" label="_">
+    <left>disso/i ,/x  o/x  plenário/n  pode/v ,/x  ainda/r ,/x  derrubar/v  o/x  veto/n ./x &lt;/s&gt;&lt;s&gt; Nesta/i  situação/n ,/x  só/r  restaria/v  ao/i  Governo/n  tentar/v  judicializar/v  a/x  questão/n ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Aviso/v</kwic>
+    <right> SICE/n  –/x  Inovação/n  Produtiva/j  –/x  RCI/n  –/x  SICE-MPR-2023-06/n &lt;/s&gt;&lt;s&gt; Operações/n  individuais/j  de/i  investimento/n  produtivo/j  em/i  atividades/n</right>
+  </line>
+  <line refs="diasdeumaprincesa.pt" num="191" label="_">
+    <left>quase/r  tudo/p ./x &lt;/s&gt;&lt;s&gt; Tenho/v  1,70m/m ,/x  por/i  isso/p ,/x  ter/v  63/64/m  kg/n  não/r  me/p  incomodava/v  [/x quando/r  engravidei/v  tinha/v  60kg/m ]/x ./x &lt;/s&gt;&lt;s&gt; Desta/i  vez/n ,/x  já/r  fui/v</left>
+    <kwic> avisada/v</kwic>
+    <right> da/i  barreira/n  dos/i  12kgs/m ./x &lt;/s&gt;&lt;s&gt; Certo/p  é/v  que/c ,/x  na/i  última/j  consulta/n ,/x  às/i  15/m  semanas/n  [/x +/x -/x ]/x ,/x  já/r  tinha/v  mais/r  5/m  [/x oh/x  god/n !/x ]/x ./x &lt;/s&gt;&lt;s&gt; Nas/i  primeiras/j</right>
+  </line>
+  <line refs="tsf.pt" num="192" label="_">
+    <left>o/x  dinheiro/n  dos/i  contribuintes/n  é/v  usado/v  de/i  uma/x  forma/n  que/p  não/r  similar/j  à/i  forma/n  como/c  um/x  investidor/n  privado/v  usaria/v  o/x  dinheiro/n &quot;/x ,/x</left>
+    <kwic> avisa/v</kwic>
+    <right>./x &lt;/s&gt;&lt;s&gt; Vestager/n  afirma/v  que/c  a/x  eventual/j  capitalização/n  pública/j  da/i  Caixa/n  Geral/j  de/i  Depósitos/n  será/v  analisada/v  exclusivamente/r  do/i</right>
+  </line>
+  <line refs="trc.pt" num="193" label="_">
+    <left>Tribunal/n  Administrativo/j  Renovação/n  da/i  comissão/n  de/i  serviço/n  do/i  administrador/n  do/i  Supremo/j  Tribunal/n  Administrativo/j ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Aviso/v</kwic>
+    <right> n/n ./x o/x  374/2018/m  -/x  Diário/n  da/i  República/j  n/n ./x o/x  5/2018/m ,/x  Série/n  II/n  de/i  2018-01-08/m  Conselho/n  Superior/j  dos/i  Tribunais/n</right>
+  </line>
+  <line refs="sabado.pt" num="194" label="_">
+    <left>vítimas/n ./x &lt;/s&gt;&lt;s&gt; Dois/m  '/x drones/n '/x  vão/v  sobrevoar/v  a/x  cidade/n  do/i  Porto/n ,/x  a/i  partir/v  de/i  sábado/n  e/c  &quot;/x durante/i  o/x  tempo/n  que/p  for/v  justificado/v &quot;/x ,/x</left>
+    <kwic> avisando/v</kwic>
+    <right> a/x  população/n  que/p  deve/v  ficar/v  em/i  casa/n ./x &lt;/s&gt;&lt;s&gt; As/x  imagens/n  foram/v  capturadas/v  este/x  sábado/n  desde/i  um/x  automóvel/n  que/p  circulava/v</right>
+  </line>
+  <line refs="shopmania.pt" num="195" label="_">
+    <left>de/i  produto/n  para/i  Antena/n  Wifi/n  wireless/n  GDM900000965/n  Toshiba/n  Tecra/n  AX3/n  são/v  enviadas/v  pelas/i  lojas/n  listadas/j ./x &lt;/s&gt;&lt;s&gt; Por/i  favor/n  nos/p</left>
+    <kwic> avise/v</kwic>
+    <right> se/p  encontrar/v  alguns/x  erros/n ./x &lt;/s&gt;&lt;s&gt; Imagino/v  que/c  você/p  se/p  interessaria/v  em/i  ler/v  esta/x  página/n :/x</right>
+  </line>
+  <line refs="sapo.pt" num="196" label="_">
+    <left>e/c  não/r  é/v  bom/j  indicador/n  para/i  uma/x  futura/j  relação/n  profissional/j ./x &lt;/s&gt;&lt;s&gt; Caso/c  seja/v  inevitável/j ,/x  a/x  parte/n  contrária/j  deverá/v  ser/v</left>
+    <kwic> avisada/v</kwic>
+    <right> do/i  atraso/n ,/x  com/i  um/x  pedido/n  de/i  desculpas/n ./x &lt;/s&gt;&lt;s&gt; ü/n  Boa/j  apresentação/n ./x &lt;/s&gt;&lt;s&gt; Mais/r  uma/x  vez/n ,/x  quer/v  da/i  parte/n  do/i  entrevistador/n  como/r  do/i</right>
+  </line>
+  <line refs="barbaranutricao.pt" num="197" label="_">
+    <left>&quot;/x  está/v  completamente/r  errada/v ./x &lt;/s&gt;&lt;s&gt; Vai/v  fazer/v  com/i  que/c  coma/v  mais/r  quantidade/n ,/x  mais/r  rápido/j  e/c  não/r  vai/v  dar/v  tempo/n  ao/i  seu/x  organismo/n  de/i  o/x</left>
+    <kwic> avisar/v</kwic>
+    <right> de/i  que/p  já/r  está/v  satisfeito/v ./x &lt;/s&gt;&lt;s&gt; Não/r  vale/v  a/x  pena/n  fazer/v  uma/x  alimentação/n  saudável/j  toda/x  a/x  semana/n  e/c  chegar/v  ao/i  fim-de-semana/n  e/c</right>
+  </line>
+  <line refs="monstersgame.com.pt" num="198" label="_">
+    <left>algum/x  nome/n  melhor/j  de/i  clã/n  ou/c  de/i  tag/n  (/x nomezinho/n  antes/r  do/i  nick/n )/x  é/v  só/r  falar/v  ps2/m :/x  se/p  alguem/v  quiser/v  ser/v  administrador/n  de/i  clã/n  me/p</left>
+    <kwic> avisa/v</kwic>
+    <right> enquanto/r  o/x  clã/n  é/v  novo/j ,/x  quero/v  colocar/v  só/r  a/x  mulecada/n  de/i  administrador/n ,/x  sendo/v  assim/r  tambem/r  contribuindo/v  para/i  ajudar/v  a/i</right>
+  </line>
+  <line refs="justica.gov.pt" num="199" label="_">
+    <left>não/r  chegou/v  naquela/i  parte/n  da/i  gravação/n ./x &lt;/s&gt;&lt;s&gt; Você/p  também/r  pode/v  fazer/v  o/x  download/n  da/i  transcrição/n  do/i  bate-papo/n  no/i  menu/n  Gravação/n ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Aviso/v</kwic>
+    <right> n/n ./x o/x  02/SAMA/2017/m &lt;/s&gt;&lt;s&gt; Projeto/v  n/n ./x o/x :/x  POCI-05-5762-FSE-000150/n  -/x  Programa/n  Operacional/j  Competitividade/n  e/c</right>
+  </line>
+</concordance>
+</export>

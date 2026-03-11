@@ -1,0 +1,1013 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>preloaded/pttenten23_fl6</corpus>
+  <subcorpus>TLD of Portugal .pt</subcorpus>
+  <query>
+    <subquery operation="Query" size="209993">[lempos_lc=&quot;(lembrar)-v&quot;]</subquery>
+    <subquery operation="Random sample" size="200">200</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="roupeiro.pt" num="0" label="_">
+    <left>pão/n  é/v ,/x  simbolicamente/r ,/x  o/x  alimento/n  que/p  sustenta/v  da/i  vida/n ,/x  o/x  saco/n  do/i  pão/n  deveria/v  ser/v  o/x  simbolo/n  da/i  vida/n  sustentável/j ./x &lt;/s&gt;&lt;s&gt; Ainda/r  me/p</left>
+    <kwic> lembro/v</kwic>
+    <right> dos/i  meus/x  pais/n  levarem/v  o/x  saco/n  do/i  pão/n  quando/r  iam/v  à/i  padaria/n ./x &lt;/s&gt;&lt;s&gt; A/i  certa/x  altura/n  o/x  hábito/n  perdeu-se/v ./x &lt;/s&gt;&lt;s&gt; O/x  saco/n  do/i  pão/n  ainda/r  existia/v  lá/r</right>
+  </line>
+  <line refs="sapo.pt" num="1" label="_">
+    <left>,/x  volta/n ./x &lt;/s&gt;&lt;s&gt; Nós/p  acrescentamos/v  valor/n  à/i  viatura/n ,/x  preservamo-la/v ./x &lt;/s&gt;&lt;s&gt; O/x  carro/n  é/v  a/x  nossa/x  imagem/n  de/i  marca/n &quot;/x ,/x  conclui/v  Helder/n  Pinhão/n ,/x</left>
+    <kwic> lembrando/v</kwic>
+    <right> o/x  apoio/n  que/p  tem/v  tido/v  da/i  empresas/n  Miudo/n  e/c  Segmentos/n  (/x nas/i  áreas/n  da/i  comunicação/n  e/c  fiscal/j ,/x  respectivamente/j )/x  e/c  que/c  a/x  página/n</right>
+  </line>
+  <line refs="opinioesja.pt" num="2" label="_">
+    <left>do/i  OpiniõesJá/n ./x pt/n  e/c  compartilhe/v  suas/x  opiniões/n  para/i  ajudar/v  outros/x  consumidores/n  na/i  hora/n  de/i  fazer/v  compras/n  online/r ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Lembre-se/v</kwic>
+    <right> de/i  ser/v  honesto/j ,/x  objetivo/j  e/c  fornecer/v  informações/n  úteis/j  para/i  que/p  todos/p  possam/v  se/p  beneficiar/v  de/i  suas/x  experiências/n ./x &lt;/s&gt;</right>
+  </line>
+  <line refs="climest.com.pt" num="3" label="_">
+    <left>de/i  peso/n  de/i  anos/n ./x &lt;/s&gt;&lt;s&gt; Mas/c ,/x  .../x  sua/x  máquina/n  de/i  queimar/v  gorduras/n  precisa/j  de/i  combustível/n !/x &lt;/s&gt;&lt;s&gt; Coma/n  a/i  cada/x  3/m  horas/n ,/x  SEMPRE/r ./x &lt;/s&gt;&lt;s&gt; Para/i  se/p</left>
+    <kwic> lembrar/v</kwic>
+    <right>,/x  ative/v  um/x  despertador/n  para/i  seguir/v  a/x  risca/n  essa/x  dica/n ./x &lt;/s&gt;&lt;s&gt; Essas/x  refeições/n  devem/v  ser/v  feitas/v  com/i  alimentos/n  que/p  dão/v  \/x \/x \/x \/x \/x \/x \/x '/x</right>
+  </line>
+  <line refs="sapo.pt" num="4" label="_">
+    <left>que/p  continuam/v  a/i  ameaçar/v  as/x  florestas/n ./x &lt;/s&gt;&lt;s&gt; Além/r  disso/i ,/x  o/x  relatório/n  dedica/v  um/x  espaço/n  significativo/j  à/i  erosão/n  costeira/j ,/x</left>
+    <kwic> lembrando/v</kwic>
+    <right> que/c  existem/v  180/m  quilómetros/n  do/i  litoral/n  em/i  &quot;/x situação/n  crítica/j &quot;/x ./x &lt;/s&gt;&lt;s&gt; Quanto/r  à/i  qualidade/n  do/i  ar/n ,/x  mantém-se/v  boa/j ,/x  apesar/c  de/i  se/p  ter/v</right>
+  </line>
+  <line refs="maisribatejo.pt" num="5" label="_">
+    <left>,/x  chega/v  afobado/v  ao/i  escritório/n  depois/r  de/i  uma/x  manhã/n  pelas/i  repartições/n  do/i  Ministério/n  da/i  Marinha/n ./x &lt;/s&gt;&lt;s&gt; Um/x  guarda-livros/n</left>
+    <kwic> lembra-lhe/v</kwic>
+    <right> a/x  data/n ,/x  é/v  dia/n  de/i  uma/x  assembleia-geral/n ,/x  mas/c  é/v  também/r  dia/n  de/i  aniversário/n  do/i  seu/x  casamento/n ,/x  o/x  Machado/n  tinha/v  deixado/v  recado/n</right>
+  </line>
+  <line refs="tribunaalentejo.pt" num="6" label="_">
+    <left>bastante/r  do/i  investimento/n  da/i  Força/n  Aérea/j  (/x Portuguesa/n )/x  durante/i  os/x  próximos/j  anos/n &quot;/x ,/x  afirmou/v  João/n  Gomes/v  Cravinho/n ,/x</left>
+    <kwic> lembrando/v</kwic>
+    <right> ainda/r  que/c  &quot;/x há/v  vários/x  meios/n  que/p  estão/v  a/i  ser/v  transferidos/v  para/i  Beja/n &quot;/x ,/x  como/c  a/x  Esquadra/n  dos/i  aviões/n  Épsilon/n ,/x  usados/v  para/i</right>
+  </line>
+  <line refs="sapo.pt" num="7" label="_">
+    <left>questionou/v  se/p  foi/v  convidada/v  alguma/x  figura/n  da/i  União/n  Europeia/j  para/i  o/x  evento/n ./x &lt;/s&gt;&lt;s&gt; O/x  antigo/j  presidente/n  da/i  Comissão/n  Europeia/j</left>
+    <kwic> lembrou/v</kwic>
+    <right> que/c  Bruxelas/n  deu/v  um/x  &quot;/x contributo/n  essencial/j &quot;/x  para/i  a/x  construção/n  daquela/i  obra/n  pública/j ./x &lt;/s&gt;&lt;s&gt; O/x  ex-governante/n</right>
+  </line>
+  <line refs="sapo.pt" num="8" label="_">
+    <left>de/i  boa/j  reputação/n  Anthony/n  Rapp/n  declarou/v  que/c  Spacey/n  o/p  atacara/v  quando/r  ele/p  tinha/v  14/m  anos/n ,/x  em/i  1986/m ./x &lt;/s&gt;&lt;s&gt; Spacey/n  disse/v  que/c  não/r  se/p</left>
+    <kwic> lembrava/v</kwic>
+    <right> duma/i  coisa/n  que/p  teria/v  acontecido/v  há/v  31/m  anos/n ,/x  mas/c  que/p  se/p  acontecera/v  lamentava/v  muito/r  e/c  pedia/v  desculpa/n ./x &lt;/s&gt;&lt;s&gt; Depois/r  de/i  Rapp/n ,/x  mais/r</right>
+  </line>
+  <line refs="velocidades.pt" num="9" label="_">
+    <left>no/i  Mundial/n  de/i  F1/n ,/x  com/i  o/x  GP/n  da/i  Alemanha/n  deste/i  Domingo/n  a/i  traduzir-se/v  como/c  uma/x  das/i  prova/n  mais/r  loucas/n  da/i  F1/n  e/c  que/p  será/v</left>
+    <kwic> lembrado/v</kwic>
+    <right> por/i  muito/x  tempo/n ./x &lt;/s&gt;&lt;s&gt; Max/n  Verstappen/n  triunfou/v  numa/i  prova/n  que/p  teve/v  de/i  tudo/p :/x  chuva/n ,/x  quatro/m  entradas/n  do/i  safety-car/v ,/x  sol/n ,/x  erros/n</right>
+  </line>
+  <line refs="demaeparamae.pt" num="10" label="_">
+    <left>se/p  calhar/v ..../x &lt;/s&gt;&lt;s&gt; Fui/v  mamã/n  faz/v  dia/n  18/m  um/m  mês/n ,/x  e/c  acho/v  que/c  tenho/v  mais/r  barriga/n  agora/r  do/i  que/p  nas/i  duas/m  primeiras/j  semanas/n  pós/j  parto/n ,/x</left>
+    <kwic> lembro-me/v</kwic>
+    <right> de/i  pensar/v  que/c  afinal/r  não/r  ia/v  ficar/v  com/i  muita/x  barriga/n ,/x  uma/x  vez/n  que/p  passdo/r  15/m  dias/n  já/r  tinha/v  pouca/p  dali/i  a/x  uns/x  dois/m  meses/n  estaria/v</right>
+  </line>
+  <line refs="dn.pt" num="11" label="_">
+    <left>campo/n ,/x  lutámos/v  muito/r ,/x  mas/c  infelizmente/r  não/r  conseguimos/v ,/x  não/r  correu/v  como/c  queríamos/v ./x &lt;/s&gt;&lt;s&gt; Mas/c  não/r  nos/p  vergamos/v &quot;/x ,/x  assumiu/v ,/x</left>
+    <kwic> lembrando/v</kwic>
+    <right> que/c  houve/v  uma/x  primeira/j  parte/n  &quot;/x muito/r  equilibrada/v ,/x  com/i  ocasiões/n  para/i  os/x  dois/m  lados/n &quot;/x ./x  &quot;/x Fizemos/v  o/x  empate/n  no/i  final/n  da/i</right>
+  </line>
+  <line refs="punch.pt" num="12" label="_">
+    <left>forma/n  mais/r  séria/j ?/x &lt;/s&gt;&lt;s&gt; Em/i  miúdo/n  fazia/v  umas/x  brincadeiras/n ,/x  mas/c  mais/r  a/x  sério/n  foi/v  há/v  relativamente/r  pouco/p  tempo/n ,/x  há/v  três/m  anos/n ./x &lt;/s&gt;&lt;s&gt; Eu/p</left>
+    <kwic> lembro-me/v</kwic>
+    <right> que/c  quando/r  comecei/v  a/i  sair/v  e/c  a/i  conhecer/v  pessoas/n ,/x  para/i  além/n  do/i  círculo/n  da/i  escola/n ./x &lt;/s&gt;&lt;s&gt; Quando/r  me/p  comecei/v  a/i  envolver/v  no/i  meio/n</right>
+  </line>
+  <line refs="aenacb.pt" num="13" label="_">
+    <left>,/x  tendo/v  a/x  mesma/p  sido/v  enviada/v  para/i  concurso/n  nacional/j  &quot;/x DIEP/n  2021/m &quot;/x ./x &lt;/s&gt;&lt;s&gt; A/x  professora/n  de/i  Inglês/n  desta/i  turma/n  Dolores/n  Fidalgo/j ,/x</left>
+    <kwic> lembrou-se/v</kwic>
+    <right> do/i  album/n  dos/i  Pink/n  Floyd/n ,/x  The/n  Wall/n &quot;/x ,/x  no/i  qual/p  se/p  encontra/v  a/x  canção/n  &quot;/x We/n  don/n  t/n  need/j  no/i  Education/n &quot;/x  e/c ,/x  adaptou/v  a/x  letra/n  ao/i  contexto/n</right>
+  </line>
+  <line refs="fenprof.pt" num="14" label="_">
+    <left>número/n  crescente/j  de/i  portugueses/n ,/x  no/i  empobrecimento/n  da/i  sociedade/n  e/c  na/i  eliminação/n  de/i  direitos/n ./x &lt;/s&gt;&lt;s&gt; Entre/i  os/x  professores/n ,/x</left>
+    <kwic> lembrou/v</kwic>
+    <right>,/x  o/x  desemprego/n  tem/v  crescido/v  de/i  &quot;/x forma/n  brutal/j &quot;/x ,/x  como/c  revelam/v  as/x  estatísticas/n  recentemente/r  divulgadas/v ,/x  num/i  cenário/n</right>
+  </line>
+  <line refs="tveuropa.pt" num="15" label="_">
+    <left>de/i  março/n ,/x  e/c  que/c  essas/x  reuniões/n  incidem/v  em/i  temas/n  como/c  a/x  organização/n  do/i  tempo/n  de/i  trabalho/n  e/c  a/x  avaliação/n  de/i  desempenho/n ./x &lt;/s&gt;&lt;s&gt; E/c</left>
+    <kwic> lembrou/v</kwic>
+    <right> que/c  as/x  negociações/n  &quot;/x relacionadas/v  com/i  a/x  revisão/n  da/i  carreira/n  de/i  enfermagem/n  foram/v  encerradas/v  a/i  30/m  de/i  janeiro/n ./x &quot;/x &lt;/s&gt;&lt;s&gt; Sebrae/n</right>
+  </line>
+  <line refs="sapo.pt" num="16" label="_">
+    <left>dos/i  funcionários/n  do/i  Museu/n  do/i  Louvre/n ,/x  que/p  abrigaram/v  os/x  visitantes/j &quot;/x ./x &lt;/s&gt;&lt;s&gt; Brandet/n  relembrou/v  ainda/r  que/c  &quot;/x este/x  incidente/n</left>
+    <kwic> lembra-nos/v</kwic>
+    <right> que/c  ameaça/v  está/v  presente/j  e/c  que/p  é/v  um/x  assunto/n  de/i  todos/p &quot;/x ./x &lt;/s&gt;&lt;s&gt; COMPARTILHAR/v &lt;/s&gt;&lt;s&gt; O/x  movimento/n  nos/i  Estados/n  Unidos/v  e/c  em/i  todo/x  o/x  mundo/n  para/i</right>
+  </line>
+  <line refs="paroquia-amadora.pt" num="17" label="_">
+    <left>./x &lt;/s&gt;&lt;s&gt; Embora/c  muitos/p  fiquem/v  surpreendidos/v ,/x  é/v  o/x  dedo/n  mais/r  fraco/j ,/x  como/c  pode/v  te/p  dizer/v  qualquer/x  professor/n  de/i  piano/n ./x &lt;/s&gt;&lt;s&gt; Ele/p  deve/v</left>
+    <kwic> lembrar-nos/v</kwic>
+    <right> de/i  rezar/v  para/i  os/x  fracos/n ,/x  com/i  muitos/x  problemas/n  ou/c  prostrados/v  pela/i  doença/n ./x &lt;/s&gt;&lt;s&gt; Eles/p  precisam/v  da/i  tua/x  oração/n  dia/n  e/c  noite/n ./x &lt;/s&gt;&lt;s&gt; Nunca/r  é/v</right>
+  </line>
+  <line refs="noticiasdealmeirim.pt" num="18" label="_">
+    <left>e/c  à/i  concórdia/n &quot;/x  na/i  sua/x  mensagem/n  ao/i  povo/n  espanhol/j ./x  &quot;/x Assim/r  não/r &quot;/x ,/x  disse/v  Puigdemont/n ,/x  dirigindo-se/v  diretamente/r  ao/i  monarca/n ,/x</left>
+    <kwic> lembrando-lhe/v</kwic>
+    <right> que/c  segundo/i  a/x  Constituição/n  espanhola/j  o/x  seu/x  papel/n  é/v  de/i  &quot;/x moderador/n &quot;/x  e/c  que/p  &quot;/x dececionou/v  muita/x  gente/n  na/i  Catalunha/n &quot;/x  ao/i</right>
+  </line>
+  <line refs="noticiasdealmeirim.pt" num="19" label="_">
+    <left>com/i  variadas/v  questões/n  durante/i  mais/r  de/i  cinco/m  horas/n ./x &lt;/s&gt;&lt;s&gt; As/x  suas/x  respostas/n  refugiaram-se/v  demasiado/r  nos/p  vagos/j  &quot;/x não/r  me/p</left>
+    <kwic> lembro/v</kwic>
+    <right>&quot;/x ,/x  &quot;/x não/r  sei/v &quot;/x ./x &lt;/s&gt;&lt;s&gt; Isabel/n  utilizou/v  esta/x  estratégia/n  pelo/v  menos/r  40/m  vezes/n ./x &lt;/s&gt;&lt;s&gt; No/i  quarto/j  dia/n ,/x  quando/r  questionada/v  acerca/c  da/i</right>
+  </line>
+  <line refs="bertrand.pt" num="20" label="_">
+    <left>&quot;/x ,/x  diz/v  o/x  doutor/n  Pasavento/n ,/x  e/c  logo/r ,/x  de/i  forma/n  contraditória/j ,/x  pergunta-se/v  se/p  será/v  capaz/j  de/i  viver/v  sem/i  que/c  ninguém/p  se/p</left>
+    <kwic> lembre/v</kwic>
+    <right>,/x  nem/c  sequer/r  remotamente/j  de/i  que/p  ele/p  existe/v ./x &lt;/s&gt;&lt;s&gt; Críticas/n  de/i  imprensa/n &lt;/s&gt;&lt;s&gt; &quot;/x Doutor/n  Pasavento/n  é/v  imperdível/j ./x &lt;/s&gt;&lt;s&gt; Porquê/r ?/x &lt;/s&gt;&lt;s&gt; Porque/c  é/v  uma/x</right>
+  </line>
+  <line refs="iol.pt" num="21" label="_">
+    <left>no/i  mercado/n  e/c  uma/x  reflexao/n  da/i  procura/n ,/x  e/c  nao/n  daquilo/i  que/c  e/c  actualmente/r  possivel/j  sintetizar/v ./x &lt;/s&gt;&lt;s&gt; Um/x  abraco/v ,/x  Luis/n &lt;/s&gt;&lt;s&gt; Há/v  ZETEC/n ,/x</left>
+    <kwic> lembras-te/v</kwic>
+    <right> que/c  a/x  primeira/j  vez/n  que/p  mudei/v  oleo/n  do/i  meu/x  carro/n  colocaram/v  um/x  15W50/m  sintético/j  Mobil/n  1/m ,/x  bom/j  pelo/i  menos/x  esse/x  há/v !/x &lt;/s&gt;&lt;s&gt; Sr./n  Guerreiro/j</right>
+  </line>
+  <line refs="sapo.pt" num="22" label="_">
+    <left>do/i  bebé/n  no/i  carro/n ,/x  colocámos/v  as/x  compras/n  na/i  bagageira/n  e/c ,/x  quando/r  nos/p  preparávamos/v  para/i  partir/v ,/x  os/x  dois/m  mais/r  velhos/j</left>
+    <kwic> lembraram-se/v</kwic>
+    <right> que/c  tinham/v  de/i  arrumar/v  o/x  carrinho/n  das/i  compras/n ,/x  tarefa/n  que/p  coube/v  à/i  minha/x  filha/n  do/i  meio/n  e/c  o/x  mais/r  velho/j  foi/v  buscar/v  um/x  saco/n  que/p</right>
+  </line>
+  <line refs="tsf.pt" num="23" label="_">
+    <left>crescimento/n  das/i  correntes/n  de/i  extrema-direita/n  em/i  vários/x  países/n  da/i  América/n  do/i  Sul/n ./x &lt;/s&gt;&lt;s&gt; Gabriel/n  Boric/n ,/x  na/i  sua/x  intervenção/n ,/x</left>
+    <kwic> lembrou/v</kwic>
+    <right> também/r  a/x  violência/n  de/i  outras/x  ditaduras/n  na/i  América/n  do/i  Sul/n ,/x  como/c  as/x  da/i  Argentina/n  e/c  Uruguai/n ,/x  estabeleceu/v  limites/n  à/i  sua/x</right>
+  </line>
+  <line refs="fenprof.pt" num="24" label="_">
+    <left>das/i  armas/n  nucleares/j ,/x  defendem/v  o/x  uso/n  da/i  energia/n  nuclear/j ,/x  visando/v  os/x  seus/x  interesses/n  financeiros/j ./x &lt;/s&gt;&lt;s&gt; A/x  CGTP-IN/n</left>
+    <kwic> lembra/v</kwic>
+    <right> que/c  além/r  das/i  vítimas/n  directas/j  provocadas/v  pelas/i  armas/n  nucleares/j ,/x  há/v  que/c  considerar/v  os/x  trabalhadores/n  vítimas/n  das/i</right>
+  </line>
+  <line refs="cacaraca.pt" num="25" label="_">
+    <left>um/x  livro/n  que/p  não/r  me/p  ficou/v  na/i  memória/n ./x &lt;/s&gt;&lt;s&gt; No/i  meio/n  da/i  conversa/n ,/x  que/p  foi/v  sempre/r  boa/j ,/x  reparei/v ,/x  claro/j ,/x  no/i  vinho/n  que/p  foi/v  servido/v ./x &lt;/s&gt;&lt;s&gt; E/c</left>
+    <kwic> lembrei-me/v</kwic>
+    <right> de/i ,/x  ontem/r ,/x  quando/r  andava/v  à/i  procura/n  de/i  um/x  vinho/n  para/i  abrir/v ,/x  ter/v  visto/v  uma/x  garrafa/n  igual/j  cá/r  em/i  casa/n ./x &lt;/s&gt;&lt;s&gt; Tratamo-nos/v  bem/r ./x &lt;/s&gt;&lt;s&gt; Está/v</right>
+  </line>
+  <line refs="diasdeumaprincesa.pt" num="26" label="_">
+    <left>)/x ./x &lt;/s&gt;&lt;s&gt; Aliás/r  avisei/v  mesmo/r  que/c  não/r  eram/v  aconselhadas/v  a/x  pais/n  com/i  miúdos/n  pequenos/j  a/i  irem/v  para/i  a/x  escola/n  pela/i  primeira/j  vez/n ./x &lt;/s&gt;&lt;s&gt; Eu/p</left>
+    <kwic> lembro-me/v</kwic>
+    <right> de/i  um/x  dossier/n  preto/j  enorme/j  que/p  a/x  minha/x  mãe/n  carregou/v  até/r  à/i  entrada/n  da/i  escola/n  porque/c  não/r  o/p  conseguia/v  carregar/v ./x &lt;/s&gt;&lt;s&gt; Lembro-me/v  de/i</right>
+  </line>
+  <line refs="noticiasdealmeirim.pt" num="27" label="_">
+    <left>porque/c  têm/v  acesso/n  ao/i  poder/n  e/c  a/x  conselheiros/n  fiscais/j  e/c  porque/c  pagámos/v  os/x  desvarios/n  bancários/j  dessa/i  gentalha/n ./x &lt;/s&gt;&lt;s&gt; Quem/p  não/r  se/p</left>
+    <kwic> lembra/v</kwic>
+    <right>,/x  por/i  exemplo/n ,/x  do/i  ex/n -/x  presidente/n  do/i  Benfica/n  Manuel/n  Damásio/n ,/x  que/p  com/i  o/x  património/n  que/p  tinha/v ,/x  pagava/v  impostos/v  sobre/i  o/x</right>
+  </line>
+  <line refs="rtp.pt" num="28" label="_">
+    <left>de/i  sempre/r  no/i  Afeganistão/n ,/x  a/x  população/n  exige/v  mais/r  segurança/n ./x &lt;/s&gt;&lt;s&gt; Cabul/n  tenta/v  retomar/v  a/x  normalidade/n  ao/i  mesmo/r  tempo/n  que/p</left>
+    <kwic> lembra/v</kwic>
+    <right> os/x  mais/r  de/i  noventa/m  mortos/n  e/c  450/m  feridos/v  da/i  explosão/n  no/i  bairro/n  diplomático/j ./x &lt;/s&gt;&lt;s&gt; Selva/n  de/i  concreto/n  ganha/v  cores/n  vibrantes/j &lt;/s&gt;</right>
+  </line>
+  <line refs="destak.pt" num="29" label="_">
+    <left>lembro-me/v  muito/r  bem/r  daquele/i  dia/n ,/x  nas/i  saudosas/j  sessões/n  de/i  BD/n  na/i  escola/n  da/i  Sobreda/n ,/x  assistir/v  a/i  isso/p ,/x  mais/r  de/i  20/m  anos/n  depois/r</left>
+    <kwic> lembro-me/v</kwic>
+    <right> bem/r  do/i  gozo/n  do/i  caricaturista/n  ao/i  desenhar/v  alguém/p  que/p  nunca/r  tinha/v  visto/v  antes/r ,/x  ao/i  descobrir/v  em/i  segundos/n  aquela/x</right>
+  </line>
+  <line refs="zankyou.pt" num="30" label="_">
+    <left>temos/v  a/x  certeza/n ,/x  nenhuma/p  subsiste/v  apenas/r  baseada/v  nele/n !/x &lt;/s&gt;&lt;s&gt; A/x  vida/n ,/x  a/x  par/n  do/i  sexo/n ,/x  tem/v  outros/x  tantos/x  momentos/n  que/p  merecem/v  ser/v</left>
+    <kwic> lembrados/v</kwic>
+    <right>.../x  E/c  –/x  não/r  se/p  admirem/v !/x  –/x  muito/r  mais/r  emocionantes/j ,/x  inesquecíveis/j  e/c  doces/j  do/i  que/p  qualquer/x  relação/n  sexual/j .../x &lt;/s&gt;&lt;s&gt; 1/m ./x &lt;/s&gt;&lt;s&gt; O/x  abraço/n</right>
+  </line>
+  <line refs="viagens-aviao.pt" num="31" label="_">
+    <left>do/i  embarque/n  do/i  cliente/n ./x &lt;/s&gt;&lt;s&gt; Você/p  pode/v  contratar/v  o/x  seguro/j  viagem/n  até/i  o/x  dia/n  da/i  viagem/n  e/c  até/r  mesmo/r  durante/i  a/x  viagem/n ,/x  porém/c ,/x</left>
+    <kwic> lembre-se/v</kwic>
+    <right> de/i  avisar/v  sua/x  seguradora/n  que/p  você/p  já/r  está/v  se/p  deslocando/v ,/x  pois/c  isso/p  precisa/v  ser/v  discriminado/v  na/i  apólice/n ./x &lt;/s&gt;&lt;s&gt; Sim/r ./x &lt;/s&gt;&lt;s&gt; O/x</right>
+  </line>
+  <line refs="iol.pt" num="32" label="_">
+    <left>o/x  texto/n ,/x  em/i  absoluto/n ./x &lt;/s&gt;&lt;s&gt; Pelo/i  facto/n  de/i  ter/v  sido/v  publicado/v  num/i  dia/n  como/c  este/p ./x &lt;/s&gt;&lt;s&gt; Excessos/n  há/v  de/i  ambos/p  os/x  lados/n  e/c  tenho/v  pena/n  que/p  se/p</left>
+    <kwic> lembre/v</kwic>
+    <right> o/x  lado/n  mais/r  radical/j  do/i  protesto/n ,/x  que/c  se/p  invoque/v  esse/x  lado/n  para/i  reforçar/v  as/x  razões/n  pelas/i  quais/p  não/r  se/p  faz/v  greve/n  (/x falácia/n  do/i</right>
+  </line>
+  <line refs="pescador.com.pt" num="33" label="_">
+    <left>acaso/r  uma/x  casa/n  no/i  Montijo/n  que/p  ainda/r  tinha/v  algumas/x  bobines/v  desse/i  Mirage/n ,/x  penso/v  que/c  nas/i  medidas/n  0.26/m  e/c  0.30/m  (/x ou/c  0.35/m  não/r  me/p</left>
+    <kwic> lembro/v</kwic>
+    <right> bem/r )/x ./x &lt;/s&gt;&lt;s&gt; O/x  problema/n  é/v  que/c  foi/v  no/i  inicio/v  de/i  Dezembro/n  que/p  as/p  vi/v ,/x  mas/c  quem/p  sabe/v ?/x !/x ............./x &lt;/s&gt;&lt;s&gt; Notícias/n  DdH/n :/x  Ataque/n</right>
+  </line>
+  <line refs="sapo.pt" num="34" label="_">
+    <left>./x &lt;/s&gt;&lt;s&gt; E/c  quando/r  dos/i  céus/n  caem/v  gotículas/n  de/i  agua/v  que/c  nos/p  molham/v  o/x  rosto/n ./x &lt;/s&gt;&lt;s&gt; E/c  quando/r  nos/p  lembramos/v  dos/i  nossos/x  valores/n ./x &lt;/s&gt;&lt;s&gt; Quando/r  nos/p</left>
+    <kwic> lembramos/v</kwic>
+    <right> de/i  nós/p  que/p  os/x  nosso/x  pulmões/n  se/p  enchem/v  de/i  ar/n  e/c  de/i  coragem/n  para/i  continuar/v ./x &lt;/s&gt;&lt;s&gt; Desta/i  vez/n  não/r  rumo/v  ao/i  destino/n  idealizado/v ,/x  mas/c  sim/r</right>
+  </line>
+  <line refs="sapo.pt" num="35" label="_">
+    <left>o/x  humor/n  nos/i  ângulos/n  mortos/j ./x &lt;/s&gt;&lt;s&gt; O/x  maior/j  elogio/n  que/p  me/p  podem/v  fazer/v  é/v  &quot;/x como/c  é/v  que/c  te/p  foste/v  lembrar/v  disso/i ?/x &quot;/x ./x &lt;/s&gt;&lt;s&gt; Ser/v  o/x  primeiro/n  a/i</left>
+    <kwic> lembrar-me/v</kwic>
+    <right> de/i  determinado/v  tema/n ./x &lt;/s&gt;&lt;s&gt; Como/p  é/v  que/c  observas/v  a/x  questão/n  do/i  Louis/n  C./n K/n  em/i  que/p  as/x  virtudes/n  públicas/j  são/v  derrotadas/v  pelos/i  vícios/n</right>
+  </line>
+  <line refs="asbeiras.pt" num="36" label="_">
+    <left>de/i  apoios/n  às/i  diversas/j  entidades/n  que/p  podiam/v  candidatar-se/v  a/i  estes/x  fundos/n ./x &lt;/s&gt;&lt;s&gt; De/i  tal/x  forma/n  que/p ,/x  como/c  fez/v  questão/n  de/i</left>
+    <kwic> lembrar/v</kwic>
+    <right> Pedro/v  Marques/v ,/x  o/x  investimento/n  público/j  e/c  privado/v  cresceu/v  no/i  primeiro/j  trimestre/n  deste/i  ano/n  25/m  e/c  10/m  por/i  cento/n ,/x</right>
+  </line>
+  <line refs="ubi.pt" num="37" label="_">
+    <left>trabalho/n ,/x  o/x  sub-emprego/n ,/x  o/x  trabalho/n  a/i  tempo/n  parcial/j ,/x  mas/c  isto/p  em/i  toda/x  a/x  Europa/n ,/x  não/r  é/v  apenas/r  em/i  Portugal/n &quot;/x ./x &lt;/s&gt;&lt;s&gt; Nuno/n  Augusto/j</left>
+    <kwic> lembra/v</kwic>
+    <right> também/r  que/c  a/x  juntar/v  a/i  tudo/p  isto/p  &quot;/x houve/v  sempre/r  a/x  tentação/n  e/c  a/x  tendência/n  para/i  classificar/v  e/c  catalogar/v  negativamente/r  a/x</right>
+  </line>
+  <line refs="cpidt.pt" num="38" label="_">
+    <left>antes/r  do/i  fim/n  de/i  semana/n  da/i  corrida/n ,/x  Masi/n  retirou/v  cláusulas/n  específicas/j  do/i  Código/n  Desportivo/j  Internacional/j  da/i  FIA/v  para/i</left>
+    <kwic> lembrar/v</kwic>
+    <right> às/i  equipas/n  o/p  que/p  está/v  em/i  jogo/n ./x &lt;/s&gt;&lt;s&gt; Em/i  particular/n ,/x  o/x  australiano/n  citou/v  as/x  regras/n  do/i  CDI/n  relacionadas/v  ao/i  comportamento/n  de/i</right>
+  </line>
+  <line refs="capeiaarraiana.pt" num="39" label="_">
+    <left>eram/v  menores/j ,/x  executadas/v  por/i  trabalhadores/n  da/i  aldeia/n  indiferenciados/j ,/x  mas/c  dentro/r  do/i  espírito/n  de/i  ajuda/n  entre/i  todos/p ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Lembro-me/v</kwic>
+    <right> dos/i  seguintes/j  postos/n  de/i  trabalho/n  necessários/j :/x  Na/i  meda/n  era/v  um/x  que/p  atirava/v  os/x  molhos/n  para/i  o/x  chão/n  da/i  eira/n ./x &lt;/s&gt;&lt;s&gt; Aí/r ,/x  uma/m  ou/c  duas/m</right>
+  </line>
+  <line refs="ultraperiferias.pt" num="40" label="_">
+    <left>e/c  segundo/r  foi/v  noticiado/v  a/x  CGD/n  já/r  deu/v  os/x  primeiros/j  passos/n  para/i  contactar/v  os/x  seus/x  clientes/n  por/i  sua/x  iniciativa/n )/x ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Lembro/v</kwic>
+    <right> que/c  os/x  cinco/m  principais/j  bancos/n  em/i  Portugal/n  lucraram/v  2,4_milhões/m  de/i  euros/n  por/i  dia/n  em/i  2019/m ,/x  num/i  ano/n  em/i  que/p  a/x  Caixa/n  Geral/j  de/i</right>
+  </line>
+  <line refs="noticiasdealmeirim.pt" num="41" label="_">
+    <left>dar/v  lá/r  vai/v  o/x  rapaz/n  no/i  primeiro/j  dia/n  de/i  escola/n  de/i  bata/n  branca/j  com/i  o/x  nome/n  gravado/v  no/i  lado/n  esquerdo/j  da/i  bata/n ,/x  acompanhado/v  da/i  mãe/n  e/c</left>
+    <kwic> lembro-me/v</kwic>
+    <right> que/c  nesse/i  dia/n  éramos/v  muitos/p  e/c  aí/r  veio/v  de/i  novo/j  à/i  tona/n ,/x  isto/p  vai/v  ser/v  uma/x  brincadeira/n  pegada/v ./x &lt;/s&gt;&lt;s&gt; Na/i  minha/x  Escola/n  da/i  Instrução/n</right>
+  </line>
+  <line refs="xl.pt" num="42" label="_">
+    <left>onde/r  vive/v  há/v  mais/r  de/i  três/m  anos/n ./x &lt;/s&gt;&lt;s&gt; Ninguém/p  a/p  tem/v  visto/v  pela/i  zona/n ,/x  e/c  as/x  persianas/n  mantêm-se/v  cerradas/v ./x &lt;/s&gt;&lt;s&gt; Os/x  moradores/n</left>
+    <kwic> lembram/v</kwic>
+    <right> uma/x  &quot;/x vizinha/n  sempre/r  simpática/j  e/c  disponível/j &quot;/x  e/c  que/c  &quot;/x nunca/r  dava/v  problemas/n &quot;/x ./x &lt;/s&gt;&lt;s&gt; Em/i  casa/n  recebia/v  sobretudo/r  o/x  filho/n ,/x  trazido/v</right>
+  </line>
+  <line refs="sapo.pt" num="43" label="_">
+    <left>às/i  diferentes/j .../x &lt;/s&gt;&lt;s&gt; Seguro/n  não/r  quer/v  dinheiros/n  públicos/j  a/i  cobrir/v  erros/n  dos/i  privados/n &lt;/s&gt;&lt;s&gt; 12/m  jul/n ,/x  2014/m &lt;/s&gt;&lt;s&gt; O/x  secretário-geral/n  do/i  PS/n</left>
+    <kwic> lembrou/v</kwic>
+    <right> que/c  esta/x  semana/n  falou/v  sobre/i  o/x  caso/n  BES/n  com/i  o/x  governador/n  do/i  Banco/n  de/i  Portugal/n ,/x  tendo/v  ficado/v  mais/r  tranquilo/j  com/i  as/x</right>
+  </line>
+  <line refs="sapo.pt" num="44" label="_">
+    <left>de/i  Geografia/n  Humana/j ./x &lt;/s&gt;&lt;s&gt; Sobre/i  a/x  atuação/n  da/i  polícia/n  no/i  Bairro/n  da/i  Jamaica/n  em/i  Setúbal/n ,/x  no/i  sábado/n  passado/v ,/x  o/x  investigador/n</left>
+    <kwic> lembrou/v</kwic>
+    <right> que/c  &quot;/x não/r  se/p  pode/v  dizer/v  que/c  há/v  uma/x  polícia/n  racista/j &quot;/x ,/x  mas/c  considerou/v  que/c  há/v  várias/x  evidências/n  em/i  certas/x  práticas/n  das/i</right>
+  </line>
+  <line refs="novagente.pt" num="45" label="_">
+    <left>uma/x  vez/n  que/p  havia/v  um/x  sentimento/n  de/i  culpa/n  em/i  cada/x  sorriso/n ./x &lt;/s&gt;&lt;s&gt; &quot;/x Ao/i  início/n  é/v  uma/x  felicidade/n  com/i  muito/x  sentimento/n  de/i  culpa/n ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Lembro-me/v</kwic>
+    <right> das/i  primeiras/j  gargalhadas/n  que/p  dei/v  e/c  aí/r  eu/p  sentia/v  culpa/v  porque/c  quem/p  sou/v  eu/p  para/i  estar/v  feliz/j ,/x  ele/p  já/r  não/r  está/v  cá/r  para/i</right>
+  </line>
+  <line refs="motordoctor.pt" num="46" label="_">
+    <left>na/i  marca/n  Chevrolet/n  e/c  desapareceu/v  rapidamente/r  das/i  ruas/n ./x &lt;/s&gt;&lt;s&gt; Os/x  modelos/n  como/c  Matiz/n ,/x  Kalos/n ,/x  Lanos/n ,/x  Rezzo/n  ou/c  Lacetti/n</left>
+    <kwic> lembram/v</kwic>
+    <right> dos/i  edifícios/n  bem/r  sucedidos/v  no/i  campo/n  de/i  carros/n  compactos/j  e/c  classes/n  compactas/j ./x &lt;/s&gt;&lt;s&gt; Para/i  obter/v  peças/n  sobressalentes/j  de/i</right>
+  </line>
+  <line refs="demaeparamae.pt" num="47" label="_">
+    <left>o/x  bebé/n  atingir/v  um/x  mês/n  e/c  dependendo/v  da/i  sensibilidade/n  da/i  sua/x  pele/n ./x &lt;/s&gt;&lt;s&gt; Arranje/v  um/x  espaço/n  confortável/j  para/i  a/x  muda/n  das/i  fraldas/n ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Lembre-se/v</kwic>
+    <right> de/i  quantas/p  vezes/n  vai/v  mudar/v  fraldas/n  e/c  vestir/v  o/x  bebé/n ./x &lt;/s&gt;&lt;s&gt; Um/x  colchão/n  no/i  chão/n  seria/v  o/x  ideal/n  em/i  termos/n  de/i  segurança/n ,/x  mas/c  as/x  suas/x</right>
+  </line>
+  <line refs="amagiadomeunome.pt" num="48" label="_">
+    <left>relacionada/v  com/i  a/x  sua/x  utilização/n  do/i  referido/v  fornecedor/n  de/i  pagamento/n  externo/j ./x &lt;/s&gt;&lt;s&gt; Política/n  de/i  devolução/n  e/c  cancelamento/n &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Lembramos/v</kwic>
+    <right> que/c  os/x  produtos/n  oferecidos/v  na/i  nossa/x  loja/n  são/v  feitos/v  de/i  acordo/n  com/i  as/x  especificações/n  do/i  usuário/n  e/c  são/v  claramente/r</right>
+  </line>
+  <line refs="dn.pt" num="49" label="_">
+    <left>relacionada/v  com/i  a/x  criação/n  do/i  Portal/n  do/i  SNS/n  e/c  com/i  a/x  implementação/n  do/i  princípio/n  da/i  liberdade/n  de/i  escolha/n  dos/i  cidadãos/n &quot;/x ,/x</left>
+    <kwic> lembra/v</kwic>
+    <right> Ricardo/n  Mestre/j ,/x  em/i  resposta/n  ao/i  DN/n ./x  &quot;/x Por/i  norma/n ,/x  a/x  informação/n  dos/i  tempos/n  de/i  resposta/n  é/v  atualizada/v  mensalmente/r  no/i  Portal/n</right>
+  </line>
+  <line refs="scielo.pt" num="50" label="_">
+    <left>./x &lt;/s&gt;&lt;s&gt; Por/i  isso/p ,/x  segundo/r  nos/p  contou/v ,/x  Supriano/n  quebrou/v  sua/x  perna/n ./x &lt;/s&gt;&lt;s&gt; Ele/p  ficou/v  muito/r  tempo/n  se/c  recuperando/v  desse/i  acidente/n  e/c  se/p</left>
+    <kwic> lembra/v</kwic>
+    <right> de/i  se/p  sentir/v  plenamente/r  curado/v  apenas/r  no/i  dia/n  que/p ,/x  vendo/v  uma/x  procissão/n  de/i  uma/x  tenda/n  no/i  seu/x  bairro/n ,/x  foi/v  tomado/v  por/i  um/x</right>
+  </line>
+  <line refs="apagina.pt" num="51" label="_">
+    <left>que/c  o/x  livro/n  é/v  um/x  contributo/n  para/i  a/x  memória/n  não/r  se/p  perder/v  no/i  tempo/n ,/x  para/i  questionar/v  uma/x  história/n  dada/v  como/r  fechada/v  e/c  para/i</left>
+    <kwic> lembrar/v</kwic>
+    <right> as/x  vítimas/n  desse/i  período/n  conturbado/v ./x &lt;/s&gt;&lt;s&gt; O/x  livro/n  conta/v  episódios/n  dos/i  tempos/n  em/i  que/c  Portugal/n  esteve/v  à/i  beira/n  da/i  guerra/n  civil/j  –/x</right>
+  </line>
+  <line refs="ubi.pt" num="52" label="_">
+    <left>,/x  que/p  posteriormente/r  analisado/v  tinha/v  como/c  sua/x  maior/j  componentecinzas/n &quot;/x ./x &lt;/s&gt;&lt;s&gt; Apesar/c  desta/i  situação/n ,/x  o/x  presidente/n  da/i  APCMC/n</left>
+    <kwic> lembra/v</kwic>
+    <right> que/c  em/i  Espanha/n  &quot;/x existem/v  empresas/n  de/i  grande/j  prestígio/n  no/i  sector/n ,/x  algumas/p  delas/i  a/x  trabalhar/v  com/i  toda/x  a/x  lealdade/n  em/i</right>
+  </line>
+  <line refs="metalunderground.pt" num="53" label="_">
+    <left>!/x &lt;/s&gt;&lt;s&gt; Por/i  último/j  uma/m  desilusão/n  &quot;/x A/x  História/n  de/i  B/n &quot;/x  de/i  Daniel/n  Quinn/n ,/x  são/v  poucas/x  as/x  vezes/n  que/p  desisto/v  de/i  um/x  livro/n ,/x  aliás/r  ,/x  só/r  me/p</left>
+    <kwic> lembro/v</kwic>
+    <right> de/i  o/x  ter/v  feito/v  com/i  o/x  &quot;/x Mau/j  Agoiro/n &quot;/x  de/i  Gunther/n  Grass/n ,/x  e/c  este/p  foi/v  um/x  dos/i  casos/n ./x &lt;/s&gt;&lt;s&gt; Tinha/v  muitas/x  expectativas/n  em/i  relação/n  a/i  este/x</right>
+  </line>
+  <line refs="osverdes.pt" num="54" label="_">
+    <left>e/c  ensino/n ./x &lt;/s&gt;&lt;s&gt; Mas/c  não/r  é/v  possível/j  ver/v  a/x  avaliação/n  de/i  desempenho/n  de/i  uma/x  forma/n  isolada/v ./x &lt;/s&gt;&lt;s&gt; É/v  necessário/j  contextualizá-la/v  e/c</left>
+    <kwic> lembrar/v</kwic>
+    <right> as/x  outras/x  reformas/n  de/i  ataque/n  à/i  gestão/n  democrática/j  nas/i  escolas/n ,/x  de/i  instrumentalização/n  e/c  de/i  governamentalização/n  das/i</right>
+  </line>
+  <line refs="rea.pt" num="55" label="_">
+    <left>./x &lt;/s&gt;&lt;s&gt; Autor/n  Tópico/j :/x  Relações/n  entre/i  gays/n  (/x F/n //x M/n )/x  (/x Lida/n  36063/m  vezes/n )/x &lt;/s&gt;&lt;s&gt; Pegando/v  num/i  post/n  da/i  bluejazz/n  (/x no/i  tópico/n  de/i  televisão/n )/x</left>
+    <kwic> lembrei-me/v</kwic>
+    <right> deste/i  assunto/n ./x &lt;/s&gt;&lt;s&gt; Rralmente/n ,/x  creio/v  que/c  existe/v  uma/x  ideia/n  generalizada/v  de/i  uma/x  certa/x  animosidade/n  entre/i  homossexuais/n</right>
+  </line>
+  <line refs="arac.pt" num="56" label="_">
+    <left>nos/i  últimos/j  dias/n  e/c  que/p  voltou/v  hoje/r  a/i  repetir/v  durante/i  a/x  habitual/j  conferência/n  de/i  imprensa/n  diária/j  com/i  os/x  jornalistas/n ,/x</left>
+    <kwic> lembrando/v</kwic>
+    <right> sempre/r  que/c  tais/x  propostas/n  têm/v  de/i  respeitar/v  o/x  Acordo/n  de/i  Saída/n  negociado/v  com/i  Theresa/n  May/n ,/x  e/c  essa/p  é/v  a/x  parte/n  que/p  parece/v  mais/r</right>
+  </line>
+  <line refs="scmp.pt" num="57" label="_">
+    <left>quem/p  está/v  sozinho/j &quot;/x ,/x  afirma/v  António/n  Tavares/n ./x &lt;/s&gt;&lt;s&gt; O/x  Provedor/n  sublinha/v  que/c  a/x  &quot;/x solidão/n  pode/v  ser/v  uma/x  forma/n  de/i  exclusão/n  social/j &quot;/x ,/x</left>
+    <kwic> lembrando/v</kwic>
+    <right> que/c  &quot;/x não/r  é/v  o/x  Estado/n  que/p  vai/v  conseguir/v  resolver/v  todos/x  os/x  problemas/n ,/x  será/v  a/x  sociedade/n ,/x  organizada/v  enquanto/r  sociedade/n</right>
+  </line>
+  <line refs="geota.pt" num="58" label="_">
+    <left>a/x  educação/n  ambiental/j  e/c  o/x  respeito/n  pela/i  árvore/n ,/x  ser/v  vivo/n  complexo/j  e/c  admirável/j ,/x  que/p  não/r  temos/v  nenhum/x  direito/n  de/i  destruir/v ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Lembramos/v</kwic>
+    <right>,/x  por/i  exemplo/n ,/x  que/c  um/x  dos/i  objectivos/n  traçados/v  pelo/i  Ministério/n  da/i  Educação/n  para/i  o/x  ensino/n  básico/j  é/v  a/x  educação/n  ambiental/j ./x &lt;/s&gt;</right>
+  </line>
+  <line refs="apft.com.pt" num="59" label="_">
+    <left>pois/c  deve/v  chegar/v  hoje/r  a/x  encomenda/n  do/i  fornecedor/n ;/x  só/r  depois/r  de/i  ter/v  saido/v  da/i  loja/n ,/x  no/i  dia/n  em/i  que/p  escrevi/v  o/x  tópico/n ,/x  é/v  que/c  me/p</left>
+    <kwic> lembrei/v</kwic>
+    <right> que/c  ñ/r  tinha/v  perguntado/v  se/p  era/v  mil-dot/n ;/x  a/x  reg./n  paralaxe/n  é/v  á/r  frente/n ./x &lt;/s&gt;&lt;s&gt; Obrigado/v  a/i  todos/x  pelos/n  esclarecimentos/n ,/x  quando/r  a/i  vir/v</right>
+  </line>
+  <line refs="nintendo.pt" num="60" label="_">
+    <left>do/i  software/n ./x &lt;/s&gt;&lt;s&gt; Houve/v  ainda/r  outro/x  incidente/n  que/p  ocorreu/v  antes/r  de/i  o/x  desenvolvimento/n  ser/v  cancelado/v  que/c  me/p  impressionou/v ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Lembro-me/v</kwic>
+    <right> de/i  ver/v  um/x  vídeo/n  de/i  membros/n  da/i  equipa/n  a/i  jogar/v  o/x  título/n  durante/i  o/x  seu/x  desenvolvimento/n ./x &lt;/s&gt;&lt;s&gt; Depois/r  de/i  acabarem/v  de/i  tocar/v  uma/x</right>
+  </line>
+  <line refs="purplerose.pt" num="61" label="_">
+    <left>do/i  ativo/n ./x &lt;/s&gt;&lt;s&gt; E/c  afeta/j  no/i  preço/n  de/i  muitos/x  produtos/n  e/c  serviços/n  que/p  chegam/v  ao/i  consumidor/j  final/n ./x &lt;/s&gt;&lt;s&gt; É/v  melhores/j  sites/n  binários/j  bom/j</left>
+    <kwic> lembrar/v</kwic>
+    <right> que/c  é/v  difícil/j  encontrar/v  grandes/j  oportunidades/n  para/i  investir/v ./x &lt;/s&gt;&lt;s&gt; Ao/i  comprar/v  um/x  bom/j  restaurante/n ,/x  o/x  objetivo/n  do/i  investidor/n</right>
+  </line>
+  <line refs="tribunapress.pt" num="62" label="_">
+    <left>e/c  altura/n ,/x  quando/r  começou/v  a/x  faculdade/n ,/x  entre/i  1916/m  e/c  1950/m ./x &lt;/s&gt;&lt;s&gt; Aparecendo/v  em/i  Ellen/n &quot;/x  terça-feira/n ,/x  porém/c ,/x  as/x  Meninas/n  de/i &quot;/x  star/n</left>
+    <kwic> lembrou/v</kwic>
+    <right> a/x  todos/p  que/p  a/x  sua/x  aparência/n  não/r  tem/v  nenhum/x  impacto/n  sobre/i  o/x  seu/x  corpo/n  místico/j ./x &lt;/s&gt;&lt;s&gt; Agora/r .../x eu/p  tenho/v  que/c  ser/v  honesto/j ,/x  eu/p  fiz/v</right>
+  </line>
+  <line refs="sapo.pt" num="63" label="_">
+    <left>uma/x  lista/n  de/i  10/m  fármacos/n  autorizado/v  pelo/n  Infarmed/n  e/c  usados/v  para/i  reduzir/v  a/x  dor/n ./x &lt;/s&gt;&lt;s&gt; Com/i  e/c  sem/i  receita/n  médica/j ./x &lt;/s&gt;&lt;s&gt; Mas/c</left>
+    <kwic> lembre-se/v</kwic>
+    <right>:/x  Não/r  tome/v  medicamentos/n  sem/i  falar/v  primeiro/n  com/i  o/x  seu/x  médico/n  ou/c  farmacêutico/j ./x &lt;/s&gt;&lt;s&gt; Newsletter/n &lt;/s&gt;&lt;s&gt; Mas/c ,/x  afinal/r ,/x  o/p  que/p  se/p  sabe/v  sobre/i</right>
+  </line>
+  <line refs="publico.pt" num="64" label="_">
+    <left>,/x  ou/c  em/i  forma/n  de/i  vírgula/n ,/x  como/r  no/i  desfile/n  da/i  Christian/n  Dior/n ./x &lt;/s&gt;&lt;s&gt; Se/c  para/i  si/p  este/x  modelo/n  de/i  sapatos/n  ainda/r  é/v  um/x  caso/n  bicudo/j ,/x</left>
+    <kwic> lembre-se/v</kwic>
+    <right> que/p  dão/v  sempre/r  a/x  ilusão/n  de/i  pernas/n  mais/r  longas/j  a/i  quem/p  os/p  usa/v ./x &lt;/s&gt;&lt;s&gt; Boa/j  tarde/n !/x &lt;/s&gt;&lt;s&gt; Gostaria/v  de/i  saber/v  como/c  se/p  deve/v  prosseguir/v  com/i  uma/x</right>
+  </line>
+  <line refs="terraruiva.pt" num="65" label="_">
+    <left>&lt;s&gt; Código/n  icuritiba/j ./x com/i :/x  2176318/m &lt;/s&gt;&lt;s&gt; Parque/n  Infantil/j  e/c  Circuito/n  de/i  Atividade/n  Física/j  a/i  funcionar/v  em/i  Tunes/v &lt;/s&gt;&lt;s&gt; Engraçado/v  só/r  se/p</left>
+    <kwic> lembraram/v</kwic>
+    <right> de/i  fazer/v  a/x  obra/n  rente/j  ás/n  eleições/n  autárquicas/j ./x &lt;/s&gt;&lt;s&gt; Já/r  só/r  falta/v  resolver/v  a/x  passagem/n  inferior/j  do/i  caminho/n  de/i  ferro/n  do/i  lado/n  sul/n</right>
+  </line>
+  <line refs="tudonumclic.pt" num="66" label="_">
+    <left>base/n  no/i  conteúdo/n ./x &lt;/s&gt;&lt;s&gt; (/x Lembre-se/n  também/r  de/i  que/c  o/x  seu/x  design/n  nem/c  sempre/r  precisa/v  ser/v  complexo/j ./x )/x &lt;/s&gt;&lt;s&gt; Continue/v  a/i  educar/v  a/x  sua/x  equipa/n &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Lembre-se/v</kwic>
+    <right>:/x  ótimos/j  infográficos/j  começam/v  com/i  uma/x  ótima/j  ideia/n ,/x  acompanhada/v  de/i  uma/x  ótima/j  execução/n ./x &lt;/s&gt;&lt;s&gt; Portanto/c ,/x  é/v  importante/j  equipar/v</right>
+  </line>
+  <line refs="pessoafilho.pt" num="67" label="_">
+    <left>rápida.1967/m ./x &lt;/s&gt;&lt;s&gt; Veja/v  mais/r  detalhes/n  logo/r  abaixo/r ./x &lt;/s&gt;&lt;s&gt; Shiryu/n  apareceu/v  como/c  um/x  cara/n  mais/r  disciplinado/v ,/x  sério/j  e/c  honesto/j ,/x  não/r</left>
+    <kwic> lembro/v</kwic>
+    <right> se/c  ele/p  era/v  assim/r  na/i  animação/n ./x &lt;/s&gt;&lt;s&gt; Tudo/p  acima/r  de/i  fonte/n  do/i  artigo/n  de/i  diferença/n -/x  3/m  pontos/n  de/i  moral/n  de/i  correcção/n ./x &lt;/s&gt;&lt;s&gt; A/x  apple/n  não/r  nos/p</right>
+  </line>
+  <line refs="sapo.pt" num="68" label="_">
+    <left>vasta/j  Internet/n ,/x  e/c  já/r  tenho/v  este/x  tutorial/j  desde/i  2003/m ./x &lt;/s&gt;&lt;s&gt; Parabéns/n  &quot;/x barbas/n  das/i  Aves/n &quot;/x ./x &lt;/s&gt;&lt;s&gt; O/x  teu/x  trabalho/n  é/v  muito/r  útil/j ./x &lt;/s&gt;&lt;s&gt; Ainda/r  te/p</left>
+    <kwic> lembras/v</kwic>
+    <right> dos/i  tempos/n  de/i  escola/n ?/x  eh/x  eh/x !/x !/x &lt;/s&gt;&lt;s&gt; Um/x  abraço/n ,/x  escreve-me/v  (/x não/r  vi/v  mail/n  no/i  teu/x  blog/n )/x ./x &lt;/s&gt;&lt;s&gt; Caetano/n ./x &lt;/s&gt;&lt;s&gt; O/x  meus/x  parabéns/n  ao/i  Pplware/n ,/x  já/r</right>
+  </line>
+  <line refs="diariodalagoa.pt" num="69" label="_">
+    <left>visitado/v  e/c  ser/v  um/x  cartão-de-visita/n  da/i  nossa/x  freguesia/n &quot;/x ,/x  apontou/v  o/x  presidente/n ,/x  &quot;/x urge/v  melhor/r  o/x  acesso/n &quot;/x ,/x  defendeu/v ,/x</left>
+    <kwic> lembrando/v</kwic>
+    <right> que/c  a/x  &quot;/x obra/n  de/i  requalificação/n  da/i  estrada/n  de/i  acesso/n  às/i  Caldeiras/n  é/v  uma/x  obra/n  há/v  muito/r  prometida/v  e/c  sucessivamente/r  adiada/v &quot;/x ,/x</right>
+  </line>
+  <line refs="speedcamupdates.pt" num="70" label="_">
+    <left>todos/x  os/x  arquivos/n  que/p  você/p  extraiu/v  antes/r ,/x  no/i  stick/n  USB/n  ou/c  em/i  um/x  CD-RW/n ,/x  dependendo/v  dos/i  requisitos/n  do/i  seu/x  dispositivo/n ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Lembre-se/v</kwic>
+    <right> de/i  Formatar/n  a/x  memória/n  USB/n  usando/v  FAT/n ./x &lt;/s&gt;&lt;s&gt; Conecte/v  seu/x  stick/n  de/i  memória/n  USB/n  da/i  porta/n  USB/n  do/i  dispositivo/j  GPS./n &lt;/s&gt;&lt;s&gt; A/x  instalação/n  será/v</right>
+  </line>
+  <line refs="noticiasdealmeirim.pt" num="71" label="_">
+    <left>mas/c  sim/r  como/c  um/x  v/n  é/v  u/n  metaf/n  ó/n  rico/j  que/p  aos/i  poucos/p  revela/v  o/x  mundo/n ,/x  sem/i  pressas/n ./x &lt;/s&gt;&lt;s&gt; Não/r  me/p  lembro/v  portanto/c  quando/r  amadureci/v  mas/c</left>
+    <kwic> lembro-me/v</kwic>
+    <right> de/i  que/c  no/i  início/n  a/x  tristeza/n  era/v  confortável/j  de/i  algum/x  modo/n ./x &lt;/s&gt;&lt;s&gt; Quando/r  a/x  saudade/n  se/p  tornou/v  grande/j  de/i  mais/r  para/i  suportar/v ,/x</right>
+  </line>
+  <line refs="sapo.pt" num="72" label="_">
+    <left>sequência/n  considerável/j  de/i  meses/n  relativamente/j  atípicos/j ?/x &lt;/s&gt;&lt;s&gt; É/v  verdade/n ./x &lt;/s&gt;&lt;s&gt; Julho/n ,/x  Agosto/n  e/c  Setembro/n  foram/v  meses/n  atípicos/j ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Lembro/v</kwic>
+    <right> que/c  Janeiro/n ,/x  Fevereiro/n  e/c  Março/n  foram/v  também/r  meses/n  atípicos/j ,/x  com/i  situações/n  de/i  agitação/n  marítima/j  muito/r  fortes/j  e/c  com/i  um/x</right>
+  </line>
+  <line refs="diarioleiria.pt" num="73" label="_">
+    <left>qual/p  serão/v  distinguidas/v  personalidades/n ,/x  instituições/n ,/x  atletas/n  e/c  empresa/n  do/i  concelho/n ./x &lt;/s&gt;&lt;s&gt; Trata-se/v  de/i  uma/x  ocasião/n  para/i</left>
+    <kwic> lembrar/v</kwic>
+    <right> o/x  &quot;/x exemplo/n  de/i  bondade/n  e/c  altruísmo/n &quot;/x  do/i  padroeiro/n  São/v  Martinho/n ,/x  que/c  &quot;/x os/x  pombalenses/n  seguem/v  e/c  que/p  faz/v  parte/n  das/i</right>
+  </line>
+  <line refs="sapo.pt" num="74" label="_">
+    <left>se/p  proponha/v  assegurar/v ,/x  &quot;/x para/i  lá/r  daquilo/i  que/p  é/v  a/x  sua/x  atividade/n  normal/j  e/c  legalmente/r  exigível/j &quot;/x ./x &lt;/s&gt;&lt;s&gt; No/i  pré-aviso/n ,/x  o/x  STEPH/n</left>
+    <kwic> lembra/v</kwic>
+    <right> que/c  continuam/v  a/i  ser/v  subtraídas/v  horas/n  efetivas/j  de/i  trabalho/n  a/i  estes/x  técnicos/n ,/x  &quot;/x causando/v  saldos/n  de/i  horas/n  negativas/j  que/p  de/i</right>
+  </line>
+  <line refs="pingodoce.pt" num="75" label="_">
+    <left>o/x  vinho/n  certo/j  para/i  cada/x  refeição/n ./x &lt;/s&gt;&lt;s&gt; Deixe/v  o/p  olhar/v  vaguear/v  pelas/i  prateleiras/n ./x &lt;/s&gt;&lt;s&gt; Muitas/x  vezes/n ,/x  é/v  isso/p  que/p  permite/v  que/c  se/p</left>
+    <kwic> lembre/v</kwic>
+    <right> do/i  vinho/n  ideal/j ,/x  que/c  faça/v  associações/n  de/i  ideias/n  ou/c  que/c  encontre/v  uma/x  boa/j  promoção/n ./x &lt;/s&gt;&lt;s&gt; 2/m ./x &lt;/s&gt;&lt;s&gt; Defina/v  um/x  preço/n  e/c  seja/v  específico/j &lt;/s&gt;</right>
+  </line>
+  <line refs="madeinportugalmusica.pt" num="76" label="_">
+    <left>&quot;/x ,/x  mas/c  sempre/r  pensamos/v  que/c  a/x  indústria/n  estava/v  muito/r  formatada/j  e/c  que/p  andava/v  distraída/v ./x &lt;/s&gt;&lt;s&gt; Quando/r  finalmente/r  nos/p  ligaram/v</left>
+    <kwic> lembro-me/v</kwic>
+    <right> de/i  pensar/v  que/c  era/v  o/x  dia/n  mais/r  feliz/j  da/i  minha/x  vida/n ,/x  chorei/v  compulsivamente/r  durante/i  meia/j  hora/n ,/x  mas/c  como/c  sempre/r  me/p  dei/v  com/i</right>
+  </line>
+  <line refs="rtp.pt" num="77" label="_">
+    <left>informação/n  e/c  comunicação/n  hoje/r  ao/i  nosso/x  dispor/v ,/x  os/x  vigias/n  tiveram/v  um/x  papel/n  muito/r  importante/j  na/i  baleação/n  graciosense/j ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Lembramo-nos/v</kwic>
+    <right> muito/r  bem/r  do/i  sr./n  António/n  Francisquinho/n ,/x  do/i  sr./n  Belchior/n  Dias/n  Cordeiro/n  e/c  do/i  Chico/n  Baja/v ./x &lt;/s&gt;&lt;s&gt; Estes/x  vigias/n  recorriam/v ,/x  então/r ,/x  a/i</right>
+  </line>
+  <line refs="dgsi.pt" num="78" label="_">
+    <left>dia/n  estavam/v  na/i  casa/n  -/x  para/i  além/r  do/i  arguido/v  N/n  que/p  já/r  referira/v  -/x ,/x  disse/v  &quot;/x  .../x o/x  Sr./n  H./n ./x ./x &quot;/x ,/x  referiu/v  um/x  outro/x  adulto/n  &quot;/x .../x  e/c  não/r  me/p</left>
+    <kwic> lembro/v</kwic>
+    <right> assim/r  de/i  mais/r  ninguém/p .../x provavelmente/r ,/x  acaba/v  por/i  ser/v  uma/x  pessoa/n  que/p  eu/p  tinha/v  dito/v  há/v  bocado/n  que/p  não/r  reconheço/v ..../x &quot;/x ./x &lt;/s&gt;</right>
+  </line>
+  <line refs="blitz.pt" num="79" label="_">
+    <left>live/v  com/i  a/x  BLITZ/n  de/i  fevereiro/n ,/x  apostam/v  em/i  discos/n  em/i  formato/n  live/j ,/x  pedimos-lhe/v  qual/p  o/x  seu/x  favorito/n  de/i  todos/x  os/x  tempos/n ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Lembra-se/v</kwic>
+    <right> de/i  MTV/n  Unplugged/n  in/i  New/n  York/n ,/x  dos/i  Nirvana/n ?/x &lt;/s&gt;&lt;s&gt; Ou/c  Get/n  Yer/n  Ya-Ya's/n  Out/n !/x  dos/i  Rolling/n  Stones/n ?/x &lt;/s&gt;&lt;s&gt; A/x  lista/n  de/i  álbuns/n  ao/i  vivo/n  que/p</right>
+  </line>
+  <line refs="abola.pt" num="80" label="_">
+    <left>vão/v  integrar/v  a/x  equipa/n  sénior/j  de/i  futsal/n  do/i  Sporting/n  a/i  partir/v  da/i  próxima/j  temporada/n ,/x  anunciou/v  o/x  clube/n ./x &lt;/s&gt;&lt;s&gt; Em/i  nota/n  oficial/j ,/x</left>
+    <kwic> lembram/v</kwic>
+    <right> os/x  leões/n  que/p  os/x  dois/m  jogadores/n ,/x  formados/v  em/i  Alvalade/n ,/x  &quot;/x foram/v  já/r  opção/n  para/i  Nuno/n  Dias/n  na/i  época/n  transata/j ,/x  quando/r  ainda/r</right>
+  </line>
+  <line refs="destak.pt" num="81" label="_">
+    <left>a/x  vida/n ./x &lt;/s&gt;&lt;s&gt; As/x  nossas/x  reacções/n  enquanto/r  adultos/j  assim/r  o/p  indicam/v ./x &lt;/s&gt;&lt;s&gt; Mas/c  ser/v  criança/n  no/i  tempo/n  certo/j  é/v  a/x  melhor/j  coisa/n  do/i  mundo/n ./x &lt;/s&gt;&lt;s&gt; Eu/p</left>
+    <kwic> lembro-me/v</kwic>
+    <right> com/i  saudade/n  da/i  minha/x  meninice/n  e/c ,/x  quando/r  observo/v  as/x  crianças/n  de/i  hoje/r ,/x  tenho/v  ainda/r  mais/r  saudades/n  do/i  meu/x  tempo/n  de/i  menina/n ./x &lt;/s&gt;</right>
+  </line>
+  <line refs="minube.pt" num="82" label="_">
+    <left>e/c  também/r  você/p  pode/v  comer/v ./x &lt;/s&gt;&lt;s&gt; Tive/v  mononucleose/n  de/i  salsicha/n  e/c  minha/j  mãe/n !/x  enooooorme/r  e/c  muito/r  bom/j !/x  batatas/n ,/x  salada/n .../x  me/p</left>
+    <kwic> lembro/v</kwic>
+    <right> que/c  você/p  rondo/v  5/m  €/x  e/c  me/p  deixou/v  cheísima/n !/x &lt;/s&gt;&lt;s&gt; Excelente/j &lt;/s&gt;&lt;s&gt; Ver/v  original/j &lt;/s&gt;&lt;s&gt; Portas/n  acusa/v  PS/n  de/i  propor/v  &quot;/x um/x  pontapé/n &quot;/x  no/i  investimento/n  e/c  &quot;/x</right>
+  </line>
+  <line refs="expresso.pt" num="83" label="_">
+    <left>levou/v  Deus/n  a/i  fazer/v  o/x  céu/n  tão/r  alto/j ./x &lt;/s&gt;&lt;s&gt; A/x  única/j  que/p  tudo/p  percebeu/v  desde/i  o/x  início/n  e/c  que/p  tudo/p  reprovou/v  sem/i  dizer/v  palavra/n ./x &lt;/s&gt;&lt;s&gt; A/p  que/p  se/p</left>
+    <kwic> lembra/v</kwic>
+    <right>,/x  como/r  na/i  letra/n  da/i  canção/n  dos/i  The/n  Five/n  Satins/n ./x &lt;/s&gt;&lt;s&gt; Peggy/n  é/v  a/x  prova/n  mais/r  dura/j  que/p  Sheeran/n  não/r  consegue/v  ultrapassar/v ./x &lt;/s&gt;&lt;s&gt; A/x  maior/j  dor/n</right>
+  </line>
+  <line refs="uc.pt" num="84" label="_">
+    <left>aceitarem/v  o/x  25/m  de/i  Abril/n ./x &lt;/s&gt;&lt;s&gt; Quer/v  dizer/v ,/x  aqueles/p  mais/r  hesitantes/j  ou/c  medrosos/j ,/x  etc./x  o/x  livro/n  dele/i  foi/v  uma/m  bandeira/n ,/x  não/r  é/v ./x &lt;/s&gt;&lt;s&gt; Eu/p</left>
+    <kwic> lembro-me/v</kwic>
+    <right> de/i  um/x  camarada/n  me/p  dizer/v  depois/r  de/i  ter/v  o/x  livro/n  aparecido/v  e/c  tal/r ./x &lt;/s&gt;&lt;s&gt; Este/x  livro/n  é/v  uma/x  bandeira/n  porque/c  ele/p  dizia/v  que/c  a/x  guerra/n  só/r</right>
+  </line>
+  <line refs="cascaisea.pt" num="85" label="_">
+    <left>&lt;s&gt; CASCAISEA/n  Para/i  alguns/p  de/i  Nós/p  que/p  vivemos/v  com/i  o/x  Mar/n  no/i  coração/n ,/x  é/v  indissociável/j  pensarmos/v  no/i  Mar/n  e/c  nos/i  Oceanos/n  sem/i  nos/p</left>
+    <kwic> lembramos/v</kwic>
+    <right> do/i  Miguel/n  Lacerda/n ./x &lt;/s&gt;&lt;s&gt; O/x  mar/n  corre-lhe/v  nas/i  veias/n  como/c  água/n  salgada/v ./x &lt;/s&gt;&lt;s&gt; Quando/r  nos/p  preocupamos/v  com/i  a/x  sustentabilidade/n  dos/i</right>
+  </line>
+  <line refs="sapo.pt" num="86" label="_">
+    <left>com/i  o/x  Warhol/n  sobre/i  a/x  imagem/n  e/c  acha/v  que/c  a/x  conversa/n  foi/v  real/j ,/x  mas/c  não/r  pode/v  jurar/v  que/c  foi/v &quot;/x ,/x  recordou/v  ainda/r  Gordon/n ./x &lt;/s&gt;&lt;s&gt; Não/r  se/p</left>
+    <kwic> lembrava/v</kwic>
+    <right> ele/p ,/x  lembrava-se/v  a/x  mãe/n ./x &lt;/s&gt;&lt;s&gt; Não/r  da/i  conversa/n ,/x  da/i  obra/n ,/x  que/p  tinha/v  ideia/n  de/i  ter/v  ficado/v  guardada/v  entre/i  o/x  material/n  das/i  digressões/n</right>
+  </line>
+  <line refs="jornalmedico.pt" num="87" label="_">
+    <left>de/i  Apoio/n  ao/i  Cuidador/n ,/x  nomeadamente/r  no/i  caso/n  de/i  pessoas/n  portadoras/j  de/i  algum/x  tipo/n  de/i  patologia/n  crónica/j &quot;/x ./x &lt;/s&gt;&lt;s&gt; O/x  bastonário/n</left>
+    <kwic> lembra/v</kwic>
+    <right> que/c  esta/x  medida/n  fazia/v  parte/n  das/i  recomendações/n  elaboradas/v  pelo/i  Grupo/n  de/i  Trabalho/n  criado/v  pelo/i  Governo/n ,/x  que/p  em/i  setembro/n</right>
+  </line>
+  <line refs="diariodalagoa.pt" num="88" label="_">
+    <left>ao/i  Porto/n ,/x  ou/c  seja/v  a/x  decisão/n  do/i  Governo/n  Regional/j  vai/v  retirar/v  competitividade/n  ao/i  turismo/n  interno/j &quot;/x ,/x  afirmou/v ./x &lt;/s&gt;&lt;s&gt; O/x  deputado/n</left>
+    <kwic> lembrou/v</kwic>
+    <right> que/c ,/x  com/i  a/x  concorrência/n  nas/i  gateways/n  liberalizadas/v ,/x  &quot;/x serão/v  libertados/v  recursos/n  financeiros/j  do/i  Estado/n  para/i  que/p ,/x  a/i</right>
+  </line>
+  <line refs="diariodalagoa.pt" num="89" label="_">
+    <left>a/x  Região/n  e/c  o/x  território/n  continental/j ,/x  em/i  particular/n  na/i  taxa/n  intermédia/j ,/x  não/r  seria/v  de/i  20/m %/x ,/x  mas/c  sim/r  de/i  30/m %/x &quot;/x ./x &lt;/s&gt;&lt;s&gt; O/x  socialista/n</left>
+    <kwic> lembrou/v</kwic>
+    <right> que/c  o/x  PS/n //x Açores/n  reuniu/v  com/i  a/x  AHRESP/n  há/v  &quot;/x cerca/r  de/i  um/x  ano/n ,/x  na/i  altura/n  das/i  eleições/n  legislativas/j ,/x  tendo/v  assumido/v  o/x</right>
+  </line>
+  <line refs="portugal-linha.pt" num="90" label="_">
+    <left>calcular/v  o/x  custo/n  real/j  desta/i  pizza/n  aí/r  em/i  Curitiba/n ,/x  ok/j ?/x &lt;/s&gt;&lt;s&gt; &quot;/x Lisboa/n &quot;/x &lt;/s&gt;&lt;s&gt; Guardo/v  Lisboa/n  na/i  palma/n  da/i  mão/n  Basta/v  abri-la/v  para/i  dela/i  me/p</left>
+    <kwic> lembrar/v</kwic>
+    <right> Lisboa/n  é/v  energia/n  e/c  mansidão/n  Que/p  ao/i  menos/r  eu/p  pudesse/v  descrever/v .../x  O/x  bulício/n  das/i  ruas/n  e/c  avenidas/n  O/x  fervilhar/v  dos/i  quiosques/n</right>
+  </line>
+  <line refs="scielo.pt" num="91" label="_">
+    <left>./x &lt;/s&gt;&lt;s&gt; JPC/n  Eu/p  lembro-me/v  bem/r  de/i  participar/v  desse/i  debate/n ,/x  e/c  que/p  se/p  falava/v  da/i  visão/n  das/i  oportunidades/n  em/i  vez/n  das/i  prioridades/n ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Lembro-me/v</kwic>
+    <right> da/i  perplexidade/n  de/i  uma/x  série/n  de/i  colegas/n  nossos/j  que/p  resistiam/v  muito/r  à/i  ideia/n ./x &lt;/s&gt;&lt;s&gt; Foi/v  fundamental/j  para/i  a/x  geração/n  dos/i  anos/n  90/m ./x &lt;/s&gt;</right>
+  </line>
+  <line refs="shifter.pt" num="92" label="_">
+    <left>mais/r  o/x  individualismo/n ,/x  se/c  achando/v  alto/r  o/x  suficiente/n .../x  mas/c  acho/v  que/c  essa/x  consciência/n  precisa/v  de/i  ser/v  amplificada/v  para/i</left>
+    <kwic> lembrar/v</kwic>
+    <right> às/i  pessoas/n  que/p  é/v  a/x  Terra/n  que/p  dá/v  o/x  sustento/n  e/c  garante/v  a/x  vida/n ,/x  e/c  sem/i  ela/p  nada/p  nada/p  nada/p  é/v  possível/j ./x &lt;/s&gt;&lt;s&gt; E/c  é/v  isso/p ,/x  a/x  nossa/x</right>
+  </line>
+  <line refs="ubi.pt" num="93" label="_">
+    <left>&quot;/x nós/p &quot;/x  em/i  português/n  –/x  desta/i  forma/n ,/x  o/x  jogo/n  é/v  visto/v  como/c  algo/p  que/p  pode/v  ser/v  usado/v  em/i  grupo/n ./x &lt;/s&gt;&lt;s&gt; Além/r  disso/i ,/x  os/x  dois/m  &quot;/x i/n &quot;/x  do/i  seu/x  nome/n</left>
+    <kwic> lembra/v</kwic>
+    <right> duas/m  pessoas/n  de/i  pé/n  a/i  jogar/v ./x &lt;/s&gt;&lt;s&gt; Finalmente/r ,/x  outra/x  explicação/n  para/i  o/x  seu/x  nome/n  prende-se/v  com/i  o/x  facto/n  de/i  não/r  precisar/v  de/i</right>
+  </line>
+  <line refs="remodelacoes.pt" num="94" label="_">
+    <left>em/i  comunicado/n  às/i  declarações/n  do/i  ministro/n  alemão/j  sobre/i  a/x  eventual/j  necessidade/n  de/i  um/x  novo/j  pedido/n  de/i  resgate/n  a/i  Portugal/n ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Lembrando/v</kwic>
+    <right> que/c  o/x  próprio/j  Wolfgang/n  Schäuble/n  recuou/v  na/i .../x &lt;/s&gt;&lt;s&gt; A/x  Comissão/n  Europeia/j  propôs/v  hoje/r  a/x  renovação/n  da/i  licença/n  para/i  a/x  utilização/n</right>
+  </line>
+  <line refs="clubcmax.com.pt" num="95" label="_">
+    <left>ao/i  destino/n  arruma-se/v  a/x  Cê/n  num/i  lugar/n  de/i  parqueamento/n  e/c  logo/r  um/x  &quot;/x distraído/v &quot;/x ,/x  pois/c  não/r  lhe/p  posso/v  chamar/v  o/p  que/p  quero/v ,/x  se/p</left>
+    <kwic> lembra/v</kwic>
+    <right> de/i  deixar/v  um/x  risco/n  na/i  Cê/n  com/i  a/x  abertura/n  da/i  sua/x  porta/n !/x &lt;/s&gt;&lt;s&gt; E/c  ainda/r  dizem/v  que/c  a/x  Cê/n  é/v  gorda/n !/x &lt;/s&gt;&lt;s&gt; Gordos/n  são/v  todos/x  os/x  outros/x  invejosos/n ./x &lt;/s&gt;</right>
+  </line>
+  <line refs="dinheirovivo.pt" num="96" label="_">
+    <left>,/x  presidente/n  da/i  ATIC/n ,/x  em/i  que/p  60/m %/x  das/i  vendas/n  eram/v  feitas/v  para/i  o/x  exterior/n ./x &lt;/s&gt;&lt;s&gt; O/x  também/r  CEO/n  da/i  Cimpor/n  -/x  Cimentos/n  de/i  Portugal/n</left>
+    <kwic> lembra/v</kwic>
+    <right> que/c ,/x  apesar/c  de/i  as/x  exportações/n  serem/v  mais/r  significativas/j  no/i  período/n  de/i  2014/m  a/i  2016/m ,/x  essa/x  condição/n  ficou/v  a/i  dever-se/v  &quot;/x a/i  uma/x</right>
+  </line>
+  <line refs="cm-montemorvelho.pt" num="97" label="_">
+    <left>a/i  colaborar/v  com/i  o/x  ACM/n &quot;/x ,/x  concluiu/v ./x &lt;/s&gt;&lt;s&gt; No/i  decorrer/v  da/i  sua/x  intervenção/n ,/x  Filipe/n  Carraco/n ,/x  presidente/n  da/i  direção/n  do/i  ACM/n ,/x</left>
+    <kwic> lembrou/v</kwic>
+    <right> os/x  fundadores/n  do/i  clube/n ,/x  manifestou-se/v  &quot;/x muito/r  contente/j  com/i  o/x  espírito/n  familiar/j  que/p  o/p  ACM/n  proporciona/v &quot;/x  e/c  referiu/v :/x  &quot;/x</right>
+  </line>
+  <line refs="noticiasdealmeirim.pt" num="98" label="_">
+    <left>há/v  alguns/x  anos/n ,/x  por/i  quem/p ,/x  não/r  sei/v ,/x  que/c  as/x  tuas/x  férias/n  com/i  a/x  chefe/n  de/i  gabinete/n  em/i  Cabo/n  Verde/j ,/x  ou/c  não/r  sei/v  aonde/r ,/x  já/r  não/r  me/p</left>
+    <kwic> lembro/v</kwic>
+    <right>,/x  teriam/v  sido/v  gozadas/v  à/i  custa/n  do/i  dinheiro/n  dos/i  contribuintes/j .../x  Como/r  se/p  tu/p  precisasses/v  disso/i !/x &lt;/s&gt;&lt;s&gt; Zé/n  Gomes/v ,/x  já/r  te/p  disse/v</right>
+  </line>
+  <line refs="inesctec.pt" num="99" label="_">
+    <left>podem/v  não/r  espelhar/v  fielmente/r  o/x  impacto/n  da/i  investigação/n  científica/j  de/i  uma/x  instituição/n ,/x  vale/v  sempre/r  a/x  pena/n</left>
+    <kwic> lembrar/v</kwic>
+    <right> a/x  importância/n  da/i  produção/n  de/i  ciência/n  na/i  cadeia/n  de/i  valor/n  de/i  uma/x  instituição/n  como/c  o/x  INESC/n  TEC/n ./x  &quot;/x Nós/p  temos/v  uma/x  cadeia/n  de/i</right>
+  </line>
+  <line refs="avante.pt" num="100" label="_">
+    <left>Jerónimo/n  de/i  Sousa/n ./x &lt;/s&gt;&lt;s&gt; Política/n  construtiva/j &lt;/s&gt;&lt;s&gt; Fazendo/v  um/x  balanço/n  dos/i  últimos/j  seis/m  anos/n ,/x  o/x  secretário-geral/n  do/i  PCP/n</left>
+    <kwic> lembrou/v</kwic>
+    <right> que/c  a/x  CDU/n  foi/v  a/x  única/j  força/n  política/j  que/p  se/p  opôs/v  aos/i  malefícios/n  de/i  Santana/n  Lopes/n  e/c  Carmona/n  Rodrigues/v ./x  &quot;/x Esperávamos/v  que/c  a/x</right>
+  </line>
+  <line refs="tv7dias.pt" num="101" label="_">
+    <left>e/c  como/c  se/p  pode/v  ver/v  é/v  uma/x  rapariga/n  bonita/j &quot;/x ,/x  elogia/v ,/x  enumerando/v  o/p  que/p  lhe/p  agrada/v ./x &lt;/s&gt;&lt;s&gt; Focados/v  em/i  que/c  o/x  amor/n  resulte/v ,/x  Ana/n  Marta/n</left>
+    <kwic> lembra/v</kwic>
+    <right> também/r  o/p  que/p  a/p  derreteu/v  mais/r  no/i  contacto/n  imediato/j ./x  &quot;/x A/x  primeira/j  impressão/n  que/p  eu/p  tive/v  dele/i  foi/v :/x  '/x ele/p  não/r  é/v  português/j '/x &quot;/x ,/x</right>
+  </line>
+  <line refs="apfn.com.pt" num="102" label="_">
+    <left>de/i  pediatria/n  do/i  Hospital/n  de/i  Santa/j  Maria/n  diagnosticou/v  hoje/r  uma/x  &quot;/x crise/n  de/i  valores/n &quot;/x  na/i  sociedade/n  portuguesa/j ,/x  quando/r</left>
+    <kwic> lembrou/v</kwic>
+    <right> que/c  730/m  crianças/n  foram/v  abandonadas/v  em/i  Portugal/n  no/i  ano/n  passado/v  e/c  que/c  as/x  casas/n  de/i  acolhimento/n  estão/v  cheias/n  de/i  menores/n  mal/r</right>
+  </line>
+  <line refs="casamentos.pt" num="103" label="_">
+    <left>do/i  dia/n  inteiro/j  a/i  dançar/v  até/i  cortarem/v  o/x  bolo/n  de/i  casamento/n  original/j ./x &lt;/s&gt;&lt;s&gt; 2/m ./x &lt;/s&gt;&lt;s&gt; Aplica/v  após/i  o/x  banho/n &lt;/s&gt;&lt;s&gt; Se/p  és/v  daquelas/i  pessoas/n  que/p  só/r  se/p</left>
+    <kwic> lembra/v</kwic>
+    <right> de/i  aplicar/v  perfume/n  segundos/n  antes/r  de/i  sair/v  de/i  casa/n ,/x  abandona/v  já/r  esse/x  hábito/n ./x &lt;/s&gt;&lt;s&gt; A/x  pele/n  morna/j  e/c  humedecida/v  acabada/v  de/i  sair/v  do/i</right>
+  </line>
+  <line refs="portugalcasino.pt" num="104" label="_">
+    <left>./x &lt;/s&gt;&lt;s&gt; Certifique-se/v  de/i  não/r  cair/v  em/i  comentários/n  enganosos/j  de/i  casinos/n  online/r  que/c  aumentem/v  demais/r  suas/x  expectativas/n  e/c</left>
+    <kwic> lembre-se/v</kwic>
+    <right> de/i  que/p  os/x  requisitos/n  de/i  apostas/n  normalmente/r  se/p  aplicam/v  aos/i  bónus/n  de/i  depósito/n  e/c  giros/n  grátis/r !/x &lt;/s&gt;&lt;s&gt; Ofertas/n  de/i  casino/n :/x</right>
+  </line>
+  <line refs="sapo.pt" num="105" label="_">
+    <left>que/p  Che/n  Guevara/n  lhe/p  havia/v  mandado/v ,/x  a/x  qual/p  dizia/v :/x  &quot;/x A/x  Fidel/n  de/i  Castro/n  Havana/j ./x  &quot;/x Ano/n  da/i  Agricultura/n &quot;/x  Fidel/n ,/x  Neste/i  momento/n</left>
+    <kwic> lembro-me/v</kwic>
+    <right> de/i  muitas/x  coisas/n  –/x  de/i  quando/r  te/p  conheci/v  no/i  México/n ,/x  em/i  casa/n  da/i  Maria/n  Antónia/n ,/x  de/i  quando/r  me/p  propuseste/v  juntar-me/v  a/x  ti/n ,/x  de/i</right>
+  </line>
+  <line refs="wilder.pt" num="106" label="_">
+    <left>da/i  Bretanha/n ,/x  esta/x  espécie/n  de/i  voo/n  veloz/j  é/v  um/x  migrador/j  regular/n  entre/i  o/x  Continente/n  e/c  as/x  ilhas/n  britânicas/j ./x &lt;/s&gt;&lt;s&gt; Albano/j  Soares/v</left>
+    <kwic> lembra-se/v</kwic>
+    <right> de/i  ver/v  esta/x  traça/n  em/i  grandes/j  quantidades/n  em/i  Portugal/n ,/x  &quot;/x mesmo/r  durante/i  o/x  dia/n  e/c  em/i  locais/n  com/i  pouca/x  luz/n &quot;/x ./x  &quot;/x As/x  movimentações/n</right>
+  </line>
+  <line refs="ubi.pt" num="107" label="_">
+    <left>formados/v  na/i  Faculdade/n  de/i  Ciências/n  da/i  Saúde/n &quot;/x ./x &lt;/s&gt;&lt;s&gt; Um/x  pedido/n  que/p  também/r  está/v  fundamentado/v  no/i  aspeto/n  da/i  formação/n ./x &lt;/s&gt;&lt;s&gt; Girão/n</left>
+    <kwic> lembra/v</kwic>
+    <right> que/c  &quot;/x temos/v  a/x  universidade/n  e/c  andamos/v  a/i  formar/v  alunos/n  que/p  gostam/v  muito/r  de/i  aqui/r  estar/v ,/x  mas/c  depois/r  não/r  têm/v  hipótese/n  de/i  ficar/v &quot;/x</right>
+  </line>
+  <line refs="sulinformacao.pt" num="108" label="_">
+    <left>./x &lt;/s&gt;&lt;s&gt; &quot;/x Lembro-me/n  da/i  nossa/x  primeira/j  visita/n  aqui/r ,/x  em/i  todas/x  as/x  destilarias/n  bebemos/v  um/x  medronho/n .../x &quot;/x ./x  &quot;/x Não/r  sei/v  como/c  te/p</left>
+    <kwic> lembras/v</kwic>
+    <right> disso/i !/x &quot;/x ,/x  comentou/v  Afonso/n  Cruz/n ,/x  arrancando/v  uma/x  gargalhada/n  ao/i  auditório/n ./x &lt;/s&gt;&lt;s&gt; &quot;/x Depois/r ,/x  aconteceu/v  o/x  incêndio/n ./x &lt;/s&gt;&lt;s&gt; Voltar/v  aqui/r</right>
+  </line>
+  <line refs="partidoergue-te.pt" num="109" label="_">
+    <left>&quot;/x ,/x  o/p  que/p  não/r  admitem/v  é/v  que/c  o/x  povo/n  possa/v  pensar/v  que/c  está/v  autorizado/v  a/i  ser/v  nacionalista/j ,/x  torna-se/v  portanto/c  necessário/j</left>
+    <kwic> lembrar/v</kwic>
+    <right> ao/i  cidadão/n  que/p  o/x  Nacionalismo/n  é/v  &quot;/x pecado/n &quot;/x  e/c  as/x  pessoas/n  devem/v  é/v  ter/v  medo/n  e/c  vergonha/n  de/i  pensarem/v  como/c  a/x  Marine/n  Le/n  Pen/n ./x &lt;/s&gt;&lt;s&gt; E/c  porquê/r</right>
+  </line>
+  <line refs="fatima.pt" num="110" label="_">
+    <left>estrangeiros/j ,/x  que/p  vieram/v  à/i  Cova/n  da/i  Iria/v  provenientes/j  de/i  várias/x  geografias/n  do/i  mundo/n ./x &lt;/s&gt;&lt;s&gt; Por/i  fim/n ,/x  D./n  António/n  Marto/n</left>
+    <kwic> lembrou/v</kwic>
+    <right> em/i  particular/n  os/x  bombeiros/n  portugueses/j  e/c  o/x  seu/x  esforço/n  no/i  combate/n  aos/i  incêndios/n ,/x  convidando/v  a/x  assembleia/n  a/i  rezar/v  uma/x</right>
+  </line>
+  <line refs="tv7dias.pt" num="111" label="_">
+    <left>ao/i  ouvir/v  um/x  tiro/n ./x &lt;/s&gt;&lt;s&gt; No/i  gabinete/n  de/i  Júlia/n ,/x  Samuel/n  culpa-a/v  pelo/n  que/p  está/v  a/i  fazer/v ./x &lt;/s&gt;&lt;s&gt; Acha/n  que/p  ela/p  fala/v  demais/r  e/c  a/x  sua/x  voz/n  faz-lhe/v</left>
+    <kwic> lembrar/v</kwic>
+    <right> a/x  sua/x  mãe/n ,/x  o/p  que/p  sempre/r  lhe/p  fez/v  confusão/n ./x &lt;/s&gt;&lt;s&gt; Obriga/v  Júlia/n  a/i  ajoelhar-se/v ./x &lt;/s&gt;&lt;s&gt; Muito/r  nervoso/j ,/x  Tiago/n  decide/v  entrar/v  no/i  lar/n  pelo/i</right>
+  </line>
+  <line refs="sapo.pt" num="112" label="_">
+    <left>e/c  o/x  roubo/n  de/i  um/x  chocolate/n  numa/i  loja/n ./x  &quot;/x Não/r  é/v  só/r  por/i  serem/v  digitais/j  que/c  os/x  conteúdos/n  podem/v  ser/v  roubados/v &quot;/x ,/x  afirmou/v ,/x</left>
+    <kwic> lembrando/v</kwic>
+    <right> que/c  em/i  muitos/x  casos/n  os/x  espectadores/n  que/p  vêm/v  a/x  Sport/n  TV/n  sem/i  pagar/v  estão/v  a/i  pagar/v  a/i  outras/x  entidades/n ./x  &quot;/x Já/r  não/r  há/v  pirataria/n</right>
+  </line>
+  <line refs="sicnoticias.pt" num="113" label="_">
+    <left>uma/x  visita/n  de/i  cinco/m  dias/n  a/i  Moçambique/n ./x &lt;/s&gt;&lt;s&gt; Quarta-feira/n  é/v  a/x  tomada/n  de/i  posse/n  do/i  reeleito/j  presidente/n  moçambicano/j  e/c  Marcelo/n</left>
+    <kwic> lembra/v</kwic>
+    <right> que/c  para/i  haver/v  paz/n  e/c  desenvolvimento/n  é/v  preciso/j  investimento/n  em/i  todo/x  o/x  país/n  e/c  não/r  apenas/r  na/i  capital/n ./x &lt;/s&gt;&lt;s&gt; 2016-12-14/m  -/x</right>
+  </line>
+  <line refs="sapo.pt" num="114" label="_">
+    <left>Brandão/n  Rodrigues/v  não/r  deixou/v  de/i  reconhecer/v  que/c  o/x  país/n  continua/v  a/i  &quot;/x registar/v  níveis/n  preocupantes/j  de/i  abandono/n  escolar/j &quot;/x ,/x</left>
+    <kwic> lembrando/v</kwic>
+    <right> as/x  várias/x  medidas/n  adotadas/v  pelo/i  governo/n  de/i  combate/n  à/i  fuga/n  dos/i  alunos/n  das/i  escolas/n ./x &lt;/s&gt;&lt;s&gt; É/v  o/x  caso/n  do/i  programa/n  nacional/j  de/i</right>
+  </line>
+  <line refs="meo.pt" num="115" label="_">
+    <left>,/x  tendo/v  vários/x  surfistas/n  escolhido/v  o/x  local/n  para/i  praticar/v  surf/n  e/c  bodyboard/n ,/x  apesar/c  das/i  ondas/n  chegarem/v  até/r  aos/i  2,5m/m ./x &lt;/s&gt;&lt;s&gt; De/i</left>
+    <kwic> lembrar/v</kwic>
+    <right> que/c  Praia/n  do/i  Norte/n  costuma/v  ser/v  uma/x  das/i  etapas/n  portuguesas/j  do/i  circuito/n  mundial/j  de/i  bodyboard/j  APB/n ./x &lt;/s&gt;&lt;s&gt; Mesmo/r  tendo/v  estes/x</right>
+  </line>
+  <line refs="aeiou.pt" num="116" label="_">
+    <left>suas/x  devidas/j  posições/n  do/i  ter/v  dois/m  grandes/j  jogadores/n  desconfortáveis/j  taticamente/r ,/x  e/c  foi/v  isso/p  que/p  aconteceu/v  no/i  Porto/n ,/x</left>
+    <kwic> lembro-me/v</kwic>
+    <right> de/i  Deco/n  e/c  Alenitchev/n  no/i  banco/n  com/i  Capucho/n  a/i  10/m  num/i  jogo/n ,/x  é/v  que/c  depois/r  a/x  coisa/n  corria/v  tão/r  mal/r ,/x  que/c  nenhum/p  dos/i  dois/m  estava/v  a/i</right>
+  </line>
+  <line refs="diariodalagoa.pt" num="117" label="_">
+    <left>,/x  Canta/v  da/i  Maya/n  e/c  Roberto/n  Ivens/n ./x &lt;/s&gt;&lt;s&gt; Por/i  seu/x  turno/n ,/x  num/i  discurso/n  em/i  que/p  deixou/v  &quot;/x falar/v  o/x  coração/n &quot;/x ,/x  o/x  Presidente/n  da/i  República/n</left>
+    <kwic> lembrou/v</kwic>
+    <right> várias/x  ocasiões/n  de/i  diálogo/n  em/i  momentos/n  diversos/j  da/i  vida/n  de/i  Ponta/n  Delgada/j ,/x  afirmando/v  que/c  &quot;/x Antes/r  mesmo/r  de/i  receber/v  a/x  Chave/n</right>
+  </line>
+  <line refs="lojascomhistoria.pt" num="118" label="_">
+    <left>tempo/n ,/x  não/r  obstante/j  ser/v  um/x  repositório/n  de/i  memórias/n ,/x  objectos/n  e/c  modelos/n  de/i  óculos/n  que/p  a/x  moda/n  deixou/v  bem/r  para/i  trás/x ./x &lt;/s&gt;&lt;s&gt; Até/i  se/p</left>
+    <kwic> lembrar/v</kwic>
+    <right> de/i  os/x  ir/v  repescar/v ,/x  que/p  é/v  o/p  que/p  a/x  moda/n  faz/v  tão/r  bem/r ./x &lt;/s&gt;&lt;s&gt; Desde/i  1950/m ,/x  que/c  a/x  Jomil/n  passou/v  seis/m  vezes/n  de/i  geração/n  em/i  geração/n ,/x  não/r  só/r</right>
+  </line>
+  <line refs="sapo.pt" num="119" label="_">
+    <left>disponíveis/j  pelo/i  FB/n  para/i  identificar/v  15_milhões/m  de/i  eleitores/n  susceptíveis/j  de/i  votar/v  no/i  candidato/n ./x &lt;/s&gt;&lt;s&gt; Na/i  altura/n ,/x  bem/r  nos/p</left>
+    <kwic> lembramos/v</kwic>
+    <right> das/i  loas/n  tecidas/v  às/i  democráticas/j  redes/n  sociais/j  pelos/i  mesmos/p  que/p  hoje/r  rasgam/v  as/x  vestes/n  indignados/v  com/i  o/x  &quot;/x lapso/n &quot;/x</right>
+  </line>
+  <line refs="wone.pt" num="120" label="_">
+    <left>cara-metade/n  e/c  partir/v  à/i  descoberta/n  de/i  uma/x  das/i  cidades/n  mais/r  cool/n  da/i  Europa/n !/x &lt;/s&gt;&lt;s&gt; Um/x  tucano/n  que/p  brilha/v ,/x  a/x  cor/n  verde-água/j  que/p  faz/v</left>
+    <kwic> lembrar/v</kwic>
+    <right> as/x  cores/n  do/i  verãoe/n  o/x  conforto/n  do/i  algodão/n  stretch/n :/x  o/x  conjunto/n  ideal/j  para/i  o/x  bebé/n !/x &lt;/s&gt;&lt;s&gt; Vestido/v  para/i  bebé/n  menina/j :/x  Decote/n</right>
+  </line>
+  <line refs="fenprof.pt" num="121" label="_">
+    <left>Tavares/n  (/x Comentador/n  político/j )/x ;/x  Valter/n  Lemos/v  (/x Secretário/n  de/i  Estado/n  da/i  Educação/n )/x ./x &lt;/s&gt;&lt;s&gt; MENÇÃO/n  VERGONHOSA/j  &quot;/x NEM/c  AO/i  DIABO/n</left>
+    <kwic> LEMBRAVA/v</kwic>
+    <right>&quot;/x  (/x Relativa/j  à/i  medida/n  mais/r  disparatada/v  tomada/v  no/i  âmbito/n  da/i  Educação/n )/x :/x  Actividades/n  de/i  enriquecimento/n  curricular/j  (/x</right>
+  </line>
+  <line refs="apagina.pt" num="122" label="_">
+    <left>coração/n .../x  É/v  essencialmente/r  uma/x  festa/n  do/i  coração/n ,/x  não/r  é/v  uma/x  festa/n  por/i  imposição/n  de/i  nada/p ./x &lt;/s&gt;&lt;s&gt; A/i  mim/p  revolta-me/v  sempre/r  que/c  me/p</left>
+    <kwic> lembro/v</kwic>
+    <right> que/c  a/x  Câmara/n  quer/v  ao/i  fim/n  da/i  força/n  que/p  a/x  gente/n  vá/v  para/i  a/x  Ribeira/n  ver/v  o/x  fogo/n ./x &lt;/s&gt;&lt;s&gt; O/x  fogo/n ,/x  antigamente/r ,/x  lançava-se/v  do/i  lado/n  da/i  Serra/n</right>
+  </line>
+  <line refs="wintech.pt" num="123" label="_">
+    <left>cobertura/n  Wi-Fi/n  completa/v  em/i  casa/n ,/x  liga-se/v  sem/i  grandes/j  complicações/n ,/x  adapta-se/v  às/i  mudanças/n  de/i  Wi-Fi/n  e/c  ainda/r  consegue/v</left>
+    <kwic> lembrar-se/v</kwic>
+    <right> ativamente/r  dos/i  seus/x  hábitos/n  de/i  navegação/n  online/r ./x &lt;/s&gt;&lt;s&gt; O/x  torneio/n  se/p  diferenciava/v  na/i  competição/n  por/i  causa/n  do/i  número/n  de/i</right>
+  </line>
+  <line refs="timeout.pt" num="124" label="_">
+    <left>tipo/n :/x  foda-se/v .../x &lt;/s&gt;&lt;s&gt; Falávamos/v  há/v  pouco/r  de/i  teres/v  vontade/n  de/i  juntar/v  as/x  pessoas/n  e/c  poderes/v  fazer/v  algumas/x  coisas/n  de/i  graça/n ,/x  e/c</left>
+    <kwic> lembrei-me/v</kwic>
+    <right> que/c  no/i  teu/x  último/j  concerto/n  em/i  Lisboa/n ,/x  a/i  7/m  de/i  Outubro/n ,/x  no/i  Lux/n ,/x  também/r  não/r  se/p  pagava/v  para/i  entrar/v ./x &lt;/s&gt;&lt;s&gt; Pareces/v  querer/v  dar/v  algo/p  de/i</right>
+  </line>
+  <line refs="rtp.pt" num="125" label="_">
+    <left>destacou/v  o/x  investimento/n  na/i  requalificação/n  e/c  ampliação/n  da/i  aerogare/n  da/i  Graciosa/n ,/x  assinando/v  assim/r  nova/j  contradição/n &quot;/x ,/x</left>
+    <kwic> lembra/v</kwic>
+    <right> o/x  deputado/n ./x &lt;/s&gt;&lt;s&gt; Procurando/v  uma/x  unidade/n  PBF/n  em/i  Taunay/n  -/x  MS/n ?/x &lt;/s&gt;&lt;s&gt; Se/c  você/p  respondeu/v  sim/r ,/x  tentaremos/v  lhe/p  ajudar/v ./x &lt;/s&gt;&lt;s&gt; Veja/v  o/p  que/c  temos/v  de/i</right>
+  </line>
+  <line refs="algarvevivo.pt" num="126" label="_">
+    <left>tem/v  um/x  Autódromo/n ./x &lt;/s&gt;&lt;s&gt; TESTEMUNHOS/n &lt;/s&gt;&lt;s&gt; Um/x  espaço/n  de/i  proximidade/n &lt;/s&gt;&lt;s&gt; Paulo/n  Águas/n  •/x  Reitor/n  UALG/n &lt;/s&gt;&lt;s&gt; &quot;/x Quando/r  recordamos/v  o/x  passado/n ,/x</left>
+    <kwic> lembramo-nos/v</kwic>
+    <right> das/i  pessoas/n ,/x  que/p  são/v  o/p  que/p  mais/r  nos/p  marcam/v ./x &lt;/s&gt;&lt;s&gt; Lecionei/v  em/i  Portimão/n ,/x  logo/r  nos/i  primeiros/j  cursos/n ,/x  e/c  recordo/v  um/x  professor/n  de/i</right>
+  </line>
+  <line refs="capeiaarraiana.pt" num="127" label="_">
+    <left>que/p  lhe/p  foi/v  imposta/v  por/i  Bruxelas/n ./x &lt;/s&gt;&lt;s&gt; Portugal/n  foi/v  um/x  dos/i  países/n  que/p  mais/r  sofreu/v  com/i  essa/x  austeridade/n ,/x  todos/p  estamos/v</left>
+    <kwic> lembrados/v</kwic>
+    <right> da/i  Troika/n ,/x  e/c  dos/i  pedidos/n  que/p  o/x  então/r  Presidente/n  da/i  República/n ,/x  Cavaco/n  Silva/n ,/x  fez/v  à/i  Virgem/n  de/i  Fátima/n ,/x  (/x esquecendo/v  que/c  o/x</right>
+  </line>
+  <line refs="cm-grandola.pt" num="128" label="_">
+    <left>ao/i  Cidadão/n  Manoel/n  Nunes/n  da/i  Matta/n  como/c  arrematante/n  que/p  foi/v  das/i  antigas/j  Cazas/n  da/i  Commenda/n  sittas/j  na/i  praça/n  d/n  esta/x  Villa/n ;/x</left>
+    <kwic> lembrando/v</kwic>
+    <right> á/r  Camara/v  houvessem/v  de/i  mudar/v  o/x  lucal/n  da/i  Caza/n  do/i  Peixe/n  por/i  esta/x  pertencer/v  ao/i  mesmo/p  arrematante/n &quot;/x ./x &lt;/s&gt;&lt;s&gt; Volvidos/v  dez/m  anos/n ,/x  em/i</right>
+  </line>
+  <line refs="sapo.pt" num="129" label="_">
+    <left>levava/v  nele/i  toda/x  a/x  força/n  de/i  um/x  país/n &quot;/x  como/c  descreve/v  Vítor/n  Serpa/n ,/x  diretor/n  do/i  jornal/n  A/i  Bola/n ./x &lt;/s&gt;&lt;s&gt; Ele/p  que/c  este/p  esteve/v  lá/r ,/x  ele/p  que/p  se/p</left>
+    <kwic> lembra/v</kwic>
+    <right> como/c  foi/v ./x &lt;/s&gt;&lt;s&gt; O/x  golo/n  de/i  Carlos/n  Manuel/n  frente/n  à/i  Alemanha/n ,/x  em/i  Estugarda/n ,/x  a/i  16/m  de/i  outubro/n  de/i  1985/m ,/x  fez/v  pelo/i  país/n  aquilo/p  que/p  a/x</right>
+  </line>
+  <line refs="sapo.pt" num="130" label="_">
+    <left>uma/x  sociedade/n  mais/r  igualitária/j ,/x  saudável/j  e/c  justa/j &quot;/x ./x &lt;/s&gt;&lt;s&gt; Conforme/r  noticiado/v  pela/i  agência/n  Lusa/j ,/x  o/x  voto/n  apresentado/v  pelo/i  BE/n</left>
+    <kwic> lembra/v</kwic>
+    <right> que/c  &quot;/x só/r  em/i  2019/m  já/r  se/p  somam/v  18/m  vítimas/n  mortais/j  em/i  contexto/n  de/i  violência/n  doméstica/j &quot;/x ,/x  sendo/v  a/x  maior/j  parte/n  mulheres/n ,/x  16/m  no/i</right>
+  </line>
+  <line refs="aeiou.pt" num="131" label="_">
+    <left>neste/i  caso/n  esqueceu-se/v  de/i  adicionar/v  adjectivos/n  que/p  melhor/r  o/p  caracterizam/v :/x  &quot;/x atrasado/v &quot;/x  e/c  &quot;/x ignorante/j &quot;/x  são/v  duas/m  que/p  me/p</left>
+    <kwic> lembro/v</kwic>
+    <right>,/x  assim/r  só/r  de/i  repente/j .../x  &quot;/x É/v  bom/j  que/c  os/x  professores/n  continuem/v ,/x  como/c  estes/p ,/x  a/i  ensinar/v  mas/c  também/r  a/i  educar/v &quot;/x  –/x  ahhhh/n ,/x  a/x  arte/n  da/i</right>
+  </line>
+  <line refs="magazineserrano.pt" num="132" label="_">
+    <left>ainda/r  com/i  mais/r  afinco/n  na/i  época/n  de/i  2015/16/m ,/x  segundo/i  a/x  direção/n ,/x  que/c  tudo/p  promete/v  fazer/v  para/i  orgulhar/v  os/x  fornenses/n ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Lembrou/v</kwic>
+    <right> que/c  o/x  Governo/n  já/r  decidiu/v  fechar/v  o/x  tribunal/n  local/j  e/c ,/x  falando-se/v  agora/r  no/i  possível/j  fecho/n  das/i  finanças/n ,/x  &quot;/x começa/v  a/i  haver/v</right>
+  </line>
+  <line refs="tribunaexpresso.pt" num="133" label="_">
+    <left>dos/i  balneários/n  pus/v  uma/x  coisa/n  a/i  lembrar/v  relva/n ,/x  mais/r  gira/n ./x &lt;/s&gt;&lt;s&gt; Também/r  mudei/v  as/x  paredes/n ./x &lt;/s&gt;&lt;s&gt; Um/x  cenário/n  diferente/j  para/i  eles/p  não/r  se/p</left>
+    <kwic> lembrarem/v</kwic>
+    <right> daqueles/i  momentos/n ./x &lt;/s&gt;&lt;s&gt; Foi/v  bom/j  eles/p  terem/v  regressado/v ,/x  porque/c  são/v  jogadores/n  que/p  fazem/v  a/x  diferença/n ./x &lt;/s&gt;&lt;s&gt; O/x  Sporting/n  tem/v  um/x</right>
+  </line>
+  <line refs="fne.pt" num="134" label="_">
+    <left>de/i  todo/x  o/x  trabalho/n  que/p  os/x  professores/n  realizaram/v  em/i  9/m  anos/n ,/x  4/m  meses/n  e/c  2/m  dias/n ./x &lt;/s&gt;&lt;s&gt; Digamos/v  bem/r  alto/j  para/i  que/p  se/p  ouça/v  e/c</left>
+    <kwic> lembre/v</kwic>
+    <right> o/p  que/p  é/v  nosso/j :/x  9/m  4/m  2/m ./x &lt;/s&gt;&lt;s&gt; Nesse/i  tempo/n ,/x  os/x  alunos/n  tiveram/v  aulas/n ,/x  nesse/i  tempo/n ,/x  os/x  alunos/n  foram/v  avaliados/v ,/x  nesse/i  tempo/n ,/x  os/x  alunos/n</right>
+  </line>
+  <line refs="upp.pt" num="135" label="_">
+    <left>pão/n  com/i  chouriça/n ,/x  uns/x  queijinhos/n  destes/i  de/i  cabra/n ,/x  custavam/v  dez/m  réis/n ./x &lt;/s&gt;&lt;s&gt; Ainda/r  sou/v  do/i  tempo/n  dos/i  meios/n  tostões/n .../x  Também/r  me/p</left>
+    <kwic> lembro/v</kwic>
+    <right> do/i  racionamento/n ./x &lt;/s&gt;&lt;s&gt; Quando/r  íamos/v  ao/i  pão/n ,/x  íamos/v  em/i  grupo/n ,/x  íamos/v  ao/i  armazém/n  do/i  pão/n  à/i  Arrábida/j ,/x  também/r  íamos/v  ao/i  Bolhão/n ,/x  para/i  a/x</right>
+  </line>
+  <line refs="erosguia.pt" num="136" label="_">
+    <left>,/x  entre/i  outros/p ./x &lt;/s&gt;&lt;s&gt; Equus/n &lt;/s&gt;&lt;s&gt; Comentando/v  com/i  um/x  amigo/n  sobre/i  esta/x  relação/n  entre/i  animais/n  racionais/n //x irracionais/n //x amor/n //x sexo/n  ele/p</left>
+    <kwic> lembrou-se/v</kwic>
+    <right> de/i  um/x  filme/n  de/i  1977/m ./x &lt;/s&gt;&lt;s&gt; O/x  filme/n  em/i  questão/n  tinha/v  o/x  título/n  Equus/n ,/x  onde/r  um/x  psiquiatra/n  tenta/v  tratar/v  um/x  jovem/n  que/p  cegava/v  cavalos/n ,/x</right>
+  </line>
+  <line refs="ubi.pt" num="137" label="_">
+    <left>&quot;/x estes/x  jogos/n  fizeram/v  jus/n  ao/i  objetivo/n  principal/j  da/i  APPACDM/n ,/x  uma/x  vez/n  que/p  a/x  inclusão/n  também/r  se/p  materializa/v  no/i  desporto/n &quot;/x ,/x</left>
+    <kwic> lembrou/v</kwic>
+    <right>./x &lt;/s&gt;&lt;s&gt; Grupo/n  Life/n  Brasil/j  divulga/v  relatório/n  econômico/j  de/i  abril/n &lt;/s&gt;&lt;s&gt; MetLife/n  e/c  Banco/n  Original/j  anunciam/v  parceria/n  inédita/j  para/i</right>
+  </line>
+  <line refs="i-tecnico.pt" num="138" label="_">
+    <left>,/x  ao/i  encontrar/v  o/x  seu/x  lar/n  de/i  pernas/n  para/i  o/x  ar/n ,/x  descobrir/v  que/p  você/p  foi/v  assaltado/v ,/x  pois/c  os/x  criminosos/n  sabiam/v  da/i  sua/x  ausência/n ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Lembre-se/v</kwic>
+    <right>.../x &lt;/s&gt;&lt;s&gt; Um/x  e-mail/n  pode/v  ficar/v  um/x  tempo/n  indeterminado/v  na/i  caixa/n  de/i  correio/n  daquele/i  que/p  enviou/v  como/r  daquele/i  que/p  recebeu/v ,/x  sendo/v</right>
+  </line>
+  <line refs="terranova.pt" num="139" label="_">
+    <left>quem/p  nos/p  representa/v  para/i  conseguirmos/v  rapidamente/r  um/x  mundo/n  com/i  baixo/j  nível/n  de/i  carbono/n &quot;/x ./x &lt;/s&gt;&lt;s&gt; E/c  como/c  nunca/r  é/v  demais/r</left>
+    <kwic> lembrar/v</kwic>
+    <right> que/c  há/v  pequenas/j  ações/n  que/p  podemos/v  fazer/v  todos/x  os/x  dias/n  para/i  ajudarmos/v  na/i  solução/n  para/i  a/x  crise/n  climática/j ,/x  aqui/r  ficam/v  elas/p :/x &lt;/s&gt;</right>
+  </line>
+  <line refs="bombeiros.pt" num="140" label="_">
+    <left>Bombeiros/n  sofreram/v  um/x  desgaste/n  nos/i  materiais/n  e/c  equipamentos/n  das/i  corporações/n  envolvidas/v  no/i  combate/n  aos/i  incêndios/n &quot;/x ,/x</left>
+    <kwic> lembra/v</kwic>
+    <right> o/x  centro/n  comercial/j  em/i  nota/n  enviada/v  à/i  imprensa/n ./x &lt;/s&gt;&lt;s&gt; &quot;/x Para/i  agradecer/v  o/x  trabalho/n  destes/i  heróis/n ,/x  o/x  Madeira/n  Shopping/n  decidiu/v</right>
+  </line>
+  <line refs="sapo.pt" num="141" label="_">
+    <left>a/i  filtrar/v  o/x  ruído/n ./x &lt;/s&gt;&lt;s&gt; Mania/v  de/i  dizer/v  borrada/v  só/r  para/i  se/p  sentirem/v  vivos/j ./x &lt;/s&gt;&lt;s&gt; Tens/v  a/x  certeza/n  do/i  que/p  estás/v  a/i  afirmar/v ?/x &lt;/s&gt;&lt;s&gt; Devia-te/v</left>
+    <kwic> lembrar/v</kwic>
+    <right> a/x  forma/n  como/c  as/x  senhas/n  foram/v  obtidas/v ?/x &lt;/s&gt;&lt;s&gt; Sabes/v  o/p  que/p  é/v  brute/v  force/v ?/x &lt;/s&gt;&lt;s&gt; A/x  icloud/n  simplesmente/r  deixou/v  que/c  fosse/v  testadas/v  várias/x</right>
+  </line>
+  <line refs="sapo.pt" num="142" label="_">
+    <left>Studios/n  que/p  foram/v  os/x  responsáveis/n  por/i  Star/n  Wars/n  Battlefront/n  II/n ,/x  o/p  que/p  lhes/p  dá/v  experiência/n  em/i  jogos/n  Star/n  Wars/n ./x &lt;/s&gt;&lt;s&gt; Caso/c  se/p</left>
+    <kwic> lembrem/v</kwic>
+    <right>,/x  Battlefront/n  já/r  tinha/v  alguns/x  combates/n  aéreos/j  com/i  Tie/n  Fighers/n ,/x  Tie/n  Bombers/n  contra/i  X-Wings/n  e/c  Y-Wings/n  mas/c  eram/v  bastante/r</right>
+  </line>
+  <line refs="creditocapital.pt" num="143" label="_">
+    <left>anúncio/n  a/i  que/p  está/v  a/i  responder/v ,/x  senão/r  acredite/v  que/c  vai/v  criar/v  uma/x  impressão/n  negativa/j ./x &lt;/s&gt;&lt;s&gt; 8/m  -/x  Evite/v  terminar/v  com/i  banalidades/n &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Lembre-se/v</kwic>
+    <right> que/c  a/x  última/j  impressão/n  é/v  tão/r  importante/j  como/c  a/x  primeira/j ./x &lt;/s&gt;&lt;s&gt; Assim/r  sendo/v ,/x  não/r  escreva/v  frases/n  feitas/v  mas/c ,/x  por/i  exemplo/n ,/x  &quot;/x Se/p</right>
+  </line>
+  <line refs="rtp.pt" num="144" label="_">
+    <left>vão/v  flutuar/v  boias/n  náuticas/j  ancoradas/v  por/i  bolas/n  de/i  chumbo/n ,/x  e/c  outra/p  no/i  muro/n  do/i  consulado/n ,/x  com/i  floreiras/n  com/i  gerânios/n ,/x  que/p</left>
+    <kwic> lembram/v</kwic>
+    <right> casas/n  e/c  edifícios/n  da/i  capital/n  portuguesa/j ./x &lt;/s&gt;&lt;s&gt; A/x  exposição/n  terá/v  entrada/n  gratuita/j  ao/i  público/n  e/c  ficará/v  disponível/j  de/i  31/m  de/i</right>
+  </line>
+  <line refs="gppsd.pt" num="145" label="_">
+    <left>portugueses/j &quot;/x ./x &lt;/s&gt;&lt;s&gt; Numa/i  declaração/n  política/j  sobre/i  a/x  problemática/n  do/i  Emprego/n  e/c  Situação/n  Social/j ,/x  o/x  social-democrata/j</left>
+    <kwic> lembrou/v</kwic>
+    <right> que/c  o/x  PS/n ,/x  apesar/c  de/i  no/i  seu/x  programa/n  eleitoral/j  afirmar/v  a/x  juventude/n  e/c  a/x  garantia/n  das/i  condições/n  de/i  sua/x  empregabilidade/n  como/c</right>
+  </line>
+  <line refs="xmusic.pt" num="146" label="_">
+    <left>,/x  recorda-se/v  do/i  tempo/n  em/i  que/p  era/v  o/x  Dejan/n  o/x  aluno/n ?/x &lt;/s&gt;&lt;s&gt; Essa/x  consciência/n  é/v  importante/j  para/i  o/x  Dejan/n  professor/n ?/x &lt;/s&gt;&lt;s&gt; Tento/v  sempre/r</left>
+    <kwic> lembrar-me/v</kwic>
+    <right> para/i  que/c ,/x  através/r  da/i  minha/x  própria/j  experiência/n ,/x  compreenda/v  melhor/r  os/x  alunos/n ./x &lt;/s&gt;&lt;s&gt; Mas/c ,/x  às/i  vezes/n ,/x  isso/p  é/v  mais/r  fácil/j  dizer/v  do/i</right>
+  </line>
+  <line refs="avante.pt" num="147" label="_">
+    <left>a/x  produção/n  do/i  Clio/n  IV/n  para/i  a/x  Turquia/n  se/p  concretizar/v ,/x  o/x  Estado/n  francês/j  não/r  poderá/v  deixar/v  de/i  reagir/v &quot;/x ,/x  avisa/v  a/x  CGTP/n ,/x</left>
+    <kwic> lembrando/v</kwic>
+    <right> que/c  a/x  Renault/n  recebeu/v  uma/x  importante/j  fatia/n  de/i  dinheiros/n  públicos/j  no/i  âmbito/n  do/i  plano/n  de/i  ajuda/n  à/i  indústria/n  automóvel/n :/x</right>
+  </line>
+  <line refs="iol.pt" num="148" label="_">
+    <left>da/i  seleção/n  do/i  Vietname/n  e/c  então/r  presidente/n  do/i  Ho/n  Chi/n  Minh/n ,/x  andava/v  à/i  procura/n  de/i  um/x  médio-centro/n ./x  &quot;/x Foi/v  engraçado/v  ele/p  ter-se/v</left>
+    <kwic> lembrado/v</kwic>
+    <right> de/i  mim/p  e/c  acabou/v  por/i  fazer/v  muita/x  força/n  para/i  que/p  eu/p  viesse/v ,/x  com/i  a/x  ajuda/n  do/i  Tiago/n  Calisto/n ,/x  filho/n  do/i  Henrique/n  Calisto/n ,/x  que/p  é/v</right>
+  </line>
+  <line refs="sapo.pt" num="149" label="_">
+    <left>do/i  jantar/v ,/x  e/c  para/i  a/x  festa/n  propriamente/r  dita/v ,/x  Chiara/v  optou/v  por/i  uma/x  versão/n  mini/j  do/i  segundo/j  vestido/n ./x &lt;/s&gt;&lt;s&gt; A/x  saia/n  em/i  tule/n  fazia/v</left>
+    <kwic> lembrar/v</kwic>
+    <right> os/x  tutus/n  das/i  bailarinas/n  clássicas/j ./x &lt;/s&gt;&lt;s&gt; Todos/x  os/x  vestidos/n  foram/v  combinados/v  com/i  sapatos/n  Dior/n ,/x  com/i  o/x  nome/n  da/i  noiva/n ,/x  com/i</right>
+  </line>
+  <line refs="casamentos.pt" num="150" label="_">
+    <left>./x &lt;/s&gt;&lt;s&gt; Para/i  nos/p  consciencializarmos/v  mais/r  a/i  nós/p  próprios/j  e/c  aos/i  outros/p ,/x  que/p  tal/r  optar/v  por/i  esta/x  alternativa/n  mais/r  sustentável/j ?/x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Lembrem-se/v</kwic>
+    <right> que/p  personalizar/v  a/x  garrafa/n  colocando/v  o/x  nome/n  do/i  padrinho/n  ou/c  algum/x  símbolo/n  ao/i  qual/p  se/p  associem/v  mutuamente/r  vai/v  tornar/v  esta/x</right>
+  </line>
+  <line refs="solidariedade.pt" num="151" label="_">
+    <left>o/x  despertar/v  têm/v  um/x  importante/j  papel/n  nessas/i  mudanças/n ,/x  dado/v  que/p  são/v  regidos/v  por/i  um/x  padrão/n  regular/j  dia/n //x noite/n ./x &lt;/s&gt;&lt;s&gt; O/x  cientista/n</left>
+    <kwic> lembrou/v</kwic>
+    <right> que/c  há/v  um/x  relógio/n  interno/j ,/x  conhecido/v  como/c  marca-passos/n  circadiano/j  endógeno/j ,/x  que/p  dirige/v  a/x  fisiologia/n  inclusive/r</right>
+  </line>
+  <line refs="solidariedade.pt" num="152" label="_">
+    <left>traga/v ,/x  portanto/c ,/x  agarrada/v  a/i  si/p ,/x  uma/x  ideia/n  de/i  justiça/n  e/c  de/i  humanidade/n ./x &lt;/s&gt;&lt;s&gt; A/i  este/x  propósito/n ,/x  as/x  pessoas/n  de/i  mais/r  idade/n  ainda/r  se/p</left>
+    <kwic> lembram/v</kwic>
+    <right> de/i  que/p  foi/v  a/i  esta/x  protecção/n ,/x  então/r  na/i  Embaixada/n  do/i  Brasil/n ,/x  que/p  se/p  acolheu/v  o/x  General/n  Humberto/n  Delgado/j ,/x  após/i  as/x  eleições/n ,/x</right>
+  </line>
+  <line refs="dinheirovivo.pt" num="153" label="_">
+    <left>dinâmica/j  e/c  capaz/j  de/i  aproveitar/v  as/x  oportunidades/n &quot;/x ,/x  sublinha/v ./x &lt;/s&gt;&lt;s&gt; Questionado/v  pelo/i  analistas/n ,/x  este/x  responsável/n</left>
+    <kwic> lembrou/v</kwic>
+    <right> o/x  &quot;/x portefólio/n  muito/r  rico/j &quot;/x  da/i  companhia/n  no/i  upstream/n ,/x  mas/c ,/x  também/r ,/x  as/x  suas/x  ambições/n  na/i  área/n  comercial/j  e/c  das/i  renováveis/j ,/x</right>
+  </line>
+  <line refs="sapo.pt" num="154" label="_">
+    <left>,/x  Sampaio/n  da/i  Nóvoa/n  ou/c  Silva/n  Peneda/n ./x &lt;/s&gt;&lt;s&gt; O/x  jornalista/n  e/c  comentador/n  do/i  programa/n  Governo/n  Sombra/n  não/r  ignorou/v  as/x  críticas/n  e/c</left>
+    <kwic> lembrou/v</kwic>
+    <right>,/x  no/i  discurso/n  que/p  fez/v  na/i  cerimónia/n  do/i  Dia/n  de/i  Portugal/n ,/x  de/i  Camões/n  e/c  das/i  Comunidades/n ,/x  que/c  muita/x  gente/n  &quot;/x ficou/v  espantada/v &quot;/x ./x &lt;/s&gt;</right>
+  </line>
+  <line refs="emissoradasbeiras.pt" num="155" label="_">
+    <left>eleitoral/j  de/i  Viseu/n ,/x  e/c  foi/v  um/m  dos/i  quatro/m  eleitos/n  deste/i  partido/n  nas/i  legislativas/j  de/i  domingo/n ./x &lt;/s&gt;&lt;s&gt; O/x  autarca/n ,/x  de/i  44/m  anos/n ,/x</left>
+    <kwic> lembrou/v</kwic>
+    <right> que/c  tem/v  cargos/n  em/i  vários/x  organismos/n ,/x  de/i  que/p  são/v  exemplo/n  o/x  Conselho/n  Regional/j  do/i  Centro/n ,/x  a/x  Comunidade/n  Intermunicipal/j</right>
+  </line>
+  <line refs="rtp.pt" num="156" label="_">
+    <left>superior/j  ao/i  registado/v  no/i  período/n  homólogo/j ./x &lt;/s&gt;&lt;s&gt; Angola/n  é/v  o/x  principal/j  gerador/n  dos/i  lucros/n  da/i  instituição/n ./x &lt;/s&gt;&lt;s&gt; Miguel/n  Frasquilho/n</left>
+    <kwic> lembra/v</kwic>
+    <right> que/c  a/x  circulação/n  de/i  capitais/n  é/v  livre/j  na/i  Europa/n  e/c  adianta/v  que/c  &quot;/x o/p  que/p  é/v  preciso/j  investigar/v  são/v  os/x  rendimentos/n  que/p</right>
+  </line>
+  <line refs="abola.pt" num="157" label="_">
+    <left>um/x  erro/n  deixar/v  sair/v  Nélson/n  Semedo/n &quot;/x &lt;/s&gt;&lt;s&gt; Por/i  Redação/n &lt;/s&gt;&lt;s&gt; É/v  o/x  conselho/n  de/i  Hélder/n  Cristóvão/n  deixa/v  aos/i  dirigentes/n  do/i  Barcelona/n ,/x</left>
+    <kwic> lembrando/v</kwic>
+    <right> que/c  o/x  internacional/j  português/n  tem/v  vindo/v  gradualmente/r  a/i  adaptar-se/v  ao/i  clube/n ./x &lt;/s&gt;&lt;s&gt; &quot;/x Seria/v  um/x  erro/n  deixar/v  sair/v  Nélson/n  Semedo/n ./x &lt;/s&gt;</right>
+  </line>
+  <line refs="uc.pt" num="158" label="_">
+    <left>um/x  testador/n  de/i  válvulas/n  controlado/v  por/i  computador/n  para/i  medir/v  e/c  registar/v  as/x  suas/x  carcterísticas/n ./x &lt;/s&gt;&lt;s&gt; Sem/i  dúvida/n ;/x</left>
+    <kwic> lembrei-me/v</kwic>
+    <right>,/x  a/x  propósito/n ,/x  que/p  há/v  um/x  nicho/n  de/i  mercado/n  (/x das/i  válvulas/n )/x  nos/i  amplificadores/n  para/i  guitarras/n  eléctricas/j  onde/r  a/x  distorção/n</right>
+  </line>
+  <line refs="diariodalagoa.pt" num="159" label="_">
+    <left>,/x  conhecida/v  popularmente/r  por/i  maçã-de-Adão/n ./x &lt;/s&gt;&lt;s&gt; É/v  constituída/v  por/i  dois/m  lobos/n ,/x  unidos/v  no/i  centro/n  pelo/i  istmo/n ./x &lt;/s&gt;&lt;s&gt; A/x  sua/x  forma/n  faz/v</left>
+    <kwic> lembrar/v</kwic>
+    <right> uma/x  borboleta/n  de/i  asas/n  abertas/j ./x &lt;/s&gt;&lt;s&gt; Tem/v  como/c  função/n  produzir/v  e/c  libertar/v  na/i  circulação/n  sanguínea/j  duas/m  hormonas/n ,/x  a/x</right>
+  </line>
+  <line refs="cm-idanhanova.pt" num="160" label="_">
+    <left>de/i  melancia/n  e/c  outros/x  produtos/n  regionais/j ./x &lt;/s&gt;&lt;s&gt; O/x  presidente/n  da/i  Câmara/n  Municipal/j  de/i  Idanha-a-Nova/n ,/x  Armindo/n  Jacinto/n ,/x</left>
+    <kwic> lembrou/v</kwic>
+    <right> que/c  &quot;/x há/v  12/m  edições/n  atrás/r  eram/v  apenas/r  três/m  os/x  expositores/n ./x &lt;/s&gt;&lt;s&gt; Hoje/r  produzem-se/v  na/i  campina/n  da/i  Idanha/n ,/x  em/i  particular/n  no/i</right>
+  </line>
+  <line refs="rtp.pt" num="161" label="_">
+    <left>,/x  o/x  qualificativo/n  de/i  &quot;/x antisemitismo/n &quot;/x  merece/v  também/r  uma/x  crítica/n  severa/j  por/i  parte/n  da/i  Plataforma/n ./x &lt;/s&gt;&lt;s&gt; O/x  texto/n  dos/i  graffitis/j ,/x</left>
+    <kwic> lembra/v</kwic>
+    <right>,/x  incluía/v  a/x  inscrição/n  &quot;/x Free/n  Palestine/n  [/x Libertem/v  a/x  Palestina/n ]/x &quot;/x ./x &lt;/s&gt;&lt;s&gt; Ora/r  esta/p  é/v ,/x  segundo/i  o/x  comunicado/n ,/x  &quot;/x uma/x  palavra/n  de/i  ordem/n</right>
+  </line>
+  <line refs="hovo.pt" num="162" label="_">
+    <left>qual/p  é/v  a/x  nossa/x  marca/n  de/i  calçado/n  favorita/j ,/x  a/x  primeira/j  coisa/n  que/p  nos/p  vem/v  à/i  mente/n  é/v  o/x  logotipo/n ./x &lt;/s&gt;&lt;s&gt; Mais/r  facilmente/r  nos/p</left>
+    <kwic> lembramos/v</kwic>
+    <right> da/i  imagem/n ,/x  do/i  que/p  propriamente/r  do/i  nome/n ./x &lt;/s&gt;&lt;s&gt; Daí/i  a/x  importância/n  de/i  ter/v  um/x  bom/j  logotipo/n  para/i  beneficiar/v  a/x  empresa/n ./x &lt;/s&gt;&lt;s&gt; Estabelece/v</right>
+  </line>
+  <line refs="online24.pt" num="163" label="_">
+    <left>,/x  amorosa/j  e/c  dedicada/v  que/p  és/v ,/x  um/x  beijo/n  muito/r  especial/j  da/i  tua/x  filha/n  (/x o/x )/x  que/p  te/p  ama/v  muito/r !/x &lt;/s&gt;&lt;s&gt; Parabéns/n  Mãe/n !/x &lt;/s&gt;&lt;s&gt; Hoje/r  eu/p  quero/v  te/p</left>
+    <kwic> lembrar/v</kwic>
+    <right> que/c  te/p  amo/v  muito/r  e/c  que/p  és/v  muito/r  especial/j  e/c  importante/j  para/i  mim/p ./x &lt;/s&gt;&lt;s&gt; Obrigado/v  por/i  todos/x  estes/x  anos/n  de/i  amor/n ,/x  carinho/n ,/x</right>
+  </line>
+  <line refs="danossacozinha.pt" num="164" label="_">
+    <left>?/x &lt;/s&gt;&lt;s&gt; Não/r  sei/v  há/v  quanto/r  tempo/n ,/x  tenho/v  a/x  ideia/n  de/i  que/p  as/x  embalagens/n  eram/v  azuis/j ,/x  mas/c  já/r  não/r  tenho/v  a/x  certeza/n .../x  Mas/c ,/x  engraçado/v ,/x</left>
+    <kwic> lembro-me/v</kwic>
+    <right> perfeitamente/r  do/i  sabor/n ,/x  é/v  uma/x  recordação/n  de/i  infância/n ./x &lt;/s&gt;&lt;s&gt; Reencontrei-os/v  graças/n  ao/i  Instagram/n !/x &lt;/s&gt;&lt;s&gt; Hurray/n !/x &lt;/s&gt;&lt;s&gt; Fotos/n  de/i  uma/x</right>
+  </line>
+  <line refs="ipsantarem.pt" num="165" label="_">
+    <left>ISSO/p  QUE/p  DEVERÁS/v  FAZER/v ./x &lt;/s&gt;&lt;s&gt; Só/r  um/x  adulto/n  saberá/v  como/c  proceder/v  numa/i  situação/n  grave/j  como/c  esta/p ./x &lt;/s&gt;&lt;s&gt; Por/i  isso/p ,/x  tem/v  CORAGEM/n  e/c</left>
+    <kwic> lembra-te/v</kwic>
+    <right> que/c  o/x  adulto/n  com/i  quem/p  falares/n  (/x pai/n ,/x  mãe/n ,/x  familiar/j  ou/c  professor/n )/x  vai/v  colocar/v  a/x  tua/x  segurança/n  e/c  bem/r  estar/v  acima/r  de/i  qualquer/x</right>
+  </line>
+  <line refs="sapo.pt" num="166" label="_">
+    <left>!/x &lt;/s&gt;&lt;s&gt; Adoro/v  tudo/p ,/x  tudo/p  mesmo/r !/x &lt;/s&gt;&lt;s&gt; O/x  calçado/n  é/v  soberbo/n !/x &lt;/s&gt;&lt;s&gt; Não/r  esquecer/v  que/c  Miguel/n  Vieira/n  começou/v  a/x  sua/x  carreira/n  com/i  o/x  calçado/n !/x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Lembro-me/v</kwic>
+    <right> perfeitamente/r  quando/r  começou/v  a/i  ser/v  conhecido/v  pelo/i  seu/x  calçado/n ,/x  tinha/v  modelos/n  de/i  botas/n  lindas/j  de/i  morrer/v !/x &lt;/s&gt;&lt;s&gt; A./n &lt;/s&gt;&lt;s&gt; pesquisa/v &lt;/s&gt;</right>
+  </line>
+  <line refs="zerozero.pt" num="167" label="_">
+    <left>,/x  etc/n ,/x  mas/c  estamos/v  aqui/r  a/i  falar/v  daquilo/i  que/p  nos/p  lembramos/v ,/x  obviamente/r  que/c  a/x  maior/j  parte/n  do/i  pessoal/n  que/p  aqui/r  comenta/v  ñ/r  se/p</left>
+    <kwic> lembra/v</kwic>
+    <right> de/i  Yazalde/n ,/x  Eusébio/n ,/x  e/c  muito/r  menos/r  de/i  Fernando/n  Peyroteu/n ,/x  incluindo/v  eu/p ./x &lt;/s&gt;&lt;s&gt; Daquilo/i  que/p  me/p  lembro/v ,/x  Jardel/n  foi/v  a/x  maior/j</right>
+  </line>
+  <line refs="goalpoint.pt" num="168" label="_">
+    <left>da/i  juventude/n  costuma/v  oferecer/v  aos/i  mais/r  capazes/j ./x &lt;/s&gt;&lt;s&gt; Mas/c  nem/c  tudo/p  foram/v  &quot;/x rosas/n &quot;/x  na/i  nossa/x  relação/n  com/i  Jonas/n ./x &lt;/s&gt;&lt;s&gt; Também/r  nos/p</left>
+    <kwic> lembramos/v</kwic>
+    <right> da/i  vez/n  em/i  que/p ,/x  sabedores/n  da/i  dificuldade/n  em/i  conquistar/v  um/x  &quot;/x 10.0/m &quot;/x  no/i  nosso/x  rating/n ,/x  fizemos/v  fé/n  na/i  longa/j  duração/n  num/i  dos/i</right>
+  </line>
+  <line refs="sicnoticias.pt" num="169" label="_">
+    <left>,/x  que/p  até/r  acabam/v  por/i  não/r  dar/v  o/x  passo/n  em/i  frente/n ,/x  do/i  ponto/n  de/i  vista/n  jurídico/j &quot;/x ,/x  explica/v  Carolina/j  Amante/n ./x &lt;/s&gt;&lt;s&gt; A/x  advogada/n</left>
+    <kwic> lembra/v</kwic>
+    <right> que/c  &quot;/x o/x  assédio/n  moral/j  não/r  é/v  crime/n ,/x  no/i  entanto/r ,/x  é/v  possível/j  criminalizar/v  através/r  de/i  outras/x  molduras/n  penais/j ,/x  por/i  exemplo/n ,/x</right>
+  </line>
+  <line refs="aeiou.pt" num="170" label="_">
+    <left>no/i  Bla/n ?/x &lt;/s&gt;&lt;s&gt; Rp/n :/x  Coliseu/n  4/m ./x &lt;/s&gt;&lt;s&gt; Qual/p  o/x  guru/n  com/i  quem/p  se/p  ri/v  mais/r ?/x &lt;/s&gt;&lt;s&gt; Rp/n :/x  A/x  minha/x  mana/j  Igha_Ara/n  5/m ./x &lt;/s&gt;&lt;s&gt; Qual/p  o/x  guru/n  que/p  mais/r  o/x //x a/x  irrita/v ?/x &lt;/s&gt;&lt;s&gt; Rp/n :/x  Ñ/n  me/p</left>
+    <kwic> lembro/v</kwic>
+    <right> de/i  me/p  irritar/v  com/i  gurus/n ,/x  mas/c  já/r  houve/v  nics/n  não/r  registados/v  que/c  me/p  tiraram/v  do/i  sério/n !/x !/x &lt;/s&gt;&lt;s&gt; Provavelmente/r  eram/v  gurus/n  sem/i  roupa/n</right>
+  </line>
+  <line refs="solidariedade.pt" num="171" label="_">
+    <left>,/x  que/p  notou/v :/x  &quot;/x Todos/p  reconhecem/v  a/x  importância/n  da/i  Economia/n  Social/j ,/x  mas/c  demora/v  a/i  haver/v  consequências/n  práticas/j ./x &lt;/s&gt;&lt;s&gt; E/c ,/x</left>
+    <kwic> lembrem-se/v</kwic>
+    <right>,/x  esta/x  união/n  não/r  vai/v  acabar/v  com/i  os/x  problemas/n  individuais/j !/x &quot;/x ./x &lt;/s&gt;&lt;s&gt; Augusto/j  Flor/n ,/x  da/i  Confederação/n  Portuguesa/j  das/i</right>
+  </line>
+  <line refs="parlamento.pt" num="172" label="_">
+    <left>&lt;s&gt; Por/i  fim/n ,/x  Miguel/n  Macedo/n  centrou-se/v  na/i  questão/n  da/i  confiança/n  que/p  os/x  portugueses/n  poder/v  ter/v  no/i  Governo/n ./x &lt;/s&gt;&lt;s&gt; O/x  social-democrata/j</left>
+    <kwic> lembrou/v</kwic>
+    <right> que/c  no/i  primeiro/j  debate/n  que/p  teve/v  com/i  o/x  líder/n  parlamentar/j  perguntou/v  duas/m  vezes/n  se/c  o/x  IVA/n  ia/v  aumentar/v ,/x  tendo/v  o/x  Primeiro/j</right>
+  </line>
+  <line refs="viajarentreviagens.pt" num="173" label="_">
+    <left>naturais/j  da/i  Punta/n  del/n  Hidalgo/n &lt;/s&gt;&lt;s&gt; Punta/n  del/n  Hidalgo/n  é/v  uma/x  povoação/n  ainda/r  longe/r  dos/i  olhares/v  dos/i  turistas/n  estrangeiros/j ./x &lt;/s&gt;&lt;s&gt; Faz/v</left>
+    <kwic> lembrar/v</kwic>
+    <right> as/x  praias/n  de/i  Portugal/n ,/x  nos/i  anos/n  80/m ,/x  quando/r  se/p  enchiam/v  dos/i  visitantes/j  veraneantes/n  que/p  vinham/v  do/i  interior/n  do/i  país/n ./x &lt;/s&gt;&lt;s&gt; É/v  uma/x</right>
+  </line>
+  <line refs="dn.pt" num="174" label="_">
+    <left>um/x  bar/n  que/p  ficava/v  perto/r  da/i  urgência/n  e/c  transformámo-lo/v  em/i  bloco/n  de/i  observações/n ,/x  para/i  que/p  os/x  doentes/n  não/r  se/p  misturassem/v ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Lembro/v</kwic>
+    <right> que/c  na/i  altura/n  algumas/x  pessoas/n  até/r  pensavam/v  que/c  era/v  um/x  desperdício/n  termos/n  34/m  camas/n  desativadas/v ./x &lt;/s&gt;&lt;s&gt; Mas/c  no/i  dia/n  1/m  de/i  março/n ,/x  às/i</right>
+  </line>
+  <line refs="cpidt.pt" num="175" label="_">
+    <left>Camiões/n  são/v  provas/n  de/i  grande/j  impacto/n  na/i  cena/n  automobilística/j  além/r  fronteiras/n ./x &lt;/s&gt;&lt;s&gt; E/c  que/c  venha/v  o/x  DTM/n  para/i  os/x  estrangeiros/n  se/p</left>
+    <kwic> lembrarem/v</kwic>
+    <right> que/c  por/i  estas/x  bandas/n  também/r  existem/v  corridas/v  de/i  automóveis/n ./x &lt;/s&gt;&lt;s&gt; Actualizado/v  às/i  19.30/m :/x  Calendário/n  Provisório/j :/x  28/m  Março/n  -/x</right>
+  </line>
+  <line refs="utad.pt" num="176" label="_">
+    <left>&quot;/x &lt;/s&gt;&lt;s&gt; Pedro/v  Caixinha/n  é/v  um/x  dos/i  símbolos/n  do/i  desporto/n  da/i  UTAD/n ./x &lt;/s&gt;&lt;s&gt; Atualmente/r  aos/i  comandos/n  do/i  Santos/j  Laguna/n ,/x  no/i  México/n ,/x  o/x  treinador/n</left>
+    <kwic> lembra/v</kwic>
+    <right> com/i  saudade/n  a/i  passagem/n  pela/i  academia/n  transmontana/j ./x &lt;/s&gt;&lt;s&gt; &quot;/x Todos/p  falavam/v  maravilhas/n  da/i  licenciatura/n  da/i  UTAD/n ,/x  da/i  cidade/n  e/c  da/i</right>
+  </line>
+  <line refs="publico.pt" num="177" label="_">
+    <left>,/x  liberdades/n  e/c  garantias/n  a/i  defender/v  isto/p ,/x  em/i  tiques/n  Estalinistas/j  é/v  triste/j ./x &lt;/s&gt;&lt;s&gt; Este/x  ódio/n  cego/j  a/i  todos/p  os/p  que/p  têm/v  um/x  pouco/p  mais/r</left>
+    <kwic> lembra-nos/v</kwic>
+    <right> bem/r  da/i  mesquinhez/n  de/i  país/n  em/i  que/p  vivemos/v ,/x  onde/r  o/x  Presidente/n  da/i  República/n  se/p  oferece/v  para/i  pagar/v  o/x  avião/n  de/i  Estado/n  para/i  ir/v</right>
+  </line>
+  <line refs="noticiasdealmeirim.pt" num="178" label="_">
+    <left>juntar/v  ao/i  elenco/n ,/x  desde/i  as/x  primeiras/j  chamadas/n  às/i  filmagens/n ?/x &lt;/s&gt;&lt;s&gt; Do/i  que/p  se/p  lembra/v ?/x &lt;/s&gt;&lt;s&gt; Fui/v  muito/r  bem/r  recebida/v ./x &lt;/s&gt;&lt;s&gt; De/i  facto/n ,/x  do/i  que/p  me/p</left>
+    <kwic> lembre/v</kwic>
+    <right>,/x  a/x  mais/r  especial/j  foi/v  essa/x  primeira/j  conversa/n  que/p  tive/v  com/i  o/x  Vin/n ./x &lt;/s&gt;&lt;s&gt; Ele/p  passou-me/v  a/x  paixão/n  pelo/i  projeto/n ,/x  que/p  é/v  muito/r  mais/r  do/i</right>
+  </line>
+  <line refs="abola.pt" num="179" label="_">
+    <left>argentino/n  um/x  traumatismo/n  na/i  anca/n  esquerda/j ,/x  lesão/n  que/p  o/p  afastou/v  do/i  treino/n  matinal/j  deste/i  sábado/n ,/x  na/i  Academia/n ./x &lt;/s&gt;&lt;s&gt; Acuña/n ,/x</left>
+    <kwic> lembre-se/v</kwic>
+    <right>,/x  é/v  ausência/n  confirmada/v  no/i  clássico/n  com/i  o/x  FC/n  Porto/n ,/x  na/i  próxima/j  quarta-feira/n ,/x  no/i  Estádio/n  do/i  Dragão/n ,/x  por/i  ter/v  visto/v  o/x  nono/j</right>
+  </line>
+  <line refs="aeiou.pt" num="180" label="_">
+    <left>tão/r  boa/j  como/c  a/p  publica/v ,/x  e/c ,/x  os/x  palermas/n  serão/v  sempre/r  palermas/j ;/x  seja/v  no/i  ensino/n  publico/v  ou/c  no/i  privado/n !/x &lt;/s&gt;&lt;s&gt; Eu/p  andei/v  num/i  colégio/n  e/c</left>
+    <kwic> lembro-me/v</kwic>
+    <right> que/c  eu/p  pagava/v  cerca/r  de/i  30/m  e/c  tal/x  contos/n  (/x que/p  depois/r  passou/v  a/x  euros/n )/x  ./x &lt;/s&gt;&lt;s&gt; E/c  depois/r  mesmo/r  numa/i  residencia/v  de/i  estudantes/n  do/i  estado/n</right>
+  </line>
+  <line refs="portalfixe.pt" num="181" label="_">
+    <left>são/v  suficientes/j ./x  kkkkkk/n &lt;/s&gt;&lt;s&gt; 244/m ./x -/x  CORAÃAO/n  **/x ,/x ,/x **/x  ./x  ./x  */x  */x  */x  */x  */x  ./x  ./x  &quot;/x */x &quot;/x  Mando/n  -/x te/p  este/x  coraÃ/n §/x ao/i  cheio/j  de/i  carinho/n  e/c  ternura/n  para/i  te/p</left>
+    <kwic> lembrar/v</kwic>
+    <right> que/c  nao/r  me/p  esqueÃ/n §/x o/x  de/i  ti/n ./x  beijinho/n  de/i  boa/j  tarde/n &lt;/s&gt;&lt;s&gt; SMS/n  enviada/v  por/i  Eliete/n  em/i  2010-06-24/m &lt;/s&gt;&lt;s&gt; 246/m ./x -/x  Xofri/n  1/m  Axidente/n  Sofri/v  um/x</right>
+  </line>
+  <line refs="spsuicidologia.pt" num="182" label="_">
+    <left>pois/c  o/x  Black/n  Latte/n  me/p  ajudou/v  a/i  perder/v  quase/r  trinta/m  quilos/n ./x &lt;/s&gt;&lt;s&gt; Me/p  sinto/v  disposta/v ,/x  feliz/j ,/x  com/i  auto/n  estima/v  lá/r  em/i  cima/n ./x &lt;/s&gt;&lt;s&gt; Eu/p  nem/c</left>
+    <kwic> lembro/v</kwic>
+    <right> que/c  existem/v  doces/j  e/c  até/r  quando/r  vou/v  a/x  restaurantes/n  e/c  vejo/v  outras/x  pessoas/n  comendo/v  esses/x  pratos/n ,/x  eu/p  não/r  sinto/v  vontade/n  de/i</right>
+  </line>
+  <line refs="jornaldenegocios.pt" num="183" label="_">
+    <left>a/x  APA/n  é/v  que/c  sabe/v &quot;/x ,/x  rematou/v ./x &lt;/s&gt;&lt;s&gt; E/c  sobre/i  a/x  sugestão/n  da/i  deputada/n  de/i  localizar/v  o/x  aeroporo/n  em/i  Beja/n  ou/c  Alverca/n ,/x  Pedro/v  Nuno/n  Santos/j</left>
+    <kwic> lembrou/v</kwic>
+    <right> que/c  essas/x  possibilidades/n  já/r  foram/v  propostas/n  anteriormente/j ./x &lt;/s&gt;&lt;s&gt; No/i  caso/n  de/i  Alverca/n ,/x  referiu/v ,/x  o/x  &quot;/x canal/n  de/i  aterragem/n &quot;/x</right>
+  </line>
+  <line refs="scielo.pt" num="184" label="_">
+    <left>com/i  o/x  facto/n  do/i  Gama/n  não/r  se/p  ter/v  afirmado/v  na/i  vida/n  académica/j  como/c  teria/v  merecido/v  e/c  a/x  Universidade/n  também/r ./x &lt;/s&gt;&lt;s&gt; Por/i  isso/p ,/x  quero/v</left>
+    <kwic> lembrá-lo/v</kwic>
+    <right> já/r  e/c  espero/v  que/c  outros/p  o/p  façam/v  reiteradamente/r :/x  geógrafos/n  e/c  colegas/n  de/i  outros/x  saberes/n ,/x  sucessivas/j  gerações/n  dos/i  seus/x</right>
+  </line>
+  <line refs="upp.pt" num="185" label="_">
+    <left>sei/v  que/c  mais/r .../x  Depois/r ,/x  em/i  Peso/n  da/i  Régua/n ,/x  cerca/r  dos/i  10/11/m  anos/n ,/x  depois/r  em/i  Vila/n  do/i  Conde/n  já/r  apanhei/v  a/x  fase/n  do/i  liceu/n ,/x  ainda/r  me/p</left>
+    <kwic> lembro/v</kwic>
+    <right> de/i  haver/v  turmas/n  e/c  recreios/n  separados/v  para/i  rapazes/n  e/c  raparigas/n ,/x  aquela/x  fase/n  da/i  brilhantina/n ,/x  das/i  calças/n  apertadinhas/j ,/x  à/i</right>
+  </line>
+  <line refs="superprof.pt" num="186" label="_">
+    <left>,/x  poderá/v  desistir/v  sem/i  compromisso/n ./x &lt;/s&gt;&lt;s&gt; Estou/v  pronto/j  para/i  aportar/v  aquilo/p  que/p  sei/v ,/x  o/p  que/p  não/r  souber/v  buscamos/v  juntos/j  mas/c</left>
+    <kwic> lembre-se/v</kwic>
+    <right> que/p  buscar/v  com/i  alguém/p  já/r  com/i  um/x  percurso/n  é/v  diferente/j  do/i  que/p  sozinho/j ./x &lt;/s&gt;&lt;s&gt; Se/p  dói/v ,/x  não/r  pense/v  nisso/i ,/x  é/v  o/x  seu/x  lema/n  que/p  dá/v  uma/x  dica/n</right>
+  </line>
+  <line refs="visitbaiao.pt" num="187" label="_">
+    <left>Edilberto/n  Silva/n ./x  –/x  Retorno/n  dos/i  cultos/n  em/i  Goiás/n  e/c  Santa/n  Catarina/j  e/c  na/i  cidade/n  de/i  Cuiabá/n ./x  –/x  ADs/n  mobilizadas/v  em/i  ações/n  .../x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Lembro-me/v</kwic>
+    <right> da/i  ordem/n  meticulosa/j  em/i  que/p  andava/v  tudo/p  quanto/p  era/v  de/i  meu/x  Pai/n !/x  [/x .../x ]/x  sobre/i  a/x  alta/j  mesa/n  de/i  trabalho/n  viviam/v  na/i  mesma/p  ordem/n  o/x</right>
+  </line>
+  <line refs="sapo.pt" num="188" label="_">
+    <left>./x &lt;/s&gt;&lt;s&gt; Não/r  há/v  ninguém/p  antes/r  dele/i ,/x  no/i  espaço/n  europeu/j ,/x  que/c  tenha/v  produzido/v  uma/x  obra/n  tão/r  extensa/j  e/c ,/x  ao/i  mesmo/p  tempo/n ,/x  tão/r  diversa/j ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Lembremos/v</kwic>
+    <right> que/c  ele/p  é/v  simultaneamente/r  autor/n  de/i  textos/n  tão/r  diferentes/j  como/c  &quot;/x Breve/r  Sumário/j  da/i  História/n  de/i  Deus/n &quot;/x ,/x  &quot;/x Auto/n  da/i  Índia/n &quot;/x  ou/c  &quot;/x</right>
+  </line>
+  <line refs="sapo.pt" num="189" label="_">
+    <left>sombra/n &quot;/x ,/x  lembra/v  a/x  tutora/n ./x &lt;/s&gt;&lt;s&gt; &quot;/x Dei/v  o/x  último/j  beijo/n ,/x  toquei/v  em/i  sua/x  barriguinha/n  cor/n  de/i  rosa/n ,/x  no/i  seu/x  lindo/j  pelo/n  caramelo/j .../x &quot;/x ,/x</left>
+    <kwic> lembra/v</kwic>
+    <right>./x &lt;/s&gt;&lt;s&gt; Antes/r  disso/i ,/x  no/i  período/n  da/i  doença/n ,/x  a/x  assistente/n  social/j  sentiu/v  que/c  precisava/v  fazer/v  alguma/x  coisa/n  por/i  sua/x  companheira/n ./x &lt;/s&gt;</right>
+  </line>
+  <line refs="sapo.pt" num="190" label="_">
+    <left>com/i  o/x  yo-yo/n  hoje/r  em/i  dia/n ?/x &lt;/s&gt;&lt;s&gt; Ia/v  sofrer/v  bullying/n  até/i  mais/r  não/r ./x &lt;/s&gt;&lt;s&gt; Pager/n &lt;/s&gt;&lt;s&gt; Houve/v  um/x  tempo/n  em/i  que/p  não/r  havia/v  telemóveis/n ,/x  não/r  sei/v  se/c  se/p</left>
+    <kwic> lembram/v</kwic>
+    <right>./x &lt;/s&gt;&lt;s&gt; Alguns/p  provavelmente/r  não/r ./x &lt;/s&gt;&lt;s&gt; Um/x  tempo/n  em/i  que/p  havia/v  telefone/n  de/i  casa/n ,/x  cartas/n  e/c  cabines/n  de/i  rua/n ./x &lt;/s&gt;&lt;s&gt; Nessa/i  era/v ,/x  surgiu/v  um/x  pedaço/n</right>
+  </line>
+  <line refs="rea.pt" num="191" label="_">
+    <left>ou/c  ter/v  de/i  viver/v  essa/x  realidade/n ./x ./x  lembro-me/v  de/i  me/p  auto-arranhar/v  nas/i  mãos/n ,/x  preferia/v  a/x  minha/x  destruição/n  a/i  essa/x  sina/n ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>lembro-me/v</kwic>
+    <right> de/i  ter/v  falta/n  de/i  ar/n ,/x  de/i  suar/v  e/c  de/i  ter/v  o/x  coração/n  completamente/r  descontrolado/v ,/x  lembro-me/v  das/i  enormes/j  dores/n  de/i  barriga/n  e/c</right>
+  </line>
+  <line refs="tsf.pt" num="192" label="_">
+    <left>completar/v  a/x  sua/x  coleção/n ./x &lt;/s&gt;&lt;s&gt; &quot;/x Governo/n  e/c  TAP/n  têm/v  instrumentos/n  para/i  tentar/v  ultrapassar/v  providência/n  cautelar/j &quot;/x &lt;/s&gt;&lt;s&gt; Líder/n  do/i  PSD/n</left>
+    <kwic> lembra/v</kwic>
+    <right> que/c  a/x  providência/n  cautelar/j  &quot;/x tem/v  um/x  efeito/n  suspensivo/j  que/p  pode/v  durar/v  poucos/x  dias/n &quot;/x ./x &lt;/s&gt;&lt;s&gt; &quot;/x O/x  Governo/n  e/c  a/x  TAP/n  têm/v  instrumentos/n</right>
+  </line>
+  <line refs="avante.pt" num="193" label="_">
+    <left>de/i  trabalho/n  necessárias/j  ao/i  bom/j  desempenho/n  das/i  nossas/x  funções/n &quot;/x ./x &lt;/s&gt;&lt;s&gt; A/x  dirigente/n  do/i  Sindicato/n  dos/i  Enfermeiros/n  Portugueses/j</left>
+    <kwic> lembrou/v</kwic>
+    <right> os/x  sete_mil/m  enfermeiros/n  com/i  contratos/n  precários/j  e/c  os/x  mais/r  de/i  cinco_mil/m  no/i  desemprego/n ,/x  embora/c  faltem/v  cerca/r  de/i  20_mil/m ,/x</right>
+  </line>
+  <line refs="co.pt" num="194" label="_">
+    <left>os/x  parabéns/n  a/i  Manuela/n  Ferreira/n  Leite/n ,/x  a/x  quem/p  entregará/v  o/x  Relatório/n  de/i  Gestão/n ,/x  nos/i  próximos/j  dias/n ./x &lt;/s&gt;&lt;s&gt; Os/x  tempos/n  que/p  aí/r  vêm/v ,/x</left>
+    <kwic> lembra/v</kwic>
+    <right>,/x  &quot;/x serão/v  de/i  afirmação/n  para/i  a/x  líder/n &quot;/x  e/c  espera/v  que/c  &quot;/x os/x  Pachecos/n  desta/i  vida/n  não/r  lhe/p  façam/v  tão/r  mal/r  como/c  fizeram/v  a/x  outros/p &quot;/x ./x &lt;/s&gt;&lt;s&gt; Meta/n</right>
+  </line>
+  <line refs="anossavida.pt" num="195" label="_">
+    <left>o/x  terceiro/j  ainda/r  menos/r ,/x  a/i  partir/v  do/i  quarto/j ,/x  quinto/j ,/x  sexto/j ,/x  etc/n ,/x  vais/v  conseguir/v  refazer/v  a/x  tua/x  vida/n  e/c  só/r  ocasionalmente/r  te/p</left>
+    <kwic> lembrarás/v</kwic>
+    <right> dele/i ./x &lt;/s&gt;&lt;s&gt; Infelizmente/r  és/v  o/x  tipo/n  de/i  mulher/n  que/p  só/r  pensa/v  nas/i  suas/x  actividades/n  e/c  carreira/n  e/c  no/i  sexo/n  não/r  o/p  deixavas/v  fazer/v  o/p  que/p  ele/p</right>
+  </line>
+  <line refs="demaeparamae.pt" num="196" label="_">
+    <left>sossegada/v ./x &lt;/s&gt;&lt;s&gt; Alguma/x  de/i  vocês/p  continuou/v  a/i  medir/v  a/x  temperatura/n  basal/j  durante/i  a/x  gravidez/n ?/x &lt;/s&gt;&lt;s&gt; Eu/p  quase/r  todas/x  as/x  manhãs/n  ainda/r  me/p</left>
+    <kwic> lembro/v</kwic>
+    <right> de/i  medir/v ./x &lt;/s&gt;&lt;s&gt; Desde/i  que/p  engravidei/v  tenho/v  sempre/r  36.9/m  oC/n ,/x  mas/c  nos/i  últimos/j  dois/m  dias/n  baixou/v  para/i  36.8/m  e/c  hoje/r  para/i  36.7/m .../x  Pelo/n</right>
+  </line>
+  <line refs="correiodominho.pt" num="197" label="_">
+    <left>trazem/v  para/i  as/x  nossas/x  vidas/n  as/x  alfaces/n ,/x  os/x  brócolos/n  e/c  a/x  fruta/n  tão/r  colorida/v ./x &lt;/s&gt;&lt;s&gt; Três/m  lanços/n  de/i  escadas/n  são/v  fulcrais/j  para/i  nos/p</left>
+    <kwic> lembrar/v</kwic>
+    <right> do/i  running/n  perdido/v ,/x  das/i  horas/n  de/i  ginásio/n  gastas/j  e/c  não/r  aproveitadas/v  e/c  de/i  todos/x  os/x  trilhos/n  vistos/v  apenas/r  de/i  longe/r ./x &lt;/s&gt;&lt;s&gt; Aliás/r ,/x</right>
+  </line>
+  <line refs="monstersgame.com.pt" num="198" label="_">
+    <left>de/i  tudo/p  gaste/v  a/x  maior/j  quantidade/n  de/i  ouro/n  possível/j ,/x  seja/v  com/i  treinos/n ,/x  guarda/n ,/x  esconderijo/n ,/x  equipamentos/n  ou/c  poções/n ./x &lt;/s&gt;&lt;s&gt;</left>
+    <kwic>Lembre-se/v</kwic>
+    <right> que/c  deixar/v  ouro/n  guardado/v  pode/v  custar/v  muita/x  dor/n  de/i  cabeça/n  depois/r ./x &lt;/s&gt;&lt;s&gt; Depois/r  de/i  gastar/v  o/x  ouro/n ,/x  mande/v  seu/x  personagem/n</right>
+  </line>
+  <line refs="sapo.pt" num="199" label="_">
+    <left>sempre/r ,/x  pelo/v  menos/r ,/x  deixar/v  boas/j  recordações/n ./x &lt;/s&gt;&lt;s&gt; Bj/n  da/i  Jo/n &lt;/s&gt;&lt;s&gt; Eu/p  passei/v  por/i  muito/p ,/x  mas/c  já/r  passou/v  e/c  não/r  guardo/v  rancor/n .../x prefiro/v</left>
+    <kwic> lembrar/v</kwic>
+    <right> apenas/r  as/x  coisas/n  boas/j ./x &lt;/s&gt;&lt;s&gt; Tenho/v  pena/n  que/p  tenhas/v  passado/v  coisas/n  más/j ,/x  tão/r  más/j  que/p  não/r  possas/v  lembrar/v  as/x  boas/j  também/r ..../x e/c</right>
+  </line>
+</concordance>
+</export>
