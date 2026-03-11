@@ -28,13 +28,15 @@ Semantic_Frame_Parser/
 
 ## Task Definition
 
-This project aims at being an experiment at predicting **frames and their core frame elements (FEs)** in European Portuguese sentences. For these experimental purposes, it focuses on three frames:
+This project aims at being an experiment at predicting **frames and their core frame elements (FEs)** in European Portuguese sentences. For these experimental purposes, it focuses on three frames extracted from **FrameNet Brasil**:
 
 - `Avisar` (Warning)
 - `Lembrar_Experiência` (Remembering Experience)
 - `Transferir` (Transfer)
 
 The model performs **token-level classification** using the BIO tagging scheme for the FEs. A small set of NoFrame sentences is included to represent negative cases.
+
+
 
 ---
 
